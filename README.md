@@ -43,7 +43,7 @@ The company-wide attrition rate was **19.1%**, but that average hides the real s
 Total replacement cost for the year reached **£7.79M**, with Sales & Commercial alone accounting for **£2.60M (33%)**. The top three departments represented **68%** of all replacement cost — meaning retention investment aimed at a handful of teams would recover most of the value.
 
 **3. Early-tenure and junior staff leave fastest.**
-Employees in their earliest tenure band showed the highest exit rate *(confirm exact % from the Tenure Band chart before publishing)*, and analyst-level attrition was the highest of any job level. This reframes the problem from "retain everyone" to "fix the first year, especially in customer-facing roles."
+Attrition is steepest in the first six months (29.4%), easing to 20.6% at 7–12 months, the earliest-tenure staff are the highest exit risk, and analyst-level attrition was the highest of any job level. This reframes the problem from "retain everyone" to "fix the first six months, especially in customer-facing roles."
 
 **4. Engagement predicts exits and the flag is usefully sharp.**
 Leavers scored markedly lower on engagement (**3.0** vs **3.5** for stayers). A flight-risk flag I built captured this: employees flagged high-risk left at a **36.4% rate — nearly double the 19.1% company average**, making it a practical early-warning signal for managers.
