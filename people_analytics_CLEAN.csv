@@ -1,0 +1,1201 @@
+employee_id,department,job_level,location,gender,ethnicity,hire_date,tenure_months,performance_score,engagement_score,absence_days_ytd,left_company,exit_reason,exit_date,dq_missing_exit_date,tenure_band,salary_proxy,replacement_cost_est,flight_risk_score,high_risk_employee,hire_year
+EMP01683,Technology,Manager,London,Male,White,2022-08-30,28.0,4.0,3.9,14.0,1,Compensation,2022-12-16,0,25-36m,68000,40800.0,1.06,0,2022.0
+EMP01746,People & Culture,Senior Analyst,London,Male,White,2023-04-01,21.0,2.7,1.0,10.0,0,,,0,13-24m,52000,31200.0,3.32,1,2023.0
+EMP01735,Sales & Commercial,Manager,London,Male,White,2021-10-29,38.0,2.6,3.4,0.0,1,Better opportunity,2022-01-20,0,37-60m,68000,40800.0,1.92,0,2021.0
+EMP01326,Customer Success,Analyst,London,Male,Black / African / Caribbean,2023-12-31,12.0,2.2,2.3,6.0,1,Better opportunity,2024-03-23,0,7-12m,38000,22800.0,2.74,1,2023.0
+EMP01731,Technology,Senior Analyst,Amsterdam,Male,White,2022-04-30,32.0,3.9,2.8,11.0,0,,,0,25-36m,52000,31200.0,1.76,0,2022.0
+EMP02033,Sales & Commercial,Senior Manager,Dublin,Female,Asian / Asian British,2020-05-29,55.0,3.7,3.4,9.0,0,,,0,37-60m,88000,52800.0,1.48,0,2020.0
+EMP01246,Legal & Compliance,Analyst,London,Female,Black / African / Caribbean,2023-12-01,13.0,2.3,1.8,16.0,0,,,0,13-24m,38000,22800.0,3.0,1,2023.0
+EMP01117,Customer Success,Senior Analyst,London,Male,White,2023-08-31,16.0,2.4,5.0,10.0,0,,,0,13-24m,52000,31200.0,1.04,0,2023.0
+EMP01379,Customer Success,Manager,London,Male,White,2022-05-31,31.0,3.4,5.0,7.0,0,,,0,25-36m,68000,40800.0,0.64,0,2022.0
+EMP01237,Sales & Commercial,Senior Analyst,Lagos,Female,Not disclosed,2023-06-01,19.0,3.2,4.4,4.0,0,,,0,13-24m,52000,31200.0,1.08,0,2023.0
+EMP01837,Legal & Compliance,Analyst,London,Male,Black / African / Caribbean,2023-10-31,14.0,4.3,3.3,8.0,0,,,0,13-24m,38000,22800.0,1.3,0,2023.0
+EMP01413,Marketing,Senior Analyst,Dublin,Female,White,2022-05-31,31.0,3.3,3.8,5.0,0,,,0,25-36m,52000,31200.0,1.4,0,2022.0
+EMP01495,Operations,Senior Analyst,London,Male,Asian / Asian British,2023-08-01,17.0,2.7,4.9,9.0,0,,,0,13-24m,52000,31200.0,0.98,0,2023.0
+EMP01997,Legal & Compliance,Senior Analyst,Amsterdam,Female,White,2023-01-30,23.0,3.3,5.0,4.0,0,,,0,13-24m,52000,31200.0,0.68,0,2023.0
+EMP02158,People & Culture,Analyst,Manchester,Female,White,2024-05-01,8.0,3.7,2.8,0.0,0,,,0,7-12m,38000,22800.0,1.84,0,2024.0
+EMP01705,Technology,Manager,London,Female,White,2022-01-29,35.0,3.8,2.6,4.0,0,,,0,25-36m,68000,40800.0,1.92,0,2022.0
+EMP02040,Sales & Commercial,Analyst,Lagos,Female,Black / African / Caribbean,2024-03-01,10.0,3.1,3.2,6.0,0,,,0,7-12m,38000,22800.0,1.84,0,2024.0
+EMP01296,Operations,Manager,Manchester,Female,Not disclosed,2022-05-31,31.0,3.8,4.0,2.0,0,,,0,25-36m,68000,40800.0,1.08,0,2022.0
+EMP01144,Sales & Commercial,Manager,Manchester,Male,White,2022-11-30,25.0,3.0,2.1,9.0,1,Career growth,2024-09-23,0,25-36m,68000,40800.0,2.54,1,2022.0
+EMP01161,Sales & Commercial,Senior Manager,Dublin,Male,White,2020-12-28,48.0,3.5,3.9,9.0,0,,,0,37-60m,88000,52800.0,1.26,0,2020.0
+EMP01704,Technology,Analyst,London,Female,White,2024-08-01,5.0,2.8,2.7,14.0,0,,,0,0-6m,38000,22800.0,2.26,1,2024.0
+EMP02176,Operations,Analyst,London,Female,Not disclosed,2024-12-01,1.0,3.0,3.6,13.0,0,,,0,0-6m,38000,22800.0,1.64,0,2024.0
+EMP01402,Legal & Compliance,Senior Analyst,Amsterdam,Female,Other / prefer not to say,2022-10-30,26.0,3.1,3.3,4.0,0,,,0,25-36m,52000,31200.0,1.78,0,2022.0
+EMP01669,Technology,Analyst,London,Female,Asian / Asian British,2024-12-01,1.0,3.3,4.6,10.0,0,,,0,0-6m,38000,22800.0,0.92,0,2024.0
+EMP01351,Operations,Director,London,Male,White,2018-12-27,72.0,4.3,5.0,0.0,0,,,0,60m+,118000,70800.0,0.28,0,2018.0
+EMP02096,Technology,Analyst,London,Female,White,2023-12-31,12.0,2.3,4.0,13.0,0,,,0,7-12m,38000,22800.0,1.68,0,2023.0
+EMP01612,Customer Success,Manager,London,Female,White,2022-06-30,30.0,3.4,3.2,1.0,0,,,0,25-36m,68000,40800.0,1.72,0,2022.0
+EMP01155,Marketing,Senior Analyst,London,Male,White,2023-10-31,14.0,3.1,3.1,7.0,0,,,0,13-24m,52000,31200.0,1.9,0,2023.0
+EMP01344,Operations,Analyst,London,Male,Asian / Asian British,2023-12-01,13.0,3.2,3.3,17.0,0,,,0,13-24m,38000,22800.0,1.74,0,2023.0
+EMP01781,Finance,Analyst,London,Male,White,2023-07-01,18.0,4.1,4.7,7.0,0,,,0,13-24m,38000,22800.0,0.54,0,2023.0
+EMP01998,Technology,Senior Manager,Amsterdam,Male,Other / prefer not to say,2020-07-29,53.0,2.8,3.8,0.0,0,,,0,37-60m,88000,52800.0,1.6,0,2020.0
+EMP01872,Sales & Commercial,Senior Analyst,London,Non-binary / prefer not to say,White,2022-05-31,31.0,4.5,4.8,11.0,0,,,0,25-36m,52000,31200.0,0.32,0,2022.0
+EMP01785,Technology,Analyst,Manchester,Female,White,2023-08-01,17.0,3.8,2.8,8.0,0,,,0,13-24m,38000,22800.0,1.8,0,2023.0
+EMP01301,Technology,Senior Analyst,Manchester,Male,White,2022-07-31,29.0,3.2,2.8,6.0,0,,,0,25-36m,52000,31200.0,2.04,1,2022.0
+EMP01894,Sales & Commercial,Senior Analyst,Manchester,Female,Black / African / Caribbean,2023-04-01,21.0,3.4,2.9,1.0,1,Career growth,2024-06-16,0,13-24m,52000,31200.0,1.9,0,2023.0
+EMP01940,Operations,Senior Manager,Dublin,Male,Not disclosed,2020-06-28,54.0,4.1,4.8,8.0,0,,,0,37-60m,88000,52800.0,0.48,0,2020.0
+EMP01226,Sales & Commercial,Director,Lagos,Male,White,2018-02-25,82.0,3.1,1.8,6.0,0,,,0,60m+,118000,70800.0,2.68,1,2018.0
+EMP01173,Operations,Senior Manager,London,Male,White,2019-12-28,60.0,3.0,3.8,6.0,0,,,0,37-60m,88000,52800.0,1.52,0,2019.0
+EMP01408,Technology,Senior Manager,London,Male,White,2021-01-28,47.0,3.6,2.8,3.0,0,,,0,37-60m,88000,52800.0,1.88,0,2021.0
+EMP01482,Finance,Director,Amsterdam,Male,White,2018-09-27,75.0,3.9,4.2,4.0,0,,,0,60m+,118000,70800.0,0.92,0,2018.0
+EMP01582,Marketing,Senior Manager,London,Female,White,2020-05-29,55.0,3.4,3.1,8.0,1,Relocation,,1,37-60m,88000,52800.0,1.78,0,2020.0
+EMP01352,People & Culture,Manager,Dublin,Female,White,2022-11-30,25.0,4.2,2.0,12.0,0,,,0,25-36m,68000,40800.0,2.12,1,2022.0
+EMP01955,Operations,Analyst,London,Male,Mixed / Multiple ethnic groups,2022-12-30,24.0,2.1,3.9,14.0,1,Career growth,2023-06-22,0,13-24m,38000,22800.0,1.82,0,2022.0
+EMP01502,Operations,Senior Analyst,Dublin,Male,White,2023-06-01,19.0,2.4,1.3,6.0,1,Work-life balance,2023-12-15,0,13-24m,52000,31200.0,3.26,1,2023.0
+EMP01064,Sales & Commercial,Senior Analyst,Manchester,Not disclosed,White,2024-04-01,9.0,3.4,3.4,7.0,0,,,0,7-12m,52000,31200.0,1.6,0,2024.0
+EMP01961,Technology,Manager,Dublin,Female,Asian / Asian British,2021-09-29,39.0,2.6,2.9,5.0,0,,,0,37-60m,68000,40800.0,2.22,1,2021.0
+EMP01293,Customer Success,Analyst,London,Female,Asian / Asian British,2022-02-28,34.0,3.5,2.2,6.0,1,Work-life balance,2023-02-23,0,25-36m,38000,22800.0,2.28,1,2022.0
+EMP01089,People & Culture,Analyst,Manchester,Male,White,2024-03-01,10.0,3.3,2.7,15.0,0,,,0,7-12m,38000,22800.0,2.06,1,2024.0
+EMP01658,Sales & Commercial,Senior Analyst,London,Male,White,2024-12-01,1.0,3.5,3.3,8.0,0,,,0,0-6m,52000,31200.0,1.62,0,2024.0
+EMP01339,Operations,Analyst,Lagos,Male,Black / African / Caribbean,2024-12-01,1.0,2.8,4.4,1.0,0,,,0,0-6m,38000,22800.0,1.24,0,2024.0
+EMP01916,Operations,Analyst,Dublin,Male,White,2022-09-30,27.0,3.4,3.5,13.0,0,,,0,25-36m,38000,22800.0,1.54,0,2022.0
+EMP01416,Operations,Manager,Dublin,Male,Black / African / Caribbean,2022-03-31,33.0,4.4,1.6,7.0,0,,,0,25-36m,68000,40800.0,2.28,1,2022.0
+EMP01842,Finance,Senior Analyst,London,Female,Asian / Asian British,2023-07-01,18.0,2.5,3.2,5.0,0,,,0,13-24m,52000,31200.0,2.08,1,2023.0
+EMP01833,Technology,Senior Analyst,London,Male,White,2023-03-01,22.0,1.8,3.6,6.0,1,Career growth,2024-09-23,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP01215,Customer Success,Senior Analyst,London,Male,White,2023-10-31,14.0,3.3,2.8,4.0,0,,,0,13-24m,52000,31200.0,2.0,0,2023.0
+EMP01899,Technology,Manager,London,Male,Other / prefer not to say,2022-08-30,28.0,3.8,4.9,17.0,0,,,0,25-36m,68000,40800.0,0.54,0,2022.0
+EMP01668,Technology,Analyst,Lagos,Male,Not disclosed,2023-10-01,15.0,4.3,4.3,4.0,0,,,0,13-24m,38000,22800.0,0.7,0,2023.0
+EMP01404,Customer Success,Senior Analyst,Lagos,Male,Black / African / Caribbean,2023-03-01,22.0,3.4,3.3,9.0,0,,,0,13-24m,52000,31200.0,1.66,0,2023.0
+EMP01672,People & Culture,Analyst,Manchester,Non-binary / prefer not to say,White,2023-12-31,12.0,3.4,3.6,5.0,0,,,0,7-12m,38000,22800.0,1.48,0,2023.0
+EMP01983,Technology,Analyst,London,Female,Black / African / Caribbean,2023-10-01,15.0,3.8,3.5,13.0,1,Compensation,2024-09-15,0,13-24m,38000,22800.0,1.38,0,2023.0
+EMP02119,Sales & Commercial,Senior Analyst,London,Male,White,2022-12-30,24.0,4.0,2.7,2.0,1,Relocation,2023-07-01,0,13-24m,52000,31200.0,1.78,0,2022.0
+EMP01513,Legal & Compliance,Manager,Dublin,Male,Mixed / Multiple ethnic groups,2021-03-30,45.0,4.0,3.3,18.0,0,,,0,37-60m,68000,40800.0,1.42,0,2021.0
+EMP01771,Technology,Analyst,Dublin,Male,Other / prefer not to say,2023-12-01,13.0,1.5,2.0,5.0,1,Compensation,2024-10-30,0,13-24m,38000,22800.0,3.2,1,2023.0
+EMP01054,People & Culture,Analyst,London,Male,White,2024-05-01,8.0,2.7,1.7,18.0,0,,,0,7-12m,38000,22800.0,2.9,1,2024.0
+EMP02023,Legal & Compliance,Analyst,Dublin,Male,Black / African / Caribbean,2024-03-01,10.0,2.4,3.1,5.0,0,,,0,7-12m,38000,22800.0,2.18,1,2024.0
+EMP01939,Technology,Analyst,Manchester,Male,White,2021-12-29,36.0,3.4,2.6,12.0,0,,,0,25-36m,38000,22800.0,2.08,1,2021.0
+EMP01018,Operations,Manager,London,Female,Asian / Asian British,2021-12-29,36.0,2.5,3.3,4.0,0,,,0,25-36m,68000,40800.0,2.02,1,2021.0
+EMP01168,Technology,Senior Manager,London,Not disclosed,Black / African / Caribbean,2019-12-28,60.0,3.1,3.5,9.0,0,,,0,37-60m,88000,52800.0,1.66,0,2019.0
+EMP01714,Operations,Senior Analyst,London,Female,Black / African / Caribbean,2023-06-01,19.0,4.6,3.8,9.0,0,,,0,13-24m,52000,31200.0,0.88,0,2023.0
+EMP01953,Technology,Manager,Amsterdam,Male,White,2022-06-30,30.0,3.6,4.0,8.0,0,,,0,25-36m,68000,40800.0,1.16,0,2022.0
+EMP01561,Customer Success,Senior Analyst,London,Female,Black / African / Caribbean,2024-06-01,7.0,4.0,3.5,13.0,0,,,0,7-12m,52000,31200.0,1.3,0,2024.0
+EMP01776,Technology,Director,London,Female,White,2021-02-27,46.0,3.7,1.9,10.0,0,,,0,37-60m,118000,70800.0,2.38,1,2021.0
+EMP01657,Sales & Commercial,Manager,Manchester,Non-binary / prefer not to say,White,2023-03-01,22.0,2.9,3.0,10.0,1,Better opportunity,2023-09-18,0,13-24m,68000,40800.0,2.04,1,2023.0
+EMP01108,Customer Success,Senior Manager,London,Male,White,2021-01-28,47.0,4.2,3.7,7.0,0,,,0,37-60m,88000,52800.0,1.1,0,2021.0
+EMP01628,Customer Success,Director,Manchester,Female,White,2019-03-29,69.0,4.7,5.0,6.0,0,,,0,60m+,118000,70800.0,0.12,0,2019.0
+EMP01836,Operations,Senior Analyst,London,Male,White,2022-08-30,28.0,3.5,3.7,3.0,0,,,0,25-36m,52000,31200.0,1.38,0,2022.0
+EMP01649,Customer Success,Senior Manager,London,Female,White,2020-12-28,48.0,3.4,3.3,7.0,0,,,0,37-60m,88000,52800.0,1.66,0,2020.0
+EMP01841,Technology,Senior Manager,London,Female,White,2020-10-28,50.0,2.0,4.2,0.0,0,,,0,37-60m,88000,52800.0,1.68,0,2020.0
+EMP01921,People & Culture,Senior Manager,Manchester,Female,White,2020-08-28,52.0,3.6,4.3,7.0,0,,,0,37-60m,88000,52800.0,0.98,0,2020.0
+EMP01519,Marketing,Director,London,Male,White,2019-10-28,62.0,3.5,4.9,13.0,0,,,0,60m+,118000,70800.0,0.66,0,2019.0
+EMP01632,People & Culture,Manager,London,Female,White,2022-10-30,26.0,4.5,3.4,10.0,0,,,0,25-36m,68000,40800.0,1.16,0,2022.0
+EMP01003,Customer Success,Analyst,London,Male,Not disclosed,2023-10-31,14.0,4.3,2.4,7.0,0,,,0,13-24m,38000,22800.0,1.84,0,2023.0
+EMP01373,Technology,Manager,Amsterdam,Male,White,2021-08-29,40.0,2.1,1.5,8.0,1,Work-life balance,2023-05-20,0,37-60m,68000,40800.0,3.26,1,2021.0
+EMP01043,Technology,Manager,Dublin,Male,White,2023-12-31,12.0,3.8,3.9,8.0,1,Better opportunity,2024-04-21,0,7-12m,68000,40800.0,1.14,0,2023.0
+EMP02024,Marketing,Analyst,London,Female,Asian / Asian British,2024-12-01,1.0,1.9,3.2,12.0,1,Relocation,2025-01-31,0,0-6m,38000,22800.0,2.32,1,2024.0
+EMP01087,Customer Success,Analyst,Manchester,Female,White,2023-07-01,18.0,3.0,3.1,11.0,1,Compensation,2024-04-02,0,13-24m,38000,22800.0,1.94,0,2023.0
+EMP01647,Operations,Analyst,London,Male,White,2023-07-01,18.0,3.3,3.5,14.0,0,,,0,13-24m,38000,22800.0,1.58,0,2023.0
+EMP01854,People & Culture,Director,London,Female,White,2019-08-28,64.0,3.4,2.9,7.0,0,,,0,60m+,118000,70800.0,1.9,0,2019.0
+EMP01214,Sales & Commercial,Analyst,Dublin,Female,Black / African / Caribbean,2023-03-01,22.0,2.9,3.1,11.0,1,Better opportunity,2023-08-12,0,13-24m,38000,22800.0,1.98,0,2023.0
+EMP02094,Operations,Senior Analyst,Amsterdam,Female,White,2024-08-01,5.0,3.6,3.5,11.0,1,Career growth,2024-11-25,0,0-6m,52000,31200.0,1.46,0,2024.0
+EMP01429,Sales & Commercial,Analyst,London,Female,White,2023-10-31,14.0,3.4,2.1,7.0,1,Work-life balance,2024-11-19,0,13-24m,38000,22800.0,2.38,1,2023.0
+EMP01798,Operations,Analyst,Amsterdam,Male,Black / African / Caribbean,2024-03-01,10.0,4.3,2.5,13.0,0,,,0,7-12m,38000,22800.0,1.78,0,2024.0
+EMP01880,Sales & Commercial,Manager,Dublin,Female,White,2020-07-29,53.0,2.5,4.7,19.0,0,,,0,37-60m,68000,40800.0,1.18,0,2020.0
+EMP01066,Operations,Analyst,London,Male,Black / African / Caribbean,2024-12-01,1.0,2.2,4.5,11.0,0,,,0,0-6m,38000,22800.0,1.42,0,2024.0
+EMP01777,Sales & Commercial,Analyst,Dublin,Male,Black / African / Caribbean,2024-04-01,9.0,4.1,1.9,6.0,1,Compensation,2024-12-09,0,7-12m,38000,22800.0,2.22,1,2024.0
+EMP01267,Finance,Director,London,Not disclosed,White,2018-04-27,80.0,3.5,4.2,11.0,0,,,0,60m+,118000,70800.0,1.08,0,2018.0
+EMP01698,Operations,Analyst,London,Male,Mixed / Multiple ethnic groups,2024-12-01,1.0,3.4,3.4,12.0,0,,,0,0-6m,38000,22800.0,1.6,0,2024.0
+EMP01654,Customer Success,Senior Manager,London,Female,White,2020-06-28,54.0,3.7,4.2,5.0,0,,,0,37-60m,88000,52800.0,1.0,0,2020.0
+EMP01703,Sales & Commercial,Manager,Amsterdam,Female,White,2021-06-29,42.0,3.0,3.5,15.0,1,Career growth,2024-01-09,0,37-60m,68000,40800.0,1.7,0,2021.0
+EMP01437,Technology,Senior Analyst,Lagos,Non-binary / prefer not to say,Black / African / Caribbean,2023-10-31,14.0,2.7,3.7,9.0,0,,,0,13-24m,52000,31200.0,1.7,0,2023.0
+EMP01713,Operations,Director,Dublin,Male,Asian / Asian British,2018-05-28,79.0,3.0,3.5,13.0,0,,,0,60m+,118000,70800.0,1.7,0,2018.0
+EMP01982,Customer Success,Analyst,London,Male,White,2023-10-01,15.0,3.25,4.7,0.0,0,,,0,13-24m,38000,22800.0,0.88,0,2023.0
+EMP01759,People & Culture,Manager,Amsterdam,Female,White,2022-05-31,31.0,3.8,3.3,8.0,0,,,0,25-36m,68000,40800.0,1.5,0,2022.0
+EMP01981,Sales & Commercial,Senior Analyst,London,Female,Black / African / Caribbean,2022-06-30,30.0,2.8,4.3,2.0,0,,,0,25-36m,52000,31200.0,1.3,0,2022.0
+EMP01639,Sales & Commercial,Senior Manager,London,Female,White,2021-07-30,41.0,3.4,4.1,16.0,0,,,0,37-60m,88000,52800.0,1.18,0,2021.0
+EMP01254,Sales & Commercial,Senior Analyst,London,Female,White,2021-10-29,38.0,2.8,2.5,5.0,1,Better opportunity,2022-03-26,0,37-60m,52000,31200.0,2.38,1,2021.0
+EMP01130,Operations,Senior Analyst,Lagos,Female,Mixed / Multiple ethnic groups,2023-12-01,13.0,3.8,3.3,7.0,1,Work-life balance,2024-11-04,0,13-24m,52000,31200.0,1.5,0,2023.0
+EMP01779,Customer Success,Senior Manager,Amsterdam,Male,Mixed / Multiple ethnic groups,2020-05-29,55.0,4.4,2.2,7.0,0,,,0,37-60m,88000,52800.0,1.92,0,2020.0
+EMP01588,Technology,Manager,Manchester,Female,Other / prefer not to say,2021-07-30,41.0,3.7,4.5,6.0,0,,,0,37-60m,68000,40800.0,0.82,0,2021.0
+EMP02015,Customer Success,Manager,Dublin,Male,White,2022-04-30,32.0,2.2,4.4,7.0,0,,,0,25-36m,68000,40800.0,1.48,0,2022.0
+EMP01125,Sales & Commercial,Director,Amsterdam,Male,White,2018-04-27,80.0,3.8,4.5,2.0,0,,,0,60m+,118000,70800.0,0.78,0,2018.0
+EMP01308,Sales & Commercial,Senior Analyst,London,Not disclosed,White,2022-11-30,25.0,3.6,3.3,7.0,0,,,0,25-36m,52000,31200.0,1.58,0,2022.0
+EMP01208,Finance,Senior Manager,London,Male,Asian / Asian British,2021-09-29,39.0,4.3,3.4,4.0,0,,,0,37-60m,88000,52800.0,1.24,0,2021.0
+EMP01358,Operations,Senior Analyst,Amsterdam,Not disclosed,Not disclosed,2023-10-31,14.0,3.1,3.3,9.0,0,,,0,13-24m,52000,31200.0,1.78,0,2023.0
+EMP01822,Technology,Senior Analyst,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2022-08-30,28.0,3.6,4.0,4.0,0,,,0,25-36m,52000,31200.0,1.16,0,2022.0
+EMP01620,Customer Success,Senior Analyst,Dublin,Male,Not disclosed,2022-11-30,25.0,4.1,2.6,0.0,0,,,0,25-36m,52000,31200.0,1.8,0,2022.0
+EMP01987,Finance,Senior Manager,London,Male,White,2020-01-28,59.0,4.8,2.1,15.0,0,,,0,37-60m,88000,52800.0,1.82,0,2020.0
+EMP01702,Technology,Analyst,Dublin,Female,White,2024-05-01,8.0,2.6,3.9,0.0,0,,,0,7-12m,38000,22800.0,1.62,0,2024.0
+EMP01978,Technology,Manager,London,Male,White,2020-06-28,54.0,2.9,3.5,6.0,0,,,0,37-60m,68000,40800.0,1.74,0,2020.0
+EMP01235,Technology,Analyst,Dublin,Male,White,2024-10-31,2.0,3.9,4.2,6.0,0,,,0,0-6m,38000,22800.0,0.92,0,2024.0
+EMP01533,Marketing,Senior Analyst,London,Female,White,2022-03-31,33.0,2.5,3.4,11.0,0,,,0,25-36m,52000,31200.0,1.96,0,2022.0
+EMP01734,Operations,Manager,Manchester,Female,Asian / Asian British,2022-01-29,35.0,2.9,2.7,0.0,1,Better opportunity,2024-08-27,0,25-36m,68000,40800.0,2.22,1,2022.0
+EMP01258,Finance,Manager,Amsterdam,Female,White,2020-01-28,59.0,4.4,3.9,8.0,0,,,0,37-60m,68000,40800.0,0.9,0,2020.0
+EMP01147,Finance,Senior Analyst,London,Female,Black / African / Caribbean,2023-10-01,15.0,2.4,2.9,4.0,0,,,0,13-24m,52000,31200.0,2.3,1,2023.0
+EMP01655,Operations,Senior Manager,Dublin,Male,Black / African / Caribbean,2019-05-29,67.0,4.6,2.1,16.0,0,,,0,60m+,88000,52800.0,1.9,0,2019.0
+EMP01390,Customer Success,Manager,Lagos,Female,White,2022-05-31,31.0,3.5,4.2,10.0,0,,,0,25-36m,68000,40800.0,1.08,0,2022.0
+EMP01145,Sales & Commercial,Manager,London,Male,Asian / Asian British,2023-03-01,22.0,2.6,4.3,5.0,0,,,0,13-24m,68000,40800.0,1.38,0,2023.0
+EMP01496,Sales & Commercial,Analyst,Amsterdam,Male,White,2023-08-31,16.0,4.2,3.0,10.0,0,,,0,13-24m,38000,22800.0,1.52,0,2023.0
+EMP01026,Customer Success,Manager,Amsterdam,Not disclosed,White,2020-12-28,48.0,3.9,3.9,5.0,0,,,0,37-60m,68000,40800.0,1.1,0,2020.0
+EMP01154,Operations,Manager,Lagos,Female,Black / African / Caribbean,2022-05-31,31.0,3.3,2.0,10.0,0,,,0,25-36m,68000,40800.0,2.48,1,2022.0
+EMP01523,Marketing,Senior Analyst,Amsterdam,Female,White,2023-12-01,13.0,2.2,4.0,8.0,0,,,0,13-24m,52000,31200.0,1.72,0,2023.0
+EMP01431,Technology,Manager,Manchester,Female,Black / African / Caribbean,2022-01-29,35.0,3.1,4.7,14.0,0,,,0,25-36m,68000,40800.0,0.94,0,2022.0
+EMP01580,Sales & Commercial,Senior Manager,Lagos,Male,White,2019-06-28,66.0,4.2,3.4,7.0,0,,,0,60m+,88000,52800.0,1.28,0,2019.0
+EMP01707,Sales & Commercial,Director,Dublin,Male,White,2018-09-27,75.0,3.4,2.8,10.0,0,,,0,60m+,118000,70800.0,1.96,0,2018.0
+EMP01616,Legal & Compliance,Director,London,Female,White,2020-11-28,49.0,3.1,3.4,3.0,0,,,0,37-60m,118000,70800.0,1.72,0,2020.0
+EMP01977,Operations,Analyst,Dublin,Male,Black / African / Caribbean,2024-08-31,4.0,2.5,2.8,15.0,0,,,0,0-6m,38000,22800.0,2.32,1,2024.0
+EMP01334,Technology,Analyst,Lagos,Male,White,2024-04-01,9.0,3.2,3.8,17.0,0,,,0,7-12m,38000,22800.0,1.44,0,2024.0
+EMP01992,Finance,Senior Manager,Amsterdam,Male,Black / African / Caribbean,2021-01-28,47.0,3.1,4.3,6.0,0,,,0,37-60m,88000,52800.0,1.18,0,2021.0
+EMP01993,Sales & Commercial,Manager,Amsterdam,Female,Not disclosed,2022-05-31,31.0,2.1,3.2,2.0,0,,,0,25-36m,68000,40800.0,2.24,1,2022.0
+EMP01288,Operations,Manager,London,Female,Not disclosed,2021-09-29,39.0,4.5,4.6,13.0,0,,,0,37-60m,68000,40800.0,0.44,0,2021.0
+EMP01589,Technology,Analyst,Dublin,Female,White,2023-10-31,14.0,2.9,2.6,12.0,0,,,0,13-24m,38000,22800.0,2.28,1,2023.0
+EMP02111,Customer Success,Senior Analyst,London,Male,White,2024-06-01,7.0,3.6,3.2,9.0,0,,,0,7-12m,52000,31200.0,1.64,0,2024.0
+EMP01949,People & Culture,Senior Analyst,London,Female,Other / prefer not to say,2023-12-31,12.0,3.4,2.6,12.0,0,,,0,7-12m,52000,31200.0,2.08,1,2023.0
+EMP01726,People & Culture,Analyst,Manchester,Non-binary / prefer not to say,White,2024-04-01,9.0,4.2,2.8,11.0,0,,,0,7-12m,38000,22800.0,1.64,0,2024.0
+EMP01102,Finance,Director,Dublin,Female,White,2018-06-27,78.0,3.1,4.8,2.0,0,,,0,60m+,118000,70800.0,0.88,0,2018.0
+EMP01479,Marketing,Analyst,Manchester,Female,Mixed / Multiple ethnic groups,2023-12-01,13.0,3.4,3.9,6.0,0,,,0,13-24m,38000,22800.0,1.3,0,2023.0
+EMP01681,Customer Success,Manager,Dublin,Male,Asian / Asian British,2022-08-30,28.0,2.6,4.3,15.0,0,,,0,25-36m,68000,40800.0,1.38,0,2022.0
+EMP01302,Operations,Senior Analyst,Lagos,Male,White,2022-09-30,27.0,1.6,2.7,11.0,1,Career growth,2024-07-12,0,25-36m,52000,31200.0,2.74,1,2022.0
+EMP01611,Technology,Manager,Manchester,Male,Black / African / Caribbean,2023-07-01,18.0,2.3,5.0,7.5,0,,,0,13-24m,68000,40800.0,1.08,0,2023.0
+EMP01581,Operations,Analyst,London,Male,White,2024-10-01,3.0,2.6,2.6,5.0,0,,,0,0-6m,38000,22800.0,2.4,1,2024.0
+EMP01924,Customer Success,Senior Analyst,Manchester,Female,White,2023-12-01,13.0,4.5,1.8,9.0,0,,,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP01516,Technology,Director,Dublin,Male,White,2020-04-28,56.0,3.4,3.5,5.0,0,,,0,37-60m,118000,70800.0,1.54,0,2020.0
+EMP02160,Technology,Analyst,Manchester,Non-binary / prefer not to say,Asian / Asian British,2023-06-01,19.0,3.3,3.3,8.0,0,,,0,13-24m,38000,22800.0,1.7,0,2023.0
+EMP02194,Finance,Analyst,Manchester,Male,White,2024-10-01,3.0,1.7,2.8,11.0,1,Career growth,2024-12-22,0,0-6m,38000,22800.0,2.64,1,2024.0
+EMP01273,People & Culture,Senior Manager,Dublin,Male,White,2019-11-28,61.0,2.8,3.4,4.0,0,,,0,60m+,88000,52800.0,1.84,0,2019.0
+EMP01897,Sales & Commercial,Senior Analyst,Manchester,Female,White,2023-12-01,13.0,3.2,3.2,9.0,0,,,0,13-24m,52000,31200.0,1.8,0,2023.0
+EMP02008,People & Culture,Senior Manager,Lagos,Male,Other / prefer not to say,2020-06-28,54.0,2.7,3.1,11.0,1,Compensation,2024-10-03,0,37-60m,88000,52800.0,2.06,1,2020.0
+EMP01305,Customer Success,Senior Analyst,Dublin,Female,White,2021-05-30,43.0,2.9,3.6,5.0,0,,,0,37-60m,52000,31200.0,1.68,0,2021.0
+EMP01320,Sales & Commercial,Senior Manager,London,Female,White,2020-03-29,57.0,3.3,3.0,11.0,0,,,0,37-60m,88000,52800.0,1.88,0,2020.0
+EMP01686,Operations,Senior Analyst,Dublin,Female,Other / prefer not to say,2024-10-31,2.0,5.0,3.5,13.0,0,,,0,0-6m,52000,31200.0,0.9,0,2024.0
+EMP01778,Customer Success,Senior Analyst,Amsterdam,Female,Other / prefer not to say,2023-05-01,20.0,3.1,3.7,10.0,0,,,0,13-24m,52000,31200.0,1.54,0,2023.0
+EMP01049,Operations,Senior Manager,London,Female,Asian / Asian British,2020-04-28,56.0,2.9,3.3,8.0,0,,,0,37-60m,88000,52800.0,1.86,0,2020.0
+EMP01194,Finance,Senior Analyst,Manchester,Female,Black / African / Caribbean,2023-08-31,16.0,2.8,2.6,7.0,1,Management,2024-02-17,0,13-24m,52000,31200.0,2.32,1,2023.0
+EMP01475,Operations,Manager,Dublin,Female,Not disclosed,2021-01-28,47.0,3.4,3.3,5.0,0,,,0,37-60m,68000,40800.0,1.66,0,2021.0
+EMP01945,Technology,Senior Analyst,Manchester,Male,White,2023-01-30,23.0,3.7,3.4,5.0,0,,,0,13-24m,52000,31200.0,1.48,0,2023.0
+EMP01477,Technology,Analyst,Manchester,Male,White,2024-12-01,1.0,2.8,3.8,0.0,1,Compensation,2025-01-30,0,0-6m,38000,22800.0,1.6,0,2024.0
+EMP02162,Technology,Senior Analyst,Amsterdam,Non-binary / prefer not to say,Other / prefer not to say,2024-07-01,6.0,4.1,2.3,0.0,0,,,0,0-6m,52000,31200.0,1.98,0,2024.0
+EMP02109,Finance,Analyst,Amsterdam,Female,White,2023-10-01,15.0,3.6,2.7,8.0,0,,,0,13-24m,38000,22800.0,1.94,0,2023.0
+EMP01530,People & Culture,Manager,London,Male,White,2022-08-30,28.0,2.6,4.6,13.0,0,,,0,25-36m,68000,40800.0,1.2,0,2022.0
+EMP01626,Sales & Commercial,Senior Analyst,London,Female,White,2023-12-31,12.0,4.1,1.7,2.0,0,,,0,7-12m,52000,31200.0,2.34,1,2023.0
+EMP02075,Marketing,Director,Amsterdam,Male,White,2020-12-28,48.0,4.8,5.0,10.0,0,,,0,37-60m,118000,70800.0,0.08,0,2020.0
+EMP01398,Operations,Analyst,Manchester,Male,White,2023-12-31,12.0,3.2,3.3,9.0,1,Work-life balance,2024-08-28,0,7-12m,38000,22800.0,1.74,0,2023.0
+EMP01467,Sales & Commercial,Analyst,Manchester,Male,White,2024-10-01,3.0,3.7,4.7,0.0,0,,,0,0-6m,38000,22800.0,0.7,0,2024.0
+EMP01031,Finance,Senior Manager,Manchester,Female,Asian / Asian British,2019-12-28,60.0,3.6,2.0,4.0,0,,,0,37-60m,88000,52800.0,2.36,1,2019.0
+EMP01004,Operations,Senior Analyst,London,Male,White,2022-05-31,31.0,3.6,2.8,14.0,0,,,0,25-36m,52000,31200.0,1.88,0,2022.0
+EMP01178,Sales & Commercial,Senior Analyst,Manchester,Female,White,2023-12-01,13.0,2.8,2.5,14.0,0,,,0,13-24m,52000,31200.0,2.38,1,2023.0
+EMP01803,Operations,Senior Manager,London,Male,White,2020-08-28,52.0,4.0,5.0,9.0,0,,,0,37-60m,88000,52800.0,0.4,0,2020.0
+EMP01137,Operations,Analyst,Dublin,Female,Mixed / Multiple ethnic groups,2023-12-01,13.0,3.7,2.5,7.0,1,Compensation,,1,13-24m,38000,22800.0,2.02,1,2023.0
+EMP02174,Sales & Commercial,Senior Analyst,Lagos,Female,Asian / Asian British,2023-07-01,18.0,3.0,3.4,0.0,0,,,0,13-24m,52000,31200.0,1.76,0,2023.0
+EMP01730,Technology,Analyst,Amsterdam,Female,White,2023-07-01,18.0,2.7,3.5,6.0,0,,,0,13-24m,38000,22800.0,1.82,0,2023.0
+EMP02079,Technology,Manager,Manchester,Female,White,2021-01-28,47.0,3.7,2.3,14.0,1,Work-life balance,2023-06-24,0,37-60m,68000,40800.0,2.14,1,2021.0
+EMP02132,Operations,Analyst,Dublin,Male,White,2024-12-01,1.0,3.2,3.3,6.0,1,Better opportunity,2025-01-30,0,0-6m,38000,22800.0,1.74,0,2024.0
+EMP01489,Marketing,Manager,Amsterdam,Female,White,2020-07-29,53.0,2.7,4.7,8.0,0,,,0,37-60m,68000,40800.0,1.1,0,2020.0
+EMP01078,Technology,Director,Dublin,Male,Black / African / Caribbean,2019-05-29,67.0,3.1,3.6,13.0,0,,,0,60m+,118000,70800.0,1.6,0,2019.0
+EMP01023,Sales & Commercial,Senior Analyst,Dublin,Male,White,2023-08-31,16.0,3.7,5.0,7.0,0,,,0,13-24m,52000,31200.0,0.52,0,2023.0
+EMP01566,Operations,Senior Analyst,Dublin,Male,Other / prefer not to say,2022-07-31,29.0,4.1,4.1,2.0,1,Better opportunity,2023-06-27,0,25-36m,52000,31200.0,0.9,0,2022.0
+EMP01850,Operations,Analyst,Manchester,Female,Black / African / Caribbean,2023-03-01,22.0,3.1,3.3,6.0,0,,,0,13-24m,38000,22800.0,1.78,0,2023.0
+EMP01687,Operations,Analyst,London,Female,White,2024-07-01,6.0,2.1,1.6,9.0,1,Work-life balance,2024-12-18,0,0-6m,38000,22800.0,3.2,1,2024.0
+EMP02030,Customer Success,Analyst,Manchester,Female,White,2023-08-01,17.0,3.3,2.1,5.0,0,,,0,13-24m,38000,22800.0,2.42,1,2023.0
+EMP01468,People & Culture,Director,Dublin,Non-binary / prefer not to say,White,2018-03-28,81.0,2.7,4.5,4.0,0,,,0,60m+,118000,70800.0,1.22,0,2018.0
+EMP01601,Technology,Director,Dublin,Female,White,2018-10-27,74.0,4.8,4.3,8.0,0,,,0,60m+,118000,70800.0,0.5,0,2018.0
+EMP01871,Sales & Commercial,Manager,London,Female,Asian / Asian British,2022-03-31,33.0,3.4,2.8,0.0,1,Better opportunity,2023-03-31,0,25-36m,68000,40800.0,1.96,0,2022.0
+EMP01255,Technology,Analyst,Dublin,Female,White,2024-04-01,9.0,3.4,4.9,1.0,0,,,0,7-12m,38000,22800.0,0.7,0,2024.0
+EMP02145,Sales & Commercial,Director,Amsterdam,Male,Other / prefer not to say,2020-05-29,55.0,4.3,3.4,9.0,1,Compensation,2020-09-09,0,37-60m,118000,70800.0,1.24,0,2020.0
+EMP01397,People & Culture,Analyst,London,Male,Asian / Asian British,2023-12-01,13.0,4.1,4.3,6.0,0,,,0,13-24m,38000,22800.0,0.78,0,2023.0
+EMP02031,Technology,Manager,Manchester,Male,Other / prefer not to say,2022-10-30,26.0,3.8,3.9,15.0,0,,,0,25-36m,68000,40800.0,1.14,0,2022.0
+EMP01571,Operations,Senior Analyst,London,Male,White,2022-06-30,30.0,3.6,2.9,0.0,0,,,0,25-36m,52000,31200.0,1.82,0,2022.0
+EMP01141,Marketing,Analyst,Dublin,Female,White,2024-12-01,1.0,3.2,2.0,10.0,1,Better opportunity,2025-01-31,0,0-6m,38000,22800.0,2.52,1,2024.0
+EMP01848,Marketing,Manager,London,Female,Asian / Asian British,2021-12-29,36.0,3.4,4.4,6.0,0,,,0,25-36m,68000,40800.0,1.0,0,2021.0
+EMP01567,Sales & Commercial,Manager,Dublin,Male,Black / African / Caribbean,2021-06-29,42.0,3.5,3.2,1.0,0,,,0,37-60m,68000,40800.0,1.68,0,2021.0
+EMP01234,Operations,Manager,London,Male,Black / African / Caribbean,2022-03-31,33.0,3.1,4.2,0.0,0,,,0,25-36m,68000,40800.0,1.24,0,2022.0
+EMP01343,Technology,Senior Analyst,London,Male,Black / African / Caribbean,2022-12-30,24.0,3.0,5.0,6.0,0,,,0,13-24m,52000,31200.0,0.8,0,2022.0
+EMP01492,Finance,Senior Analyst,Dublin,Male,White,2023-12-31,12.0,3.4,1.9,3.0,0,,,0,7-12m,52000,31200.0,2.5,1,2023.0
+EMP01881,Sales & Commercial,Analyst,Manchester,Male,White,2023-03-01,22.0,2.5,4.1,11.0,0,,,0,13-24m,38000,22800.0,1.54,0,2023.0
+EMP01354,Technology,Senior Manager,London,Male,Not disclosed,2018-07-28,77.0,3.2,3.2,12.0,0,,,0,60m+,88000,52800.0,1.8,0,2018.0
+EMP01387,Sales & Commercial,Manager,Lagos,Male,Black / African / Caribbean,2023-05-01,20.0,4.2,3.3,3.0,0,,,0,13-24m,68000,40800.0,1.34,0,2023.0
+EMP01224,Sales & Commercial,Analyst,Amsterdam,Not disclosed,Black / African / Caribbean,2024-12-01,1.0,3.4,5.0,0.0,0,,,0,0-6m,38000,22800.0,0.64,0,2024.0
+EMP02021,Finance,Manager,Dublin,Female,Asian / Asian British,2020-11-28,49.0,2.5,3.5,8.0,0,,,0,37-60m,68000,40800.0,1.9,0,2020.0
+EMP02042,Customer Success,Analyst,Manchester,Male,White,2024-10-01,3.0,3.9,3.3,4.0,0,,,0,0-6m,38000,22800.0,1.46,0,2024.0
+EMP02022,Sales & Commercial,Senior Analyst,Manchester,Female,White,2024-05-01,8.0,2.8,1.9,11.0,1,Compensation,2024-08-01,0,7-12m,52000,31200.0,2.74,1,2024.0
+EMP01019,Operations,Manager,London,Female,Mixed / Multiple ethnic groups,2021-01-28,47.0,3.6,1.9,13.0,0,,,0,37-60m,68000,40800.0,2.42,1,2021.0
+EMP01451,Customer Success,Analyst,Dublin,Female,White,2024-04-01,9.0,2.7,3.3,3.0,1,Career growth,2024-07-11,0,7-12m,38000,22800.0,1.94,0,2024.0
+EMP01656,Technology,Analyst,Lagos,Female,White,2024-12-01,1.0,2.9,3.6,6.0,1,Redundancy,2025-01-30,0,0-6m,38000,22800.0,1.68,0,2024.0
+EMP02012,Marketing,Senior Manager,London,Male,Other / prefer not to say,2021-09-29,39.0,4.3,4.6,10.0,0,,,0,37-60m,88000,52800.0,0.52,0,2021.0
+EMP01501,Finance,Director,London,Female,Asian / Asian British,2019-11-28,61.0,2.7,2.8,15.0,0,,,0,60m+,118000,70800.0,2.24,1,2019.0
+EMP01526,Operations,Analyst,Amsterdam,Female,White,2024-08-31,4.0,3.8,4.1,16.0,0,,,0,0-6m,38000,22800.0,1.02,0,2024.0
+EMP01270,Sales & Commercial,Manager,London,Male,White,2022-05-31,31.0,2.7,2.9,8.0,1,Better opportunity,2024-01-30,0,25-36m,68000,40800.0,2.18,1,2022.0
+EMP01768,People & Culture,Senior Analyst,London,Male,Black / African / Caribbean,2021-11-29,37.0,2.7,3.0,5.0,0,,,0,37-60m,52000,31200.0,2.12,1,2021.0
+EMP02083,Operations,Senior Analyst,London,Non-binary / prefer not to say,Not disclosed,2024-12-01,1.0,3.1,4.0,13.0,0,,,0,0-6m,52000,31200.0,1.36,0,2024.0
+EMP01531,Customer Success,Senior Analyst,Manchester,Male,White,2022-12-30,24.0,3.2,2.9,8.0,0,,,0,13-24m,52000,31200.0,1.98,0,2022.0
+EMP01572,Customer Success,Manager,London,Non-binary / prefer not to say,White,2021-07-30,41.0,2.5,3.5,8.0,0,,,0,37-60m,68000,40800.0,1.9,0,2021.0
+EMP01690,Technology,Director,London,Female,Not disclosed,2019-12-28,60.0,3.8,2.2,0.0,1,Better opportunity,2021-01-04,0,37-60m,118000,70800.0,2.16,1,2019.0
+EMP01263,Technology,Analyst,London,Male,White,2024-08-01,5.0,1.2,2.0,0.0,1,Better opportunity,2024-11-27,0,0-6m,38000,22800.0,3.32,1,2024.0
+EMP01820,Sales & Commercial,Manager,Dublin,Male,White,2021-08-29,40.0,3.0,3.8,5.0,0,,,0,37-60m,68000,40800.0,1.52,0,2021.0
+EMP01629,Technology,Manager,Dublin,Male,Black / African / Caribbean,2022-01-29,35.0,3.3,4.1,15.0,0,,,0,25-36m,68000,40800.0,1.22,0,2022.0
+EMP01100,Technology,Manager,London,Not disclosed,Mixed / Multiple ethnic groups,2022-12-30,24.0,3.2,4.1,1.0,0,,,0,13-24m,68000,40800.0,1.26,0,2022.0
+EMP01225,Sales & Commercial,Director,London,Male,Mixed / Multiple ethnic groups,2019-02-26,70.0,3.6,3.6,5.0,0,,,0,60m+,118000,70800.0,1.4,0,2019.0
+EMP01806,Customer Success,Manager,Amsterdam,Female,Black / African / Caribbean,2022-04-30,32.0,3.7,4.9,4.0,0,,,0,25-36m,68000,40800.0,0.58,0,2022.0
+EMP01958,Technology,Senior Analyst,London,Female,White,2023-05-01,20.0,3.2,2.9,4.0,0,,,0,13-24m,52000,31200.0,1.98,0,2023.0
+EMP01114,Customer Success,Senior Manager,Manchester,Female,White,2020-01-28,59.0,3.3,4.1,9.0,0,,,0,37-60m,88000,52800.0,1.22,0,2020.0
+EMP01721,Legal & Compliance,Manager,London,Female,Asian / Asian British,2020-07-29,53.0,3.0,3.4,7.0,0,,,0,37-60m,68000,40800.0,1.76,0,2020.0
+EMP01543,Sales & Commercial,Manager,London,Male,White,2022-05-31,31.0,2.2,5.0,9.0,0,,,0,25-36m,68000,40800.0,1.12,0,2022.0
+EMP02001,Technology,Director,London,Male,White,2018-02-25,82.0,3.9,3.4,14.0,0,,,0,60m+,118000,70800.0,1.4,0,2018.0
+EMP01103,Sales & Commercial,Analyst,Manchester,Male,White,2024-12-01,1.0,2.1,2.5,2.0,1,Career growth,2025-01-30,0,0-6m,38000,22800.0,2.66,1,2024.0
+EMP01971,Finance,Manager,London,Female,Black / African / Caribbean,2021-12-29,36.0,3.8,2.4,5.0,0,,,0,25-36m,68000,40800.0,2.04,1,2021.0
+EMP01617,Technology,Analyst,Dublin,Male,White,2024-12-01,1.0,3.4,3.1,8.0,1,Better opportunity,2025-01-31,0,0-6m,38000,22800.0,1.78,0,2024.0
+EMP01378,Technology,Manager,London,Female,White,2021-12-29,36.0,3.5,3.4,7.5,0,,,0,25-36m,68000,40800.0,1.56,0,2021.0
+EMP01764,Customer Success,Senior Analyst,Manchester,Female,White,2024-04-01,9.0,2.5,2.4,11.0,0,,,0,7-12m,52000,31200.0,2.56,1,2024.0
+EMP01867,Technology,Analyst,Manchester,Male,Black / African / Caribbean,2023-12-01,13.0,2.9,3.1,9.0,0,,,0,13-24m,38000,22800.0,1.98,0,2023.0
+EMP01318,Technology,Senior Manager,Lagos,Male,White,2020-08-28,52.0,4.3,4.3,14.0,0,,,0,37-60m,88000,52800.0,0.7,0,2020.0
+EMP02122,Marketing,Manager,Manchester,Male,Other / prefer not to say,2022-10-30,26.0,3.7,4.5,5.0,0,,,0,25-36m,68000,40800.0,0.82,0,2022.0
+EMP01438,Customer Success,Analyst,London,Female,Black / African / Caribbean,2024-12-01,1.0,2.8,2.9,6.0,1,Better opportunity,2025-01-30,0,0-6m,38000,22800.0,2.14,1,2024.0
+EMP01708,Customer Success,Senior Analyst,London,Not disclosed,White,2023-04-01,21.0,3.3,3.6,2.0,0,,,0,13-24m,52000,31200.0,1.52,0,2023.0
+EMP01743,Customer Success,Manager,Manchester,Female,Asian / Asian British,2022-02-28,34.0,4.2,2.2,1.0,0,,,0,25-36m,68000,40800.0,2.0,0,2022.0
+EMP01366,Sales & Commercial,Senior Analyst,Lagos,Female,Other / prefer not to say,2024-03-01,10.0,2.5,4.1,2.0,0,,,0,7-12m,52000,31200.0,1.54,0,2024.0
+EMP01370,Technology,Senior Analyst,Dublin,Male,Asian / Asian British,2022-09-30,27.0,2.3,3.9,12.0,1,Compensation,2023-03-12,0,25-36m,52000,31200.0,1.74,0,2022.0
+EMP01172,Technology,Analyst,Amsterdam,Female,Mixed / Multiple ethnic groups,2024-05-01,8.0,3.3,3.3,9.0,1,Better opportunity,2024-12-25,0,7-12m,38000,22800.0,1.7,0,2024.0
+EMP01790,Legal & Compliance,Manager,Dublin,Male,Black / African / Caribbean,2022-07-31,29.0,4.3,3.7,5.0,0,,,0,25-36m,68000,40800.0,1.06,0,2022.0
+EMP02180,Operations,Manager,Manchester,Male,White,2022-01-29,35.0,3.6,2.6,12.0,1,Work-life balance,2022-06-10,0,25-36m,68000,40800.0,2.0,0,2022.0
+EMP01058,Technology,Senior Analyst,Manchester,Female,Mixed / Multiple ethnic groups,2023-05-01,20.0,3.0,3.5,7.0,0,,,0,13-24m,52000,31200.0,1.7,0,2023.0
+EMP01051,Marketing,Manager,London,Female,Other / prefer not to say,2023-06-01,19.0,4.9,3.4,9.0,0,,,0,13-24m,68000,40800.0,1.0,0,2023.0
+EMP01153,Technology,Senior Analyst,Amsterdam,Not disclosed,White,2022-08-30,28.0,3.2,3.3,0.0,0,,,0,25-36m,52000,31200.0,1.74,0,2022.0
+EMP01272,Customer Success,Manager,London,Male,Asian / Asian British,2022-04-30,32.0,4.8,3.2,16.0,1,Better opportunity,2022-11-03,0,25-36m,68000,40800.0,1.16,0,2022.0
+EMP01132,Sales & Commercial,Manager,Amsterdam,Non-binary / prefer not to say,White,2023-03-01,22.0,5.0,3.8,15.0,0,,,0,13-24m,68000,40800.0,0.72,0,2023.0
+EMP01528,Sales & Commercial,Director,Lagos,Non-binary / prefer not to say,White,2017-04-26,92.0,3.8,3.4,5.0,0,,,0,60m+,118000,70800.0,1.44,0,2017.0
+EMP01017,Sales & Commercial,Analyst,London,Female,Mixed / Multiple ethnic groups,2024-10-01,3.0,1.9,2.5,10.0,1,Compensation,2024-12-23,0,0-6m,38000,22800.0,2.74,1,2024.0
+EMP01300,Technology,Senior Manager,Dublin,Female,White,2019-06-28,66.0,3.3,3.8,0.0,0,,,0,60m+,88000,52800.0,1.4,0,2019.0
+EMP01260,Technology,Manager,Dublin,Female,White,2021-06-29,42.0,2.7,4.4,8.0,0,,,0,37-60m,68000,40800.0,1.28,0,2021.0
+EMP01968,Sales & Commercial,Analyst,London,Male,White,2023-07-01,18.0,2.1,3.7,8.0,1,Better opportunity,2023-12-31,0,13-24m,38000,22800.0,1.94,0,2023.0
+EMP01737,Sales & Commercial,Analyst,Dublin,Female,White,2024-05-01,8.0,3.4,4.6,2.0,0,,,0,7-12m,38000,22800.0,0.88,0,2024.0
+EMP02017,Technology,Senior Manager,London,Female,White,2020-07-29,53.0,3.3,2.2,9.0,0,,,0,37-60m,88000,52800.0,2.36,1,2020.0
+EMP01159,Sales & Commercial,Analyst,London,Male,White,2024-10-01,3.0,3.6,3.6,0.0,1,Work-life balance,2024-12-25,0,0-6m,38000,22800.0,1.4,0,2024.0
+EMP01802,Technology,Analyst,Manchester,Female,White,2023-10-31,14.0,2.6,3.7,9.0,0,,,0,13-24m,38000,22800.0,1.74,0,2023.0
+EMP01021,Finance,Director,London,Female,White,2019-03-29,69.0,3.2,5.0,11.0,0,,,0,60m+,118000,70800.0,0.72,0,2019.0
+EMP01710,Finance,Analyst,Manchester,Female,White,2024-08-01,5.0,4.4,3.3,13.0,0,,,0,0-6m,38000,22800.0,1.26,0,2024.0
+EMP01406,People & Culture,Senior Analyst,Lagos,Male,White,2022-07-31,29.0,3.0,5.0,12.0,0,,,0,25-36m,52000,31200.0,0.8,0,2022.0
+EMP01384,People & Culture,Senior Analyst,Dublin,Male,Mixed / Multiple ethnic groups,2022-09-30,27.0,3.8,4.3,13.0,0,,,0,25-36m,52000,31200.0,0.9,0,2022.0
+EMP01696,Finance,Manager,Dublin,Male,White,2022-01-29,35.0,4.5,3.6,6.0,0,,,0,25-36m,68000,40800.0,1.04,0,2022.0
+EMP01295,Technology,Manager,Lagos,Female,White,2022-11-30,25.0,2.5,5.0,6.0,0,,,0,25-36m,68000,40800.0,1.0,0,2022.0
+EMP01829,Customer Success,Analyst,London,Male,White,2024-12-01,1.0,3.7,3.5,8.0,0,,,0,0-6m,38000,22800.0,1.42,0,2024.0
+EMP01815,People & Culture,Senior Analyst,London,Male,White,2021-06-29,42.0,2.6,3.7,7.0,0,,,0,37-60m,52000,31200.0,1.74,0,2021.0
+EMP01631,Customer Success,Director,London,Female,Black / African / Caribbean,2018-12-27,72.0,3.25,3.8,0.0,0,,,0,60m+,118000,70800.0,1.42,0,2018.0
+EMP01641,Technology,Senior Analyst,London,Female,White,2024-01-31,11.0,4.8,1.0,13.0,0,,,0,7-12m,52000,31200.0,2.48,1,2024.0
+EMP01682,Sales & Commercial,Senior Manager,Amsterdam,Female,White,2019-10-28,62.0,5.0,3.1,1.0,0,,,0,60m+,88000,52800.0,1.14,0,2019.0
+EMP01862,Operations,Senior Analyst,Manchester,Female,White,2022-11-30,25.0,2.9,4.7,9.0,0,,,0,25-36m,52000,31200.0,1.02,0,2022.0
+EMP01454,Legal & Compliance,Senior Analyst,Amsterdam,Female,White,2024-10-31,2.0,4.2,1.6,6.0,0,,,0,0-6m,52000,31200.0,2.36,1,2024.0
+EMP02171,Finance,Manager,London,Male,Asian / Asian British,2022-02-28,34.0,3.6,4.3,11.0,0,,,0,25-36m,68000,40800.0,0.98,0,2022.0
+EMP01793,Operations,Manager,Lagos,Female,White,2022-09-30,27.0,3.2,3.9,15.0,0,,,0,25-36m,68000,40800.0,1.38,0,2022.0
+EMP01421,Customer Success,Senior Analyst,Lagos,Male,White,2022-09-30,27.0,2.4,3.7,15.0,0,,,0,25-36m,52000,31200.0,1.82,0,2022.0
+EMP01306,Marketing,Senior Analyst,Amsterdam,Female,White,2023-10-01,15.0,3.3,3.8,9.0,1,Work-life balance,2024-03-07,0,13-24m,52000,31200.0,1.4,0,2023.0
+EMP01024,Sales & Commercial,Director,Manchester,Female,White,2018-10-27,74.0,4.3,3.7,8.0,0,,,0,60m+,118000,70800.0,1.06,0,2018.0
+EMP01660,Operations,Manager,Lagos,Male,Other / prefer not to say,2021-11-29,37.0,2.7,2.2,0.0,0,,,0,37-60m,68000,40800.0,2.6,1,2021.0
+EMP01189,Operations,Director,London,Male,Asian / Asian British,2017-08-26,88.0,3.6,4.2,4.0,0,,,0,60m+,118000,70800.0,1.04,0,2017.0
+EMP02020,Technology,Analyst,London,Female,White,2024-12-01,1.0,3.9,3.8,6.0,0,,,0,0-6m,38000,22800.0,1.16,0,2024.0
+EMP01505,Finance,Senior Analyst,Manchester,Male,White,2024-05-01,8.0,2.4,2.3,7.0,1,Career growth,2024-07-16,0,7-12m,52000,31200.0,2.66,1,2024.0
+EMP02144,Operations,Senior Analyst,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2023-12-31,12.0,4.2,3.8,7.0,0,,,0,7-12m,52000,31200.0,1.04,0,2023.0
+EMP02052,Operations,Senior Manager,Dublin,Female,Other / prefer not to say,2018-10-27,74.0,3.1,4.4,17.0,0,,,0,60m+,88000,52800.0,1.12,0,2018.0
+EMP01008,People & Culture,Senior Analyst,London,Male,Other / prefer not to say,2022-07-31,29.0,4.9,2.4,7.0,0,,,0,25-36m,52000,31200.0,1.6,0,2022.0
+EMP01855,Technology,Senior Manager,London,Female,White,2021-01-28,47.0,4.3,3.9,11.0,0,,,0,37-60m,88000,52800.0,0.94,0,2021.0
+EMP01890,Sales & Commercial,Senior Analyst,London,Female,Black / African / Caribbean,2024-08-31,4.0,4.6,3.4,0.0,0,,,0,0-6m,52000,31200.0,1.12,0,2024.0
+EMP01859,Operations,Manager,London,Male,Other / prefer not to say,2022-06-30,30.0,3.4,4.0,9.0,0,,,0,25-36m,68000,40800.0,1.24,0,2022.0
+EMP01216,Sales & Commercial,Director,London,Female,White,2020-02-27,58.0,3.4,4.1,13.0,1,Compensation,2020-11-02,0,37-60m,118000,70800.0,1.18,0,2020.0
+EMP01110,Technology,Senior Manager,Amsterdam,Non-binary / prefer not to say,White,2020-06-28,54.0,4.5,2.7,19.0,0,,,0,37-60m,88000,52800.0,1.58,0,2020.0
+EMP01220,People & Culture,Director,London,Male,Asian / Asian British,2017-12-26,84.0,3.1,3.1,20.0,0,,,0,60m+,118000,70800.0,1.9,0,2017.0
+EMP02071,Sales & Commercial,Analyst,London,Male,White,2024-06-01,7.0,3.6,1.9,5.0,0,,,0,7-12m,38000,22800.0,2.42,1,2024.0
+EMP01801,Customer Success,Analyst,Manchester,Male,White,2022-11-30,25.0,3.2,4.4,5.0,0,,,0,25-36m,38000,22800.0,1.08,0,2022.0
+EMP01204,People & Culture,Manager,London,Non-binary / prefer not to say,White,2021-07-30,41.0,2.7,3.8,8.0,0,,,0,37-60m,68000,40800.0,1.64,0,2021.0
+EMP01575,People & Culture,Manager,London,Female,White,2022-02-28,34.0,4.4,2.7,8.0,1,Better opportunity,2023-01-06,0,25-36m,68000,40800.0,1.62,0,2022.0
+EMP01409,Legal & Compliance,Analyst,Manchester,Female,Asian / Asian British,2024-07-01,6.0,2.5,3.1,4.0,0,,,0,0-6m,38000,22800.0,2.14,1,2024.0
+EMP01028,Operations,Analyst,Lagos,Female,White,2023-06-01,19.0,4.5,5.0,11.0,0,,,0,13-24m,38000,22800.0,0.2,0,2023.0
+EMP01231,Customer Success,Senior Analyst,Manchester,Male,White,2023-05-01,20.0,2.4,3.0,9.0,0,,,0,13-24m,52000,31200.0,2.24,1,2023.0
+EMP01597,Finance,Manager,London,Male,White,2021-08-29,40.0,3.5,2.4,15.0,0,,,0,37-60m,68000,40800.0,2.16,1,2021.0
+EMP01053,Legal & Compliance,Analyst,Manchester,Female,Asian / Asian British,2021-09-29,39.0,4.2,4.7,11.0,0,,,0,37-60m,38000,22800.0,0.5,0,2021.0
+EMP01426,Operations,Manager,Amsterdam,Female,White,2019-07-29,65.0,2.4,3.7,11.0,0,,,0,60m+,68000,40800.0,1.82,0,2019.0
+EMP01644,Sales & Commercial,Manager,London,Male,Other / prefer not to say,2021-05-30,43.0,4.3,4.8,0.0,0,,,0,37-60m,68000,40800.0,0.4,0,2021.0
+EMP02068,Technology,Manager,Dublin,Female,White,2022-07-31,29.0,3.8,3.5,10.0,0,,,0,25-36m,68000,40800.0,1.38,0,2022.0
+EMP01075,Customer Success,Senior Analyst,Manchester,Female,Not disclosed,2023-10-31,14.0,3.1,4.8,8.0,0,,,0,13-24m,52000,31200.0,0.88,0,2023.0
+EMP02029,Sales & Commercial,Analyst,Amsterdam,Female,White,2023-12-31,12.0,3.9,2.2,7.0,0,,,0,7-12m,38000,22800.0,2.12,1,2023.0
+EMP01047,Sales & Commercial,Analyst,London,Female,Other / prefer not to say,2024-12-01,1.0,3.3,3.9,7.0,0,,,0,0-6m,38000,22800.0,1.34,0,2024.0
+EMP01197,Customer Success,Senior Analyst,London,Female,White,2024-04-01,9.0,2.7,3.3,2.0,0,,,0,7-12m,52000,31200.0,1.94,0,2024.0
+EMP01537,People & Culture,Senior Analyst,Dublin,Female,White,2024-05-01,8.0,3.7,3.8,9.0,0,,,0,7-12m,52000,31200.0,1.24,0,2024.0
+EMP02076,Operations,Manager,Amsterdam,Female,White,2022-04-30,32.0,4.4,2.7,18.0,0,,,0,25-36m,68000,40800.0,1.62,0,2022.0
+EMP01127,Customer Success,Analyst,London,Male,White,2023-12-01,13.0,4.9,3.8,8.0,0,,,0,13-24m,38000,22800.0,0.76,0,2023.0
+EMP02065,Operations,Manager,London,Female,Black / African / Caribbean,2019-06-28,66.0,4.0,4.7,12.0,0,,,0,60m+,68000,40800.0,0.58,0,2019.0
+EMP01858,Operations,Senior Analyst,London,Male,Asian / Asian British,2021-11-29,37.0,3.8,3.5,13.0,0,,,0,37-60m,52000,31200.0,1.38,0,2021.0
+EMP01065,Sales & Commercial,Analyst,Manchester,Female,White,2023-08-31,16.0,3.4,5.0,17.0,0,,,0,13-24m,38000,22800.0,0.64,0,2023.0
+EMP01357,Technology,Manager,Manchester,Female,White,2021-12-29,36.0,4.5,3.6,8.0,0,,,0,25-36m,68000,40800.0,1.04,0,2021.0
+EMP02124,Customer Success,Senior Analyst,London,Not disclosed,Not disclosed,2024-08-31,4.0,2.1,2.0,5.0,0,,,0,0-6m,52000,31200.0,2.96,1,2024.0
+EMP01679,Marketing,Analyst,London,Male,Asian / Asian British,2024-07-01,6.0,3.6,2.9,8.0,0,,,0,0-6m,38000,22800.0,1.82,0,2024.0
+EMP01938,Legal & Compliance,Manager,Dublin,Female,White,2020-11-28,49.0,2.6,3.5,13.0,0,,,0,37-60m,68000,40800.0,1.86,0,2020.0
+EMP01875,Technology,Senior Manager,Amsterdam,Female,Not disclosed,2021-07-30,41.0,3.0,2.7,9.0,0,,,0,37-60m,88000,52800.0,2.18,1,2021.0
+EMP01972,Legal & Compliance,Analyst,Manchester,Female,Black / African / Caribbean,2024-08-01,5.0,2.8,3.1,1.0,0,,,0,0-6m,38000,22800.0,2.02,1,2024.0
+EMP02032,Operations,Analyst,Lagos,Male,White,2024-12-01,1.0,2.9,2.9,5.0,0,,,0,0-6m,38000,22800.0,2.1,1,2024.0
+EMP01361,Sales & Commercial,Senior Analyst,London,Female,Black / African / Caribbean,2024-05-01,8.0,3.7,3.4,9.0,0,,,0,7-12m,52000,31200.0,1.48,0,2024.0
+EMP02188,Technology,Manager,Dublin,Female,Mixed / Multiple ethnic groups,2022-11-30,25.0,4.0,1.8,8.0,0,,,0,25-36m,68000,40800.0,2.32,1,2022.0
+EMP01063,Customer Success,Senior Analyst,Manchester,Male,White,2023-05-01,20.0,3.9,3.3,13.0,0,,,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP01219,Finance,Senior Analyst,Amsterdam,Female,White,2022-12-30,24.0,4.6,5.0,0.0,0,,,0,13-24m,52000,31200.0,0.16,0,2022.0
+EMP01717,Customer Success,Senior Manager,Dublin,Female,Asian / Asian British,2020-03-29,57.0,4.4,2.8,7.0,0,,,0,37-60m,88000,52800.0,1.56,0,2020.0
+EMP02184,Legal & Compliance,Senior Analyst,Amsterdam,Male,White,2023-12-01,13.0,3.0,3.9,18.0,0,,,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP01954,Legal & Compliance,Senior Manager,Manchester,Female,Asian / Asian British,2021-09-29,39.0,3.0,3.8,6.0,0,,,0,37-60m,88000,52800.0,1.52,0,2021.0
+EMP01276,Operations,Manager,London,Male,White,2021-08-29,40.0,3.6,2.1,7.0,0,,,0,37-60m,68000,40800.0,2.3,1,2021.0
+EMP01909,Sales & Commercial,Analyst,London,Female,Black / African / Caribbean,2023-06-01,19.0,2.7,3.2,17.0,0,,,0,13-24m,38000,22800.0,2.0,0,2023.0
+EMP02140,Operations,Senior Analyst,London,Female,White,2022-12-30,24.0,2.6,3.7,0.0,0,,,0,13-24m,52000,31200.0,1.74,0,2022.0
+EMP01962,Finance,Manager,London,Not disclosed,Mixed / Multiple ethnic groups,2022-11-30,25.0,3.8,3.4,8.0,0,,,0,25-36m,68000,40800.0,1.44,0,2022.0
+EMP01991,Customer Success,Analyst,London,Female,White,2024-08-31,4.0,3.4,3.8,10.0,0,,,0,0-6m,38000,22800.0,1.36,0,2024.0
+EMP02099,Customer Success,Analyst,London,Male,Not disclosed,2024-04-01,9.0,2.1,3.3,7.0,1,Compensation,2024-10-10,0,7-12m,38000,22800.0,2.18,1,2024.0
+EMP01723,Technology,Manager,London,Female,Black / African / Caribbean,2021-03-30,45.0,3.1,4.0,14.0,0,,,0,37-60m,68000,40800.0,1.36,0,2021.0
+EMP01236,Customer Success,Analyst,Dublin,Male,White,2023-01-30,23.0,3.0,3.4,0.0,0,,,0,13-24m,38000,22800.0,1.76,0,2023.0
+EMP01913,Finance,Analyst,Dublin,Male,White,2023-06-01,19.0,4.8,3.0,7.0,0,,,0,13-24m,38000,22800.0,1.28,0,2023.0
+EMP01553,Operations,Analyst,Dublin,Female,White,2022-08-30,28.0,3.6,4.1,10.0,0,,,0,25-36m,38000,22800.0,1.1,0,2022.0
+EMP01579,Operations,Analyst,Dublin,Male,Asian / Asian British,2024-04-01,9.0,4.2,4.7,6.0,0,,,0,7-12m,38000,22800.0,0.5,0,2024.0
+EMP01825,Operations,Senior Analyst,London,Male,White,2023-03-01,22.0,3.5,1.0,15.0,0,,,0,13-24m,52000,31200.0,3.0,1,2023.0
+EMP01101,Technology,Analyst,Amsterdam,Female,White,2023-08-01,17.0,3.5,2.7,0.0,1,Better opportunity,2023-10-16,0,13-24m,38000,22800.0,1.98,0,2023.0
+EMP01473,Technology,Senior Manager,Amsterdam,Female,White,2018-07-28,77.0,4.0,4.1,7.0,0,,,0,60m+,88000,52800.0,0.94,0,2018.0
+EMP01183,Legal & Compliance,Director,Manchester,Male,Black / African / Caribbean,2020-01-28,59.0,3.6,2.3,2.0,0,,,0,37-60m,118000,70800.0,2.18,1,2020.0
+EMP01333,Technology,Manager,London,Female,White,2021-05-30,43.0,3.1,4.8,5.0,0,,,0,37-60m,68000,40800.0,0.88,0,2021.0
+EMP01670,Sales & Commercial,Manager,Dublin,Non-binary / prefer not to say,White,2022-04-30,32.0,3.5,4.0,0.0,0,,,0,25-36m,68000,40800.0,1.2,0,2022.0
+EMP02200,Technology,Manager,Dublin,Female,White,2022-08-30,28.0,3.4,3.2,10.0,0,,,0,25-36m,68000,40800.0,1.72,0,2022.0
+EMP01969,Operations,Manager,London,Male,White,2022-01-29,35.0,4.2,5.0,6.0,0,,,0,25-36m,68000,40800.0,0.32,0,2022.0
+EMP01917,Sales & Commercial,Senior Analyst,Manchester,Female,White,2021-12-29,36.0,5.0,4.0,12.0,0,,,0,25-36m,52000,31200.0,0.6,0,2021.0
+EMP01882,Finance,Analyst,London,Male,White,2023-12-31,12.0,1.6,3.2,8.0,0,,,0,7-12m,38000,22800.0,2.44,1,2023.0
+EMP01259,Operations,Analyst,London,Male,White,2024-12-01,1.0,3.9,3.9,4.0,0,,,0,0-6m,38000,22800.0,1.1,0,2024.0
+EMP01139,Sales & Commercial,Analyst,Dublin,Female,Asian / Asian British,2021-06-29,42.0,3.5,1.3,3.0,0,,,0,37-60m,38000,22800.0,2.82,1,2021.0
+EMP01866,Operations,Manager,London,Male,Asian / Asian British,2022-03-31,33.0,4.6,4.4,8.0,1,Career growth,2024-02-29,0,25-36m,68000,40800.0,0.52,0,2022.0
+EMP01892,People & Culture,Director,Amsterdam,Female,White,2018-08-27,76.0,4.1,3.6,14.0,0,,,0,60m+,118000,70800.0,1.2,0,2018.0
+EMP01535,Customer Success,Analyst,Dublin,Female,Other / prefer not to say,2023-03-01,22.0,2.5,3.6,10.0,0,,,0,13-24m,38000,22800.0,1.84,0,2023.0
+EMP01377,People & Culture,Analyst,London,Male,Mixed / Multiple ethnic groups,2024-12-01,1.0,3.1,3.2,10.0,0,,,0,0-6m,38000,22800.0,1.84,0,2024.0
+EMP01594,Sales & Commercial,Manager,London,Female,Black / African / Caribbean,2022-01-29,35.0,3.7,3.3,8.0,0,,,0,25-36m,68000,40800.0,1.54,0,2022.0
+EMP02115,Operations,Director,Amsterdam,Female,White,2016-07-26,101.0,3.7,3.0,13.0,0,,,0,60m+,118000,70800.0,1.72,0,2016.0
+EMP01587,Technology,Manager,London,Male,White,2022-02-28,34.0,1.6,3.1,12.0,1,Better opportunity,2023-11-01,0,25-36m,68000,40800.0,2.5,1,2022.0
+EMP01041,Technology,Senior Manager,Manchester,Male,Other / prefer not to say,2019-12-28,60.0,4.1,2.8,8.0,0,,,0,37-60m,88000,52800.0,1.68,0,2019.0
+EMP01984,Technology,Senior Analyst,London,Female,White,2023-08-01,17.0,2.4,4.3,5.0,0,,,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP01891,Customer Success,Manager,London,Male,White,2022-10-30,26.0,2.9,1.4,10.0,1,Better opportunity,2023-06-03,0,25-36m,68000,40800.0,3.0,1,2022.0
+EMP01073,Technology,Manager,Amsterdam,Female,Not disclosed,2022-03-31,33.0,3.4,3.6,2.0,0,,,0,25-36m,68000,40800.0,1.48,0,2022.0
+EMP01758,Operations,Senior Analyst,London,Female,Asian / Asian British,2023-07-01,18.0,2.8,3.2,9.0,0,,,0,13-24m,52000,31200.0,1.96,0,2023.0
+EMP01503,Sales & Commercial,Senior Analyst,London,Female,Asian / Asian British,2022-11-30,25.0,3.4,3.4,13.0,0,,,0,25-36m,52000,31200.0,1.6,0,2022.0
+EMP01548,Finance,Analyst,Manchester,Male,White,2023-12-31,12.0,3.3,4.9,2.0,0,,,0,7-12m,38000,22800.0,0.74,0,2023.0
+EMP01085,Sales & Commercial,Senior Analyst,Manchester,Female,White,2022-01-29,35.0,4.8,4.1,7.0,0,,,0,25-36m,52000,31200.0,0.62,0,2022.0
+EMP01033,Technology,Analyst,Lagos,Male,Black / African / Caribbean,2024-10-31,2.0,4.1,3.8,10.0,0,,,0,0-6m,38000,22800.0,1.08,0,2024.0
+EMP01309,Customer Success,Manager,London,Female,Asian / Asian British,2021-08-29,40.0,3.25,4.7,7.0,0,,,0,37-60m,68000,40800.0,0.88,0,2021.0
+EMP01886,Technology,Senior Analyst,London,Female,Asian / Asian British,2023-07-01,18.0,2.3,4.5,15.0,0,,,0,13-24m,52000,31200.0,1.38,0,2023.0
+EMP01956,Sales & Commercial,Analyst,London,Female,White,2024-06-01,7.0,4.4,3.7,5.0,0,,,0,7-12m,38000,22800.0,1.02,0,2024.0
+EMP01873,Finance,Analyst,Dublin,Male,Black / African / Caribbean,2023-08-31,16.0,2.5,3.1,9.0,0,,,0,13-24m,38000,22800.0,2.14,1,2023.0
+EMP01192,People & Culture,Analyst,Amsterdam,Male,Not disclosed,2022-10-30,26.0,3.2,4.6,11.0,0,,,0,25-36m,38000,22800.0,0.96,0,2022.0
+EMP01570,Sales & Commercial,Senior Analyst,Manchester,Male,White,2023-07-01,18.0,2.5,5.0,8.0,0,,,0,13-24m,52000,31200.0,1.0,0,2023.0
+EMP02091,Legal & Compliance,Manager,London,Male,Black / African / Caribbean,2022-12-30,24.0,3.1,3.9,10.0,0,,,0,13-24m,68000,40800.0,1.42,0,2022.0
+EMP01665,Technology,Director,Manchester,Female,White,2018-10-27,74.0,3.3,3.5,3.0,0,,,0,60m+,118000,70800.0,1.58,0,2018.0
+EMP01369,Technology,Manager,Manchester,Female,White,2021-02-27,46.0,3.3,3.7,12.0,1,Better opportunity,2022-08-17,0,37-60m,68000,40800.0,1.46,0,2021.0
+EMP01278,Finance,Manager,London,Female,White,2022-02-28,34.0,3.4,4.0,10.0,0,,,0,25-36m,68000,40800.0,1.24,0,2022.0
+EMP01922,Operations,Senior Analyst,London,Female,White,2022-03-31,33.0,2.1,3.1,1.0,1,Career growth,2023-04-26,0,25-36m,52000,31200.0,2.3,1,2022.0
+EMP01782,Operations,Senior Manager,London,Male,White,2020-04-28,56.0,3.4,3.2,14.0,0,,,0,37-60m,88000,52800.0,1.72,0,2020.0
+EMP01435,Technology,Senior Manager,London,Male,White,2020-12-28,48.0,3.4,3.8,11.0,0,,,0,37-60m,88000,52800.0,1.36,0,2020.0
+EMP01071,Customer Success,Manager,London,Male,White,2023-03-01,22.0,2.8,3.3,7.0,0,,,0,13-24m,68000,40800.0,1.9,0,2023.0
+EMP01595,People & Culture,Analyst,London,Female,Black / African / Caribbean,2024-07-01,6.0,2.9,3.3,9.0,0,,,0,0-6m,38000,22800.0,1.86,0,2024.0
+EMP01591,Technology,Analyst,London,Female,White,2023-03-01,22.0,2.8,3.3,0.0,0,,,0,13-24m,38000,22800.0,1.9,0,2023.0
+EMP02038,Customer Success,Analyst,Manchester,Not disclosed,White,2024-12-01,1.0,3.7,2.2,22.0,1,Compensation,2025-01-31,0,0-6m,38000,22800.0,2.2,1,2024.0
+EMP01671,Technology,Senior Manager,Dublin,Female,Black / African / Caribbean,2020-01-28,59.0,3.3,3.8,11.0,0,,,0,37-60m,88000,52800.0,1.4,0,2020.0
+EMP02072,Sales & Commercial,Senior Analyst,Dublin,Female,White,2021-08-29,40.0,3.1,2.6,3.0,0,,,0,37-60m,52000,31200.0,2.2,1,2021.0
+EMP01391,Marketing,Manager,Dublin,Male,White,2022-03-31,33.0,3.2,3.8,4.0,1,Work-life balance,2022-11-12,0,25-36m,68000,40800.0,1.44,0,2022.0
+EMP01559,Customer Success,Analyst,London,Non-binary / prefer not to say,Asian / Asian British,2022-09-30,27.0,3.2,3.7,4.0,0,,,0,25-36m,38000,22800.0,1.5,0,2022.0
+EMP02061,People & Culture,Manager,London,Female,White,2021-10-29,38.0,4.2,3.3499999999999996,7.0,0,,,0,37-60m,68000,40800.0,1.31,0,2021.0
+EMP01133,Technology,Analyst,London,Male,Other / prefer not to say,2024-01-31,11.0,3.2,3.7,0.0,0,,,0,7-12m,38000,22800.0,1.5,0,2024.0
+EMP01223,Technology,Analyst,London,Female,Other / prefer not to say,2023-10-01,15.0,3.6,4.5,4.0,0,,,0,13-24m,38000,22800.0,0.86,0,2023.0
+EMP02082,Technology,Senior Analyst,Manchester,Male,Black / African / Caribbean,2023-12-01,13.0,3.8,3.1,6.0,0,,,0,13-24m,52000,31200.0,1.62,0,2023.0
+EMP01268,Customer Success,Senior Analyst,Dublin,Female,White,2023-12-01,13.0,3.0,2.8,7.0,0,,,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP01970,Operations,Senior Analyst,Dublin,Female,Mixed / Multiple ethnic groups,2023-06-01,19.0,3.3,5.0,9.0,0,,,0,13-24m,52000,31200.0,0.68,0,2023.0
+EMP01082,Finance,Manager,Amsterdam,Male,White,2022-09-30,27.0,4.3,3.2,0.0,0,,,0,25-36m,68000,40800.0,1.36,0,2022.0
+EMP01780,Finance,Senior Manager,Dublin,Female,White,2019-11-28,61.0,4.6,2.8,3.0,0,,,0,60m+,88000,52800.0,1.48,0,2019.0
+EMP01599,Technology,Analyst,London,Male,White,2024-07-01,6.0,3.5,3.6,7.0,0,,,0,0-6m,38000,22800.0,1.44,0,2024.0
+EMP01116,People & Culture,Manager,Lagos,Male,Mixed / Multiple ethnic groups,2022-06-30,30.0,4.6,3.7,8.0,0,,,0,25-36m,68000,40800.0,0.94,0,2022.0
+EMP01650,Operations,Manager,London,Non-binary / prefer not to say,White,2022-07-31,29.0,3.7,4.0,4.0,0,,,0,25-36m,68000,40800.0,1.12,0,2022.0
+EMP01852,Customer Success,Senior Analyst,London,Female,Black / African / Caribbean,2022-11-30,25.0,3.1,2.9,6.0,0,,,0,25-36m,52000,31200.0,2.02,1,2022.0
+EMP01888,Sales & Commercial,Manager,Amsterdam,Male,Mixed / Multiple ethnic groups,2022-02-28,34.0,3.1,2.1,10.0,1,Better opportunity,2024-01-12,0,25-36m,68000,40800.0,2.5,1,2022.0
+EMP01209,Technology,Manager,Dublin,Male,White,2021-07-30,41.0,3.2,4.1,3.0,1,Better opportunity,2023-08-18,0,37-60m,68000,40800.0,1.26,0,2021.0
+EMP01345,Sales & Commercial,Director,Manchester,Male,Not disclosed,2018-12-27,72.0,4.3,4.7,7.0,0,,,0,60m+,118000,70800.0,0.46,0,2018.0
+EMP01330,Sales & Commercial,Senior Analyst,Manchester,Male,Asian / Asian British,2022-04-30,32.0,3.8,2.6,11.0,1,Compensation,2024-05-06,0,25-36m,52000,31200.0,1.92,0,2022.0
+EMP02118,People & Culture,Senior Analyst,London,Non-binary / prefer not to say,Black / African / Caribbean,2023-08-31,16.0,2.5,3.5,5.0,0,,,0,13-24m,52000,31200.0,1.9,0,2023.0
+EMP01015,Technology,Manager,Manchester,Male,Asian / Asian British,2021-11-29,37.0,3.1,5.0,6.0,0,,,0,37-60m,68000,40800.0,0.76,0,2021.0
+EMP01540,Technology,Senior Analyst,London,Female,White,2021-01-28,47.0,3.1,3.5,12.0,0,,,0,37-60m,52000,31200.0,1.66,0,2021.0
+EMP01484,Finance,Senior Manager,London,Female,Not disclosed,2020-01-28,59.0,3.1,3.0,0.0,0,,,0,37-60m,88000,52800.0,1.96,0,2020.0
+EMP01598,Technology,Analyst,London,Male,White,2024-12-01,1.0,2.5,2.2,7.0,0,,,0,0-6m,38000,22800.0,2.68,1,2024.0
+EMP01722,Technology,Analyst,London,Female,White,2024-12-01,1.0,3.3,2.3,8.0,1,Better opportunity,2025-01-31,0,0-6m,38000,22800.0,2.3,1,2024.0
+EMP01787,Operations,Manager,London,Non-binary / prefer not to say,White,2023-01-30,23.0,4.7,3.8,1.0,0,,,0,13-24m,68000,40800.0,0.84,0,2023.0
+EMP01680,People & Culture,Senior Analyst,Lagos,Male,White,2023-08-31,16.0,4.0,4.9,7.0,0,,,0,13-24m,52000,31200.0,0.46,0,2023.0
+EMP01618,Sales & Commercial,Manager,London,Female,White,2021-12-29,36.0,3.9,2.8,8.0,0,,,0,25-36m,68000,40800.0,1.76,0,2021.0
+EMP02170,Sales & Commercial,Manager,Amsterdam,Male,Asian / Asian British,2024-03-01,10.0,3.4,4.6,6.0,0,,,0,7-12m,68000,40800.0,0.88,0,2024.0
+EMP01957,Operations,Analyst,Dublin,Female,Black / African / Caribbean,2024-12-01,1.0,2.7,2.8,0.0,1,Management,2025-01-31,0,0-6m,38000,22800.0,2.24,1,2024.0
+EMP01988,Operations,Manager,Manchester,Male,Asian / Asian British,2023-08-31,16.0,3.5,3.1,7.0,0,,,0,13-24m,68000,40800.0,1.74,0,2023.0
+EMP02191,Technology,Senior Analyst,Lagos,Male,White,2022-08-30,28.0,3.0,4.4,14.0,0,,,0,25-36m,52000,31200.0,1.16,0,2022.0
+EMP01007,Technology,Manager,London,Female,White,2023-03-01,22.0,4.4,3.7,16.0,0,,,0,13-24m,68000,40800.0,1.02,0,2023.0
+EMP01448,Customer Success,Senior Manager,London,Female,Asian / Asian British,2020-06-28,54.0,3.7,2.9,7.0,0,,,0,37-60m,88000,52800.0,1.78,0,2020.0
+EMP01817,Operations,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2023-08-01,17.0,2.9,3.3,3.0,0,,,0,13-24m,52000,31200.0,1.86,0,2023.0
+EMP01368,Legal & Compliance,Analyst,London,Male,White,2023-12-31,12.0,2.7,4.3,4.0,0,,,0,7-12m,38000,22800.0,1.34,0,2023.0
+EMP02173,Finance,Manager,Amsterdam,Male,Asian / Asian British,2022-09-30,27.0,3.9,3.2,5.0,0,,,0,25-36m,68000,40800.0,1.52,0,2022.0
+EMP01685,Legal & Compliance,Analyst,Dublin,Female,Black / African / Caribbean,2024-05-01,8.0,3.9,4.9,12.0,0,,,0,7-12m,38000,22800.0,0.5,0,2024.0
+EMP02044,Finance,Director,Lagos,Male,White,2020-02-27,58.0,3.7,3.5,10.0,1,Management,2021-07-04,0,37-60m,118000,70800.0,1.42,0,2020.0
+EMP01376,Sales & Commercial,Analyst,London,Female,Asian / Asian British,2023-12-31,12.0,3.7,3.1,14.0,0,,,0,7-12m,38000,22800.0,1.66,0,2023.0
+EMP01549,Operations,Manager,London,Female,White,2022-07-31,29.0,4.0,3.2,0.0,0,,,0,25-36m,68000,40800.0,1.48,0,2022.0
+EMP01027,Technology,Senior Analyst,London,Male,Black / African / Caribbean,2023-10-01,15.0,3.0,3.1,15.0,1,Compensation,2024-04-03,0,13-24m,52000,31200.0,1.94,0,2023.0
+EMP01896,Technology,Manager,London,Female,White,2021-03-30,45.0,3.5,4.0,11.0,0,,,0,37-60m,68000,40800.0,1.2,0,2021.0
+EMP02156,Customer Success,Analyst,Manchester,Female,Black / African / Caribbean,2024-10-01,3.0,1.8,3.2,7.0,1,Work-life balance,2024-12-07,0,0-6m,38000,22800.0,2.36,1,2024.0
+EMP01542,Finance,Manager,Manchester,Male,Not disclosed,2021-06-29,42.0,1.8,3.7,11.0,0,,,0,37-60m,68000,40800.0,2.06,1,2021.0
+EMP01486,Legal & Compliance,Senior Manager,Lagos,Male,Black / African / Caribbean,2020-12-28,48.0,4.6,3.5,8.0,0,,,0,37-60m,88000,52800.0,1.06,0,2020.0
+EMP02080,Legal & Compliance,Analyst,London,Female,White,2022-10-30,26.0,3.1,3.0,10.0,0,,,0,25-36m,38000,22800.0,1.96,0,2022.0
+EMP02161,Customer Success,Analyst,London,Female,White,2024-12-01,1.0,2.1,3.9,8.0,1,Compensation,2025-01-30,0,0-6m,38000,22800.0,1.82,0,2024.0
+EMP01863,Operations,Senior Manager,London,Non-binary / prefer not to say,Asian / Asian British,2019-07-29,65.0,3.5,2.9,7.0,0,,,0,60m+,88000,52800.0,1.86,0,2019.0
+EMP01767,Customer Success,Analyst,Lagos,Male,Black / African / Caribbean,2024-12-01,1.0,2.3,5.0,10.0,0,,,0,0-6m,38000,22800.0,1.08,0,2024.0
+EMP01884,Technology,Senior Manager,Amsterdam,Female,White,2022-08-30,28.0,3.7,3.1,7.0,0,,,0,25-36m,88000,52800.0,1.66,0,2022.0
+EMP01233,Operations,Senior Analyst,London,Female,White,2023-10-01,15.0,4.4,4.2,0.0,0,,,0,13-24m,52000,31200.0,0.72,0,2023.0
+EMP02136,Technology,Senior Analyst,London,Male,Asian / Asian British,2023-10-01,15.0,3.2,3.4,4.0,0,,,0,13-24m,52000,31200.0,1.68,0,2023.0
+EMP01979,Operations,Manager,London,Non-binary / prefer not to say,Not disclosed,2021-12-29,36.0,2.0,1.1,7.0,1,Career growth,2024-08-14,0,25-36m,68000,40800.0,3.54,1,2021.0
+EMP01029,Operations,Director,London,Female,White,2020-01-28,59.0,3.4,4.5,10.0,0,,,0,37-60m,118000,70800.0,0.94,0,2020.0
+EMP01648,Finance,Analyst,London,Male,Black / African / Caribbean,2024-07-01,6.0,1.8,3.3,16.0,1,Work-life balance,2024-10-15,0,0-6m,38000,22800.0,2.3,1,2024.0
+EMP01807,Legal & Compliance,Senior Analyst,Amsterdam,Non-binary / prefer not to say,Asian / Asian British,2024-04-01,9.0,5.0,3.9,8.0,0,,,0,7-12m,52000,31200.0,0.66,0,2024.0
+EMP01148,Operations,Senior Analyst,London,Male,Asian / Asian British,2022-05-31,31.0,4.2,2.9,12.0,0,,,0,25-36m,52000,31200.0,1.58,0,2022.0
+EMP01289,Sales & Commercial,Senior Analyst,Manchester,Female,White,2023-04-01,21.0,4.1,3.5,14.0,0,,,0,13-24m,52000,31200.0,1.26,0,2023.0
+EMP01701,Operations,Senior Analyst,London,Male,White,2023-01-30,23.0,3.0,4.7,13.0,0,,,0,13-24m,52000,31200.0,0.98,0,2023.0
+EMP01481,Finance,Senior Analyst,London,Female,Not disclosed,2023-05-01,20.0,2.0,3.8,9.0,0,,,0,13-24m,52000,31200.0,1.92,0,2023.0
+EMP01455,Technology,Analyst,London,Female,Asian / Asian British,2024-05-01,8.0,3.1,1.8,9.0,0,,,0,7-12m,38000,22800.0,2.68,1,2024.0
+EMP01607,Technology,Manager,Amsterdam,Female,Other / prefer not to say,2022-04-30,32.0,3.1,2.7,9.0,0,,,0,25-36m,68000,40800.0,2.14,1,2022.0
+EMP01619,Customer Success,Manager,London,Female,White,2021-06-29,42.0,3.5,2.2,10.0,1,Better opportunity,,1,37-60m,68000,40800.0,2.28,1,2021.0
+EMP01457,Technology,Senior Analyst,London,Female,White,2023-12-31,12.0,3.9,3.3,3.0,0,,,0,7-12m,52000,31200.0,1.46,0,2023.0
+EMP01832,Operations,Senior Analyst,Manchester,Female,Black / African / Caribbean,2022-07-31,29.0,4.5,4.0,8.0,0,,,0,25-36m,52000,31200.0,0.8,0,2022.0
+EMP01915,Operations,Manager,London,Female,Black / African / Caribbean,2022-07-31,29.0,3.6,2.9,5.0,0,,,0,25-36m,68000,40800.0,1.82,0,2022.0
+EMP01079,Sales & Commercial,Analyst,London,Female,White,2023-06-01,19.0,3.1,3.5,11.0,0,,,0,13-24m,38000,22800.0,1.66,0,2023.0
+EMP01545,Finance,Senior Analyst,Dublin,Female,Other / prefer not to say,2024-06-01,7.0,3.4,2.4,1.0,0,,,0,7-12m,52000,31200.0,2.2,1,2024.0
+EMP02062,Marketing,Manager,London,Female,White,2021-11-29,37.0,4.3,5.0,12.0,0,,,0,37-60m,68000,40800.0,0.28,0,2021.0
+EMP01804,Finance,Analyst,Amsterdam,Male,Black / African / Caribbean,2021-11-29,37.0,3.5,2.8,10.0,0,,,0,37-60m,38000,22800.0,1.92,0,2021.0
+EMP01016,Technology,Analyst,Lagos,Male,Mixed / Multiple ethnic groups,2024-12-01,1.0,3.9,3.5,7.0,0,,,0,0-6m,38000,22800.0,1.34,0,2024.0
+EMP02053,Legal & Compliance,Manager,Dublin,Male,Asian / Asian British,2022-02-28,34.0,2.6,3.8,6.0,0,,,0,25-36m,68000,40800.0,1.68,0,2022.0
+EMP02192,Operations,Analyst,London,Non-binary / prefer not to say,White,2023-12-31,12.0,3.1,3.5,0.0,0,,,0,7-12m,38000,22800.0,1.66,0,2023.0
+EMP01284,Technology,Analyst,London,Male,White,2024-07-01,6.0,2.0,3.3,4.0,0,,,0,0-6m,38000,22800.0,2.22,1,2024.0
+EMP02009,Sales & Commercial,Analyst,London,Non-binary / prefer not to say,Black / African / Caribbean,2023-10-01,15.0,2.8,4.4,7.0,0,,,0,13-24m,38000,22800.0,1.24,0,2023.0
+EMP01560,Finance,Senior Analyst,Amsterdam,Female,White,2022-10-30,26.0,2.7,3.7,4.0,0,,,0,25-36m,52000,31200.0,1.7,0,2022.0
+EMP01739,Operations,Senior Analyst,Manchester,Male,Not disclosed,2021-11-29,37.0,3.5,1.8,7.0,0,,,0,37-60m,52000,31200.0,2.52,1,2021.0
+EMP01645,Technology,Director,Dublin,Male,White,2016-11-25,97.0,3.3,1.9,5.0,0,,,0,60m+,118000,70800.0,2.54,1,2016.0
+EMP01286,Technology,Senior Analyst,London,Female,White,2021-06-29,42.0,2.5,3.1,7.0,0,,,0,37-60m,52000,31200.0,2.14,1,2021.0
+EMP02088,Technology,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2023-06-01,19.0,3.3,3.5,11.0,0,,,0,13-24m,52000,31200.0,1.58,0,2023.0
+EMP01038,Technology,Senior Analyst,London,Male,White,2022-07-31,29.0,2.9,2.8,0.0,0,,,0,25-36m,52000,31200.0,2.16,1,2022.0
+EMP01573,Sales & Commercial,Senior Manager,Dublin,Male,White,2020-09-28,51.0,4.3,4.3,15.0,1,Better opportunity,2021-09-08,0,37-60m,88000,52800.0,0.7,0,2020.0
+EMP01676,Marketing,Senior Analyst,Amsterdam,Female,White,2022-03-31,33.0,3.4,2.7,9.0,1,Work-life balance,2022-08-31,0,25-36m,52000,31200.0,2.02,1,2022.0
+EMP01520,Technology,Analyst,London,Female,White,2024-07-01,6.0,3.8,2.7,11.0,1,Compensation,2024-09-26,0,0-6m,38000,22800.0,1.86,0,2024.0
+EMP01919,Customer Success,Analyst,Amsterdam,Male,White,2024-03-01,10.0,2.3,3.1,23.0,1,Career growth,2024-09-30,0,7-12m,38000,22800.0,2.22,1,2024.0
+EMP01694,Sales & Commercial,Analyst,Amsterdam,Female,White,2023-07-01,18.0,1.7,3.4,2.0,1,Compensation,2024-07-16,0,13-24m,38000,22800.0,2.28,1,2023.0
+EMP01135,Legal & Compliance,Director,Dublin,Male,White,2018-11-27,73.0,3.1,3.4,14.0,0,,,0,60m+,118000,70800.0,1.72,0,2018.0
+EMP01106,Sales & Commercial,Senior Manager,London,Female,White,2021-02-27,46.0,2.4,1.8,9.0,1,Better opportunity,2022-07-19,0,37-60m,88000,52800.0,2.96,1,2021.0
+EMP01667,Sales & Commercial,Analyst,London,Female,Asian / Asian British,2024-12-01,1.0,1.9,3.1,13.0,0,,,0,0-6m,38000,22800.0,2.38,1,2024.0
+EMP01709,Sales & Commercial,Senior Analyst,Manchester,Female,White,2023-10-01,15.0,2.5,3.4,6.0,1,Better opportunity,2024-01-01,0,13-24m,52000,31200.0,1.96,0,2023.0
+EMP01126,Operations,Senior Analyst,London,Female,White,2022-05-31,31.0,4.0,4.2,4.0,0,,,0,25-36m,52000,31200.0,0.88,0,2022.0
+EMP02151,Customer Success,Manager,Amsterdam,Male,White,2021-06-29,42.0,3.0,3.6,12.0,0,,,0,37-60m,68000,40800.0,1.64,0,2021.0
+EMP01464,Operations,Senior Analyst,Manchester,Male,White,2023-08-01,17.0,3.9,3.1,0.0,0,,,0,13-24m,52000,31200.0,1.58,0,2023.0
+EMP01700,Operations,Manager,London,Female,Black / African / Caribbean,2022-07-31,29.0,3.8,2.7,7.0,0,,,0,25-36m,68000,40800.0,1.86,0,2022.0
+EMP02014,Technology,Director,London,Male,White,2018-09-27,75.0,4.5,4.2,4.0,0,,,0,60m+,118000,70800.0,0.68,0,2018.0
+EMP01637,Operations,Analyst,London,Male,White,2024-06-01,7.0,3.3,3.6,8.0,0,,,0,7-12m,38000,22800.0,1.52,0,2024.0
+EMP01385,Customer Success,Director,Amsterdam,Female,Asian / Asian British,2017-08-26,88.0,5.0,3.7,7.0,1,Work-life balance,2022-11-25,0,60m+,118000,70800.0,0.78,0,2017.0
+EMP02085,Legal & Compliance,Analyst,Manchester,Female,White,2024-10-01,3.0,3.1,4.9,0.0,0,,,0,0-6m,38000,22800.0,0.82,0,2024.0
+EMP01162,Finance,Analyst,Dublin,Female,White,2024-03-01,10.0,2.5,3.2,8.0,0,,,0,7-12m,38000,22800.0,2.08,1,2024.0
+EMP01952,Finance,Analyst,London,Male,Asian / Asian British,2023-12-31,12.0,3.0,3.0,11.0,0,,,0,7-12m,38000,22800.0,2.0,0,2023.0
+EMP01799,Finance,Analyst,London,Male,Black / African / Caribbean,2022-12-30,24.0,4.3,3.1,5.0,0,,,0,13-24m,38000,22800.0,1.42,0,2022.0
+EMP01500,Marketing,Senior Analyst,London,Male,White,2022-09-30,27.0,1.5,3.6,0.0,1,Better opportunity,2024-01-13,0,25-36m,52000,31200.0,2.24,1,2022.0
+EMP01200,Customer Success,Manager,London,Female,Black / African / Caribbean,2023-10-31,14.0,3.1,4.2,7.0,0,,,0,13-24m,68000,40800.0,1.24,0,2023.0
+EMP02127,Technology,Senior Manager,Lagos,Female,Asian / Asian British,2020-10-28,50.0,5.0,3.5,12.0,0,,,0,37-60m,88000,52800.0,0.9,0,2020.0
+EMP01797,Legal & Compliance,Director,Lagos,Male,Not disclosed,2019-02-26,70.0,3.0,3.4,8.0,0,,,0,60m+,118000,70800.0,1.76,0,2019.0
+EMP01510,Customer Success,Manager,London,Female,Mixed / Multiple ethnic groups,2022-09-30,27.0,3.4,2.8,2.0,0,,,0,25-36m,68000,40800.0,1.96,0,2022.0
+EMP01374,Finance,Senior Manager,Manchester,Female,White,2020-04-28,56.0,4.3,5.0,3.0,0,,,0,37-60m,88000,52800.0,0.28,0,2020.0
+EMP01442,Marketing,Senior Manager,Dublin,Not disclosed,White,2021-04-29,44.0,4.5,3.9,1.0,0,,,0,37-60m,88000,52800.0,0.86,0,2021.0
+EMP01120,Operations,Analyst,Dublin,Male,White,2021-11-29,37.0,3.8,4.0,0.0,0,,,0,37-60m,38000,22800.0,1.08,0,2021.0
+EMP01490,People & Culture,Manager,Amsterdam,Male,Black / African / Caribbean,2021-12-29,36.0,2.9,3.6,13.0,1,Compensation,2022-03-31,0,25-36m,68000,40800.0,1.68,0,2021.0
+EMP01819,Technology,Analyst,Dublin,Male,White,2024-10-31,2.0,3.7,4.6,5.0,1,Relocation,2024-12-31,0,0-6m,38000,22800.0,0.76,0,2024.0
+EMP01081,People & Culture,Manager,London,Female,White,2021-06-29,42.0,3.6,3.9,3.0,0,,,0,37-60m,68000,40800.0,1.22,0,2021.0
+EMP01521,Operations,Analyst,London,Male,White,2024-06-01,7.0,2.3,3.5,5.0,1,Work-life balance,2024-12-05,0,7-12m,38000,22800.0,1.98,0,2024.0
+EMP01693,Operations,Senior Manager,London,Female,White,2020-08-28,52.0,3.4,2.7,2.0,0,,,0,37-60m,88000,52800.0,2.02,1,2020.0
+EMP02134,Sales & Commercial,Manager,London,Female,Other / prefer not to say,2022-06-30,30.0,2.8,2.1,4.0,1,Better opportunity,2023-08-10,0,25-36m,68000,40800.0,2.62,1,2022.0
+EMP02098,Technology,Analyst,Amsterdam,Female,White,2022-11-30,25.0,3.3,2.7,8.0,0,,,0,25-36m,38000,22800.0,2.06,1,2022.0
+EMP01375,Technology,Analyst,Manchester,Male,White,2024-12-01,1.0,2.5,4.1,6.0,0,,,0,0-6m,38000,22800.0,1.54,0,2024.0
+EMP01212,Finance,Analyst,London,Male,Black / African / Caribbean,2024-08-31,4.0,3.6,3.8,10.0,0,,,0,0-6m,38000,22800.0,1.28,0,2024.0
+EMP02123,People & Culture,Manager,London,Male,White,2023-03-01,22.0,3.6,3.9,1.0,0,,,0,13-24m,68000,40800.0,1.22,0,2023.0
+EMP01638,Sales & Commercial,Senior Analyst,Lagos,Female,Asian / Asian British,2021-11-29,37.0,4.2,2.3,10.0,0,,,0,37-60m,52000,31200.0,1.94,0,2021.0
+EMP02103,People & Culture,Senior Analyst,Lagos,Female,White,2023-01-30,23.0,4.4,3.2,8.0,0,,,0,13-24m,52000,31200.0,1.32,0,2023.0
+EMP01202,Technology,Analyst,London,Female,White,2023-01-30,23.0,3.1,4.7,4.0,0,,,0,13-24m,38000,22800.0,0.94,0,2023.0
+EMP01119,People & Culture,Analyst,Dublin,Male,Asian / Asian British,2024-12-01,1.0,4.1,2.7,0.0,0,,,0,0-6m,38000,22800.0,1.74,0,2024.0
+EMP02007,Finance,Analyst,Amsterdam,Female,Not disclosed,2024-08-01,5.0,2.8,3.45,5.0,0,,,0,0-6m,38000,22800.0,1.81,0,2024.0
+EMP01577,Technology,Manager,Amsterdam,Female,White,2022-08-30,28.0,2.6,5.0,10.0,0,,,0,25-36m,68000,40800.0,0.96,0,2022.0
+EMP01943,Finance,Manager,Manchester,Male,Asian / Asian British,2023-03-01,22.0,2.6,4.9,4.0,0,,,0,13-24m,68000,40800.0,1.02,0,2023.0
+EMP01563,Technology,Analyst,London,Female,White,2022-11-30,25.0,2.4,2.1,5.0,1,Relocation,2024-05-12,0,25-36m,38000,22800.0,2.78,1,2022.0
+EMP01907,Customer Success,Senior Manager,London,Female,Mixed / Multiple ethnic groups,2020-10-28,50.0,3.2,2.2,14.0,1,Better opportunity,2024-01-05,0,37-60m,88000,52800.0,2.4,1,2020.0
+EMP01584,Sales & Commercial,Manager,Amsterdam,Male,White,2022-03-31,33.0,3.0,3.2,6.0,1,Compensation,2023-12-25,0,25-36m,68000,40800.0,1.88,0,2022.0
+EMP01603,Technology,Senior Analyst,London,Male,Other / prefer not to say,2023-10-31,14.0,2.8,3.2,6.0,0,,,0,13-24m,52000,31200.0,1.96,0,2023.0
+EMP01128,People & Culture,Manager,Lagos,Male,White,2022-02-28,34.0,3.9,2.1,1.0,0,,,0,25-36m,68000,40800.0,2.18,1,2022.0
+EMP02164,Customer Success,Senior Analyst,London,Male,Asian / Asian British,2022-04-30,32.0,2.1,3.3,15.0,0,,,0,25-36m,52000,31200.0,2.18,1,2022.0
+EMP01792,Operations,Analyst,Amsterdam,Female,White,2024-08-01,5.0,1.4,2.8,5.0,0,,,0,0-6m,38000,22800.0,2.76,1,2024.0
+EMP01814,Legal & Compliance,Analyst,Dublin,Female,White,2024-12-01,1.0,2.5,3.7,9.0,0,,,0,0-6m,38000,22800.0,1.78,0,2024.0
+EMP01400,Customer Success,Senior Manager,London,Male,White,2019-10-28,62.0,2.6,3.3,11.0,1,Relocation,2021-02-28,0,60m+,88000,52800.0,1.98,0,2019.0
+EMP01175,Finance,Analyst,London,Female,White,2024-06-01,7.0,4.7,3.6,5.0,0,,,0,7-12m,38000,22800.0,0.96,0,2024.0
+EMP01321,Operations,Analyst,Amsterdam,Non-binary / prefer not to say,White,2023-10-01,15.0,4.9,3.7,18.0,0,,,0,13-24m,38000,22800.0,0.82,0,2023.0
+EMP01980,Operations,Senior Analyst,Dublin,Female,White,2024-01-31,11.0,4.2,2.3,0.0,0,,,0,7-12m,52000,31200.0,1.94,0,2024.0
+EMP01470,Marketing,Senior Manager,London,Female,White,2020-12-28,48.0,3.0,2.7,4.0,1,Redundancy,2022-12-22,0,37-60m,88000,52800.0,2.18,1,2020.0
+EMP02150,People & Culture,Analyst,Manchester,Female,Asian / Asian British,2022-11-30,25.0,4.0,3.0,8.0,0,,,0,25-36m,38000,22800.0,1.6,0,2022.0
+EMP01080,Technology,Senior Analyst,Dublin,Male,Asian / Asian British,2024-10-31,2.0,3.6,3.6,10.0,0,,,0,0-6m,52000,31200.0,1.4,0,2024.0
+EMP01715,Sales & Commercial,Senior Analyst,London,Non-binary / prefer not to say,White,2024-05-01,8.0,3.7,3.3,9.0,1,Better opportunity,2024-10-05,0,7-12m,52000,31200.0,1.54,0,2024.0
+EMP01458,Operations,Senior Analyst,London,Male,White,2021-09-29,39.0,3.8,4.2,3.0,0,,,0,37-60m,52000,31200.0,0.96,0,2021.0
+EMP01291,Technology,Analyst,Manchester,Female,White,2024-03-01,10.0,3.0,4.7,7.0,0,,,0,7-12m,38000,22800.0,0.98,0,2024.0
+EMP01371,Technology,Manager,London,Non-binary / prefer not to say,Not disclosed,2021-10-29,38.0,4.2,3.2,7.5,0,,,0,37-60m,68000,40800.0,1.4,0,2021.0
+EMP01936,Sales & Commercial,Senior Manager,Dublin,Female,Black / African / Caribbean,2019-11-28,61.0,3.0,2.3,6.0,0,,,0,60m+,88000,52800.0,2.42,1,2019.0
+EMP01478,Operations,Senior Analyst,London,Male,White,2023-03-01,22.0,3.4,2.5,8.0,0,,,0,13-24m,52000,31200.0,2.14,1,2023.0
+EMP01910,Sales & Commercial,Director,Manchester,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2019-06-28,66.0,3.3,3.1,4.0,0,,,0,60m+,118000,70800.0,1.82,0,2019.0
+EMP02043,Sales & Commercial,Manager,London,Female,White,2021-09-29,39.0,4.4,4.1,10.0,0,,,0,37-60m,68000,40800.0,0.78,0,2021.0
+EMP01830,Operations,Manager,London,Female,White,2022-01-29,35.0,3.4,4.2,7.0,0,,,0,25-36m,68000,40800.0,1.12,0,2022.0
+EMP01474,People & Culture,Senior Manager,London,Female,Asian / Asian British,2019-10-28,62.0,4.5,3.8,14.0,0,,,0,60m+,88000,52800.0,0.92,0,2019.0
+EMP01198,People & Culture,Analyst,Manchester,Male,White,2024-03-01,10.0,2.1,3.0,11.0,0,,,0,7-12m,38000,22800.0,2.36,1,2024.0
+EMP01186,Finance,Senior Analyst,Manchester,Male,White,2023-07-01,18.0,2.7,3.3,10.0,0,,,0,13-24m,52000,31200.0,1.94,0,2023.0
+EMP01826,Legal & Compliance,Analyst,Amsterdam,Male,Asian / Asian British,2023-03-01,22.0,3.4,2.4,6.0,0,,,0,13-24m,38000,22800.0,2.2,1,2023.0
+EMP01422,Customer Success,Analyst,London,Male,White,2024-07-01,6.0,3.6,3.9,10.0,0,,,0,0-6m,38000,22800.0,1.22,0,2024.0
+EMP01452,Operations,Senior Analyst,London,Female,Other / prefer not to say,2022-11-30,25.0,3.2,4.2,2.0,0,,,0,25-36m,52000,31200.0,1.2,0,2022.0
+EMP01257,Legal & Compliance,Manager,Amsterdam,Male,White,2021-11-29,37.0,3.5,3.2,6.0,0,,,0,37-60m,68000,40800.0,1.68,0,2021.0
+EMP01136,Sales & Commercial,Manager,Amsterdam,Male,White,2022-01-29,35.0,4.3,3.8,1.0,1,Compensation,2023-06-02,0,25-36m,68000,40800.0,1.0,0,2022.0
+EMP02154,Finance,Senior Manager,Manchester,Female,Black / African / Caribbean,2019-02-26,70.0,2.1,2.7,9.0,1,Management,2022-06-04,0,60m+,88000,52800.0,2.54,1,2019.0
+EMP01818,Sales & Commercial,Senior Manager,London,Male,White,2019-05-29,67.0,3.5,2.8,10.0,0,,,0,60m+,88000,52800.0,1.92,0,2019.0
+EMP01583,Operations,Senior Analyst,Dublin,Female,White,2023-10-01,15.0,3.4,2.5,4.0,0,,,0,13-24m,52000,31200.0,2.14,1,2023.0
+EMP01809,Operations,Analyst,London,Male,Not disclosed,2022-08-30,28.0,1.9,3.1,8.0,1,Better opportunity,2023-08-25,0,25-36m,38000,22800.0,2.38,1,2022.0
+EMP02097,Sales & Commercial,Analyst,Amsterdam,Female,Mixed / Multiple ethnic groups,2023-12-01,13.0,2.3,1.0,2.0,0,,,0,13-24m,38000,22800.0,3.48,1,2023.0
+EMP02129,Sales & Commercial,Manager,Lagos,Female,Black / African / Caribbean,,,4.6,3.6,23.0,0,,,0,nan,68000,40800.0,1.0,0,
+EMP01050,Technology,Manager,London,Non-binary / prefer not to say,White,2021-10-29,38.0,4.6,4.3,0.0,0,,,0,37-60m,68000,40800.0,0.58,0,2021.0
+EMP01895,Finance,Analyst,Lagos,Female,Asian / Asian British,2023-10-01,15.0,2.1,2.7,7.0,1,Better opportunity,2024-12-24,0,13-24m,38000,22800.0,2.54,1,2023.0
+EMP01624,Operations,Manager,London,Female,White,2021-04-29,44.0,2.5,4.4,0.0,0,,,0,37-60m,68000,40800.0,1.36,0,2021.0
+EMP01527,Operations,Senior Analyst,Amsterdam,Female,White,2024-08-01,5.0,2.8,4.3,6.0,0,,,0,0-6m,52000,31200.0,1.3,0,2024.0
+EMP01646,People & Culture,Analyst,Dublin,Female,White,2024-12-01,1.0,2.4,2.8,2.0,0,,,0,0-6m,38000,22800.0,2.36,1,2024.0
+EMP01772,People & Culture,Senior Manager,London,Male,White,2021-08-29,40.0,2.6,4.7,15.0,0,,,0,37-60m,88000,52800.0,1.14,0,2021.0
+EMP01463,Customer Success,Senior Manager,Lagos,Female,White,2022-01-29,35.0,3.0,3.1,15.0,0,,,0,25-36m,88000,52800.0,1.94,0,2022.0
+EMP01604,Technology,Analyst,Manchester,Non-binary / prefer not to say,White,2024-06-01,7.0,3.7,4.0,9.0,0,,,0,7-12m,38000,22800.0,1.12,0,2024.0
+EMP02019,Legal & Compliance,Senior Manager,London,Male,Not disclosed,2020-07-29,53.0,2.7,3.4,1.0,0,,,0,37-60m,88000,52800.0,1.88,0,2020.0
+EMP02046,Finance,Senior Analyst,Manchester,Female,White,2023-07-01,18.0,4.0,2.4,19.0,0,,,0,13-24m,52000,31200.0,1.96,0,2023.0
+EMP01469,Sales & Commercial,Analyst,London,Female,Asian / Asian British,2024-05-01,8.0,3.3,3.8,10.0,1,Management,,1,7-12m,38000,22800.0,1.4,0,2024.0
+EMP01034,Legal & Compliance,Analyst,London,Male,White,2023-10-31,14.0,3.2,4.7,10.0,0,,,0,13-24m,38000,22800.0,0.9,0,2023.0
+EMP01417,Sales & Commercial,Director,Manchester,Female,White,2018-05-28,79.0,3.4,3.2,7.0,1,Compensation,2019-05-15,0,60m+,118000,70800.0,1.72,0,2018.0
+EMP01248,Marketing,Senior Manager,Manchester,Female,White,2022-05-31,31.0,4.2,3.1,8.0,0,,,0,25-36m,88000,52800.0,1.46,0,2022.0
+EMP01613,Finance,Analyst,London,Female,Asian / Asian British,2024-05-01,8.0,3.2,3.7,14.0,0,,,0,7-12m,38000,22800.0,1.5,0,2024.0
+EMP01786,Legal & Compliance,Analyst,Manchester,Female,White,2023-07-01,18.0,3.0,1.9,0.0,0,,,0,13-24m,38000,22800.0,2.66,1,2023.0
+EMP02199,Customer Success,Manager,London,Male,Not disclosed,2022-10-30,26.0,3.4,3.3,0.0,1,Work-life balance,,1,25-36m,68000,40800.0,1.66,0,2022.0
+EMP01856,Technology,Manager,London,Male,White,2024-05-01,8.0,2.7,4.1,7.5,0,,,0,7-12m,68000,40800.0,1.46,0,2024.0
+EMP01217,Sales & Commercial,Analyst,London,Male,White,2024-05-01,8.0,2.1,2.9,7.0,1,Better opportunity,2024-10-05,0,7-12m,38000,22800.0,2.42,1,2024.0
+EMP02196,People & Culture,Senior Analyst,Manchester,Male,Black / African / Caribbean,2023-01-30,23.0,3.7,4.5,12.0,0,,,0,13-24m,52000,31200.0,0.82,0,2023.0
+EMP01794,Finance,Analyst,London,Male,Other / prefer not to say,2024-08-01,5.0,3.4,4.1,7.0,0,,,0,0-6m,38000,22800.0,1.18,0,2024.0
+EMP01544,Finance,Analyst,Dublin,Female,White,2023-06-01,19.0,3.5,4.2,7.0,0,,,0,13-24m,38000,22800.0,1.08,0,2023.0
+EMP01494,Technology,Analyst,Dublin,Female,White,2024-12-01,1.0,3.5,3.1,2.0,1,Compensation,2025-01-31,0,0-6m,38000,22800.0,1.74,0,2024.0
+EMP01465,Marketing,Director,London,Female,Other / prefer not to say,2018-02-25,82.0,3.8,2.8,7.0,0,,,0,60m+,118000,70800.0,1.8,0,2018.0
+EMP01392,Operations,Director,Lagos,Male,Black / African / Caribbean,2019-01-27,71.0,4.6,4.0,2.0,0,,,0,60m+,118000,70800.0,0.76,0,2019.0
+EMP01439,Customer Success,Director,Dublin,Female,White,2018-09-27,75.0,3.5,3.8,2.0,1,Compensation,2024-11-21,0,60m+,118000,70800.0,1.32,0,2018.0
+EMP02016,Legal & Compliance,Senior Analyst,Manchester,Male,White,2022-12-30,24.0,3.9,4.6,14.0,0,,,0,13-24m,52000,31200.0,0.68,0,2022.0
+EMP01327,Operations,Analyst,London,Female,White,2024-03-01,10.0,2.4,4.5,18.0,0,,,0,7-12m,38000,22800.0,1.34,0,2024.0
+EMP01876,Technology,Senior Manager,Amsterdam,Female,White,2020-10-28,50.0,4.1,5.0,10.0,0,,,0,37-60m,88000,52800.0,0.36,0,2020.0
+EMP01466,Sales & Commercial,Senior Manager,Manchester,Male,White,2020-10-28,50.0,2.7,2.3,0.0,0,,,0,37-60m,88000,52800.0,2.54,1,2020.0
+EMP01554,Operations,Analyst,Manchester,Male,White,2023-08-31,16.0,4.8,2.9,3.0,0,,,0,13-24m,38000,22800.0,1.34,0,2023.0
+EMP01062,Sales & Commercial,Manager,Amsterdam,Female,Asian / Asian British,2021-10-29,38.0,3.9,4.0,7.0,0,,,0,37-60m,68000,40800.0,1.04,0,2021.0
+EMP01419,Finance,Senior Analyst,London,Male,White,2021-04-29,44.0,5.0,4.0,3.0,0,,,0,37-60m,52000,31200.0,0.6,0,2021.0
+EMP01995,Sales & Commercial,Analyst,Amsterdam,Male,White,2024-12-01,1.0,3.1,3.8,1.0,1,Career growth,2025-01-30,0,0-6m,38000,22800.0,1.48,0,2024.0
+EMP02197,Marketing,Analyst,London,Male,White,2023-01-30,23.0,3.2,3.6,6.0,1,Work-life balance,2023-05-30,0,13-24m,38000,22800.0,1.56,0,2023.0
+EMP01539,Operations,Senior Analyst,Lagos,Female,Mixed / Multiple ethnic groups,2022-02-28,34.0,3.3,5.0,7.0,0,,,0,25-36m,52000,31200.0,0.68,0,2022.0
+EMP01156,Sales & Commercial,Senior Manager,Lagos,Male,Asian / Asian British,2019-02-26,70.0,2.5,4.0,9.0,1,Better opportunity,2020-11-16,0,60m+,88000,52800.0,1.6,0,2019.0
+EMP02112,Sales & Commercial,Senior Manager,London,Male,Mixed / Multiple ethnic groups,2022-04-30,32.0,2.5,2.7,6.0,0,,,0,25-36m,88000,52800.0,2.38,1,2022.0
+EMP02049,People & Culture,Manager,Manchester,Female,White,2023-01-30,23.0,3.4,4.2,10.0,0,,,0,13-24m,68000,40800.0,1.12,0,2023.0
+EMP02178,Technology,Manager,Manchester,Male,White,2022-10-30,26.0,3.3,3.9,8.0,0,,,0,25-36m,68000,40800.0,1.34,0,2022.0
+EMP01367,Marketing,Manager,Manchester,Male,White,2022-08-30,28.0,3.3,3.3,3.0,0,,,0,25-36m,68000,40800.0,1.7,0,2022.0
+EMP01349,Sales & Commercial,Analyst,Amsterdam,Male,Black / African / Caribbean,2024-10-31,2.0,3.2,3.9,7.0,0,,,0,0-6m,38000,22800.0,1.38,0,2024.0
+EMP01944,Customer Success,Senior Analyst,London,Male,Other / prefer not to say,2023-03-01,22.0,2.7,3.8,7.0,0,,,0,13-24m,52000,31200.0,1.64,0,2023.0
+EMP02105,Marketing,Director,Amsterdam,Male,White,2020-08-28,52.0,2.6,3.8,5.0,0,,,0,37-60m,118000,70800.0,1.68,0,2020.0
+EMP01167,Sales & Commercial,Manager,London,Female,Other / prefer not to say,2021-06-29,42.0,3.7,2.0,14.0,1,Compensation,,1,37-60m,68000,40800.0,2.32,1,2021.0
+EMP02003,People & Culture,Senior Analyst,Lagos,Female,White,2023-08-31,16.0,3.9,2.3,8.0,0,,,0,13-24m,52000,31200.0,2.06,1,2023.0
+EMP01926,Technology,Manager,Dublin,Male,Black / African / Caribbean,2022-01-29,35.0,3.3,4.4,5.0,0,,,0,25-36m,68000,40800.0,1.04,0,2022.0
+EMP01547,Technology,Analyst,Manchester,Male,White,2024-08-31,4.0,3.3,4.5,8.0,0,,,0,0-6m,38000,22800.0,0.98,0,2024.0
+EMP01205,Finance,Manager,London,Male,Asian / Asian British,2021-12-29,36.0,4.3,3.5,7.0,0,,,0,25-36m,68000,40800.0,1.18,0,2021.0
+EMP02114,Operations,Manager,Amsterdam,Female,White,,,3.1,3.1,7.0,0,,,0,nan,68000,40800.0,1.9,0,
+EMP01606,Operations,Manager,Amsterdam,Male,Mixed / Multiple ethnic groups,2022-09-30,27.0,4.0,3.4,7.0,0,,,0,25-36m,68000,40800.0,1.36,0,2022.0
+EMP02104,Legal & Compliance,Analyst,London,Female,White,2024-06-01,7.0,4.0,3.2,0.0,0,,,0,7-12m,38000,22800.0,1.48,0,2024.0
+EMP01187,Customer Success,Manager,London,Female,Black / African / Caribbean,2020-11-28,49.0,3.9,2.3,6.0,0,,,0,37-60m,68000,40800.0,2.06,1,2020.0
+EMP02181,Marketing,Senior Manager,Manchester,Male,Black / African / Caribbean,2019-06-28,66.0,4.5,4.7,7.0,0,,,0,60m+,88000,52800.0,0.38,0,2019.0
+EMP02035,Technology,Manager,Dublin,Male,Asian / Asian British,2021-06-29,42.0,3.1,5.0,9.0,0,,,0,37-60m,68000,40800.0,0.76,0,2021.0
+EMP01010,Customer Success,Director,Manchester,Non-binary / prefer not to say,Asian / Asian British,2018-08-27,76.0,4.2,4.5,4.0,0,,,0,60m+,118000,70800.0,0.62,0,2018.0
+EMP01011,Technology,Senior Analyst,Dublin,Female,White,2023-03-01,22.0,3.3,4.4,3.0,0,,,0,13-24m,52000,31200.0,1.04,0,2023.0
+EMP02141,Customer Success,Manager,London,Female,White,2021-09-29,39.0,2.5,2.7,6.0,0,,,0,37-60m,68000,40800.0,2.38,1,2021.0
+EMP01851,Technology,Senior Analyst,Manchester,Male,Asian / Asian British,2021-10-29,38.0,3.3,4.3,4.0,0,,,0,37-60m,52000,31200.0,1.1,0,2021.0
+EMP02117,Technology,Analyst,London,Female,Other / prefer not to say,2024-10-31,2.0,2.2,2.6,10.0,0,,,0,0-6m,38000,22800.0,2.56,1,2024.0
+EMP01556,Operations,Senior Manager,Dublin,Male,White,2019-05-29,67.0,2.6,1.9,15.0,0,,,0,60m+,88000,52800.0,2.82,1,2019.0
+EMP01290,Operations,Senior Analyst,London,Male,White,2023-10-31,14.0,3.3,2.6,0.0,1,Better opportunity,2024-10-07,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP01428,People & Culture,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2024-03-01,10.0,2.3,2.5,9.0,0,,,0,7-12m,52000,31200.0,2.58,1,2024.0
+EMP01562,Technology,Senior Manager,London,Male,White,2021-04-29,44.0,4.1,3.8,0.0,0,,,0,37-60m,88000,52800.0,1.08,0,2021.0
+EMP01677,Technology,Manager,Lagos,Male,White,2022-03-31,33.0,2.9,2.4,2.0,0,,,0,25-36m,68000,40800.0,2.4,1,2022.0
+EMP02183,Finance,Senior Manager,London,Female,Other / prefer not to say,2020-09-28,51.0,4.3,3.7,0.0,0,,,0,37-60m,88000,52800.0,1.06,0,2020.0
+EMP02187,Finance,Senior Analyst,Manchester,Female,White,2022-08-30,28.0,2.7,3.5,3.0,0,,,0,25-36m,52000,31200.0,1.82,0,2022.0
+EMP01720,Customer Success,Senior Analyst,London,Female,Black / African / Caribbean,2023-01-30,23.0,3.1,3.4,6.0,0,,,0,13-24m,52000,31200.0,1.72,0,2023.0
+EMP01152,Sales & Commercial,Senior Analyst,London,Female,White,2022-10-30,26.0,3.4,3.9,9.0,0,,,0,25-36m,52000,31200.0,1.3,0,2022.0
+EMP01113,Legal & Compliance,Senior Analyst,London,Female,White,2022-03-31,33.0,3.4,4.4,8.0,0,,,0,25-36m,52000,31200.0,1.0,0,2022.0
+EMP01928,Operations,Analyst,Manchester,Female,Not disclosed,2024-08-01,5.0,3.7,2.9,5.0,0,,,0,0-6m,38000,22800.0,1.78,0,2024.0
+EMP01424,Operations,Director,London,Female,White,2019-01-27,71.0,3.5,4.4,1.0,0,,,0,60m+,118000,70800.0,0.96,0,2019.0
+EMP01963,Sales & Commercial,Senior Analyst,Dublin,Female,Other / prefer not to say,2021-09-29,39.0,2.8,2.2,13.0,1,Compensation,2023-08-19,0,37-60m,52000,31200.0,2.56,1,2021.0
+EMP02106,Technology,Senior Analyst,Manchester,Male,Black / African / Caribbean,2021-12-29,36.0,2.6,3.1,10.0,0,,,0,25-36m,52000,31200.0,2.1,1,2021.0
+EMP01462,Finance,Senior Analyst,London,Male,Asian / Asian British,2023-08-31,16.0,2.8,4.2,7.0,0,,,0,13-24m,52000,31200.0,1.36,0,2023.0
+EMP02152,Customer Success,Senior Manager,London,Male,White,2021-10-29,38.0,3.1,3.6,6.0,0,,,0,37-60m,88000,52800.0,1.6,0,2021.0
+EMP01001,Sales & Commercial,Manager,London,Male,White,2022-11-30,25.0,3.6,3.8,13.0,0,,,0,25-36m,68000,40800.0,1.28,0,2022.0
+EMP01788,Operations,Senior Analyst,London,Male,White,2024-07-01,6.0,3.9,4.8,7.0,0,,,0,0-6m,52000,31200.0,0.56,0,2024.0
+EMP01946,Technology,Senior Manager,Dublin,Female,Black / African / Caribbean,2019-05-29,67.0,3.1,3.9,7.0,0,,,0,60m+,88000,52800.0,1.42,0,2019.0
+EMP01877,Customer Success,Analyst,Amsterdam,Male,White,2023-05-01,20.0,2.8,3.0,1.0,0,,,0,13-24m,38000,22800.0,2.08,1,2023.0
+EMP01712,Operations,Senior Manager,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2020-12-28,48.0,3.1,3.5,4.0,0,,,0,37-60m,88000,52800.0,1.66,0,2020.0
+EMP01663,Finance,Analyst,Manchester,Male,White,2024-12-01,1.0,1.8,3.1,9.0,0,,,0,0-6m,38000,22800.0,2.42,1,2024.0
+EMP01674,Operations,Senior Manager,London,Male,Black / African / Caribbean,2020-06-28,54.0,2.4,4.1,10.0,0,,,0,37-60m,88000,52800.0,1.58,0,2020.0
+EMP01908,Sales & Commercial,Senior Manager,London,Male,White,2020-04-28,56.0,3.4,3.7,3.0,1,Compensation,2024-11-07,0,37-60m,88000,52800.0,1.42,0,2020.0
+EMP01412,Marketing,Manager,Manchester,Male,White,2022-05-31,31.0,3.4,4.0,8.0,0,,,0,25-36m,68000,40800.0,1.24,0,2022.0
+EMP01323,Finance,Senior Analyst,Dublin,Female,White,2024-04-01,9.0,3.0,3.2,8.0,0,,,0,7-12m,52000,31200.0,1.88,0,2024.0
+EMP01002,Marketing,Analyst,London,Female,White,2023-08-31,16.0,1.5,3.9,12.0,0,,,0,13-24m,38000,22800.0,2.06,1,2023.0
+EMP02137,People & Culture,Senior Analyst,London,Female,Black / African / Caribbean,2023-10-01,15.0,4.4,3.3,9.0,0,,,0,13-24m,52000,31200.0,1.26,0,2023.0
+EMP01436,Customer Success,Analyst,Amsterdam,Non-binary / prefer not to say,White,2024-03-01,10.0,1.5,3.9,3.0,0,,,0,7-12m,38000,22800.0,2.06,1,2024.0
+EMP01453,Operations,Analyst,London,Female,Black / African / Caribbean,2023-03-01,22.0,3.4,3.2,9.0,1,Career growth,2024-08-15,0,13-24m,38000,22800.0,1.72,0,2023.0
+EMP01039,Finance,Director,Manchester,Male,White,2018-12-27,72.0,4.4,3.9,0.0,0,,,0,60m+,118000,70800.0,0.9,0,2018.0
+EMP01184,People & Culture,Analyst,London,Female,Asian / Asian British,2023-10-31,14.0,2.4,2.2,7.0,0,,,0,13-24m,38000,22800.0,2.72,1,2023.0
+EMP01218,Customer Success,Analyst,London,Female,White,2023-08-31,16.0,3.3,3.4,20.0,0,,,0,13-24m,38000,22800.0,1.64,0,2023.0
+EMP01985,Customer Success,Manager,London,Female,White,2021-08-29,40.0,2.7,2.7,14.0,0,,,0,37-60m,68000,40800.0,2.3,1,2021.0
+EMP01307,Operations,Manager,London,Female,White,2020-08-28,52.0,3.0,3.5,6.0,0,,,0,37-60m,68000,40800.0,1.7,0,2020.0
+EMP02090,Sales & Commercial,Analyst,London,Non-binary / prefer not to say,Not disclosed,2023-10-31,14.0,2.0,2.7,17.0,1,Career growth,,1,13-24m,38000,22800.0,2.58,1,2023.0
+EMP01550,Customer Success,Analyst,Lagos,Female,Black / African / Caribbean,2023-07-01,18.0,1.7,3.3,13.0,0,,,0,13-24m,38000,22800.0,2.34,1,2023.0
+EMP01314,Marketing,Analyst,London,Non-binary / prefer not to say,Black / African / Caribbean,2023-03-01,22.0,3.4,1.7,19.0,0,,,0,13-24m,38000,22800.0,2.62,1,2023.0
+EMP01860,Technology,Senior Analyst,Amsterdam,Female,Black / African / Caribbean,2023-06-01,19.0,3.0,3.2,7.0,0,,,0,13-24m,52000,31200.0,1.88,0,2023.0
+EMP01332,Customer Success,Manager,Manchester,Male,White,2023-03-01,22.0,3.7,3.3,7.0,1,Relocation,2023-12-19,0,13-24m,68000,40800.0,1.54,0,2023.0
+EMP01037,Sales & Commercial,Senior Manager,London,Female,White,2019-08-28,64.0,3.8,1.8,9.0,1,Management,2020-08-07,0,60m+,88000,52800.0,2.4,1,2019.0
+EMP02036,Finance,Manager,London,Non-binary / prefer not to say,Black / African / Caribbean,2022-01-29,35.0,3.4,3.7,5.0,1,Career growth,2022-09-15,0,25-36m,68000,40800.0,1.42,0,2022.0
+EMP02131,Customer Success,Analyst,London,Male,White,2024-05-01,8.0,2.6,2.7,0.0,1,Better opportunity,2024-08-26,0,7-12m,38000,22800.0,2.34,1,2024.0
+EMP02110,Technology,Senior Analyst,London,Female,White,2024-03-01,10.0,3.0,3.6,13.0,0,,,0,7-12m,52000,31200.0,1.64,0,2024.0
+EMP01959,Technology,Senior Analyst,Amsterdam,Female,White,2023-03-01,22.0,4.0,2.3,16.0,0,,,0,13-24m,52000,31200.0,2.02,1,2023.0
+EMP01757,Finance,Manager,Lagos,Male,White,2022-08-30,28.0,2.3,4.1,7.0,0,,,0,25-36m,68000,40800.0,1.62,0,2022.0
+EMP01578,Legal & Compliance,Senior Analyst,London,Female,White,2023-12-31,12.0,4.3,2.9,1.0,0,,,0,7-12m,52000,31200.0,1.54,0,2023.0
+EMP01996,Technology,Senior Analyst,Lagos,Female,Asian / Asian British,2023-06-01,19.0,2.5,3.5,9.0,0,,,0,13-24m,52000,31200.0,1.9,0,2023.0
+EMP01434,Technology,Manager,London,Non-binary / prefer not to say,White,2021-03-30,45.0,4.8,4.2,3.0,0,,,0,37-60m,68000,40800.0,0.56,0,2021.0
+EMP01164,Operations,Manager,London,Male,Asian / Asian British,2022-01-29,35.0,4.0,3.4,11.0,0,,,0,25-36m,68000,40800.0,1.36,0,2022.0
+EMP01264,Operations,Manager,Dublin,Male,White,2022-01-29,35.0,3.4,4.2,14.0,0,,,0,25-36m,68000,40800.0,1.12,0,2022.0
+EMP01232,Operations,Senior Analyst,Dublin,Female,White,2022-11-30,25.0,2.2,2.3,0.0,1,Compensation,2024-01-31,0,25-36m,52000,31200.0,2.74,1,2022.0
+EMP01303,Operations,Analyst,London,Female,White,2023-06-01,19.0,2.9,2.6,7.0,0,,,0,13-24m,38000,22800.0,2.28,1,2023.0
+EMP01176,Technology,Senior Manager,Manchester,Female,White,2021-06-29,42.0,3.0,3.6,2.0,0,,,0,37-60m,88000,52800.0,1.64,0,2021.0
+EMP01760,Customer Success,Manager,London,Male,Black / African / Caribbean,2021-02-27,46.0,3.0,4.1,18.0,0,,,0,37-60m,68000,40800.0,1.34,0,2021.0
+EMP01150,Sales & Commercial,Analyst,London,Female,Asian / Asian British,2022-11-30,25.0,3.3,3.7,6.0,0,,,0,25-36m,38000,22800.0,1.46,0,2022.0
+EMP02172,Marketing,Senior Manager,Manchester,Male,White,2019-08-28,64.0,3.4,3.4,7.0,0,,,0,60m+,88000,52800.0,1.6,0,2019.0
+EMP01072,Technology,Senior Manager,Lagos,Male,White,2021-02-27,46.0,3.2,4.8,4.0,0,,,0,37-60m,88000,52800.0,0.84,0,2021.0
+EMP01169,Technology,Analyst,Amsterdam,Male,Other / prefer not to say,2024-05-01,8.0,2.7,5.0,10.0,0,,,0,7-12m,38000,22800.0,0.92,0,2024.0
+EMP01456,Operations,Director,Manchester,Not disclosed,White,2018-10-27,74.0,2.7,4.0,1.0,0,,,0,60m+,118000,70800.0,1.52,0,2018.0
+EMP01090,Operations,Analyst,London,Male,Black / African / Caribbean,2024-03-01,10.0,3.4,3.6,0.0,0,,,0,7-12m,38000,22800.0,1.48,0,2024.0
+EMP01118,Technology,Manager,Manchester,Male,White,2021-08-29,40.0,2.9,3.8,7.5,1,Management,,1,37-60m,68000,40800.0,1.56,0,2021.0
+EMP01966,Sales & Commercial,Director,Manchester,Female,Asian / Asian British,2019-08-28,64.0,2.9,2.7,7.0,1,Better opportunity,2020-02-22,0,60m+,118000,70800.0,2.22,1,2019.0
+EMP01322,Customer Success,Director,Dublin,Male,Mixed / Multiple ethnic groups,2019-03-29,69.0,3.9,5.0,3.0,0,,,0,60m+,118000,70800.0,0.44,0,2019.0
+EMP01933,Marketing,Senior Analyst,London,Male,Black / African / Caribbean,2023-08-01,17.0,3.3,2.6,8.0,1,Compensation,2024-06-06,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP01460,Technology,Senior Analyst,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2023-04-01,21.0,3.3,2.7,7.0,1,Career growth,2024-03-02,0,13-24m,52000,31200.0,2.06,1,2023.0
+EMP02195,Technology,Senior Manager,Manchester,Male,White,2019-12-28,60.0,3.6,3.9,5.0,0,,,0,37-60m,88000,52800.0,1.22,0,2019.0
+EMP01800,Legal & Compliance,Analyst,London,Male,Black / African / Caribbean,2024-08-31,4.0,2.5,2.7,17.0,1,Career growth,2024-11-20,0,0-6m,38000,22800.0,2.38,1,2024.0
+EMP01879,Technology,Director,London,Female,Black / African / Caribbean,2018-06-27,78.0,4.0,3.3,8.0,0,,,0,60m+,118000,70800.0,1.42,0,2018.0
+EMP01242,Marketing,Analyst,London,Male,Black / African / Caribbean,2024-12-01,1.0,2.2,2.3,8.0,1,Work-life balance,2025-01-31,0,0-6m,38000,22800.0,2.74,1,2024.0
+EMP01847,Technology,Analyst,Manchester,Male,White,2024-12-01,1.0,3.7,2.4,3.0,1,Better opportunity,2025-01-30,0,0-6m,38000,22800.0,2.08,1,2024.0
+EMP01271,Customer Success,Senior Analyst,Manchester,Male,White,2024-08-31,4.0,4.9,2.1,20.0,0,,,0,0-6m,52000,31200.0,1.78,0,2024.0
+EMP01112,Technology,Senior Manager,Amsterdam,Female,White,2020-08-28,52.0,3.4,2.3,7.5,0,,,0,37-60m,88000,52800.0,2.26,1,2020.0
+EMP01596,Operations,Analyst,Amsterdam,Male,White,2023-10-31,14.0,3.1,3.5,4.0,0,,,0,13-24m,38000,22800.0,1.66,0,2023.0
+EMP01517,Sales & Commercial,Analyst,Dublin,Female,Not disclosed,2023-05-01,20.0,1.5,1.7,9.0,1,Compensation,2024-05-17,0,13-24m,38000,22800.0,3.38,1,2023.0
+EMP01227,Marketing,Analyst,London,Male,White,2024-01-31,11.0,3.2,2.8,8.0,0,,,0,7-12m,38000,22800.0,2.04,1,2024.0
+EMP01497,Operations,Analyst,Manchester,Male,White,2023-07-01,18.0,4.0,2.9,13.0,0,,,0,13-24m,38000,22800.0,1.66,0,2023.0
+EMP01499,Marketing,Director,London,Male,Not disclosed,2017-06-26,90.0,3.3,4.5,11.0,0,,,0,60m+,118000,70800.0,0.98,0,2017.0
+EMP02034,Technology,Senior Manager,London,Female,White,2020-10-28,50.0,3.3,2.8,1.0,1,Better opportunity,2024-01-26,0,37-60m,88000,52800.0,2.0,0,2020.0
+EMP01196,Sales & Commercial,Senior Manager,Dublin,Female,Mixed / Multiple ethnic groups,2020-04-28,56.0,4.6,3.6,9.0,0,,,0,37-60m,88000,52800.0,1.0,0,2020.0
+EMP01337,People & Culture,Analyst,Lagos,Male,Black / African / Caribbean,2024-01-31,11.0,3.8,2.7,7.0,0,,,0,7-12m,38000,22800.0,1.86,0,2024.0
+EMP01775,Customer Success,Analyst,London,Female,Black / African / Caribbean,,,2.8,4.4,10.0,0,,,0,nan,38000,22800.0,1.24,0,
+EMP01865,Operations,Analyst,Dublin,Female,Not disclosed,2023-08-31,16.0,4.2,3.1,12.0,0,,,0,13-24m,38000,22800.0,1.46,0,2023.0
+EMP01719,Technology,Senior Analyst,London,Male,White,2023-08-01,17.0,3.5,2.8,0.0,0,,,0,13-24m,52000,31200.0,1.92,0,2023.0
+EMP01138,Customer Success,Manager,London,Female,White,2022-06-30,30.0,3.2,4.2,8.0,0,,,0,25-36m,68000,40800.0,1.2,0,2022.0
+EMP01813,Technology,Senior Manager,London,Female,Asian / Asian British,2020-10-28,50.0,2.9,2.6,4.0,1,Career growth,2021-11-15,0,37-60m,88000,52800.0,2.28,1,2020.0
+EMP01529,Technology,Senior Manager,Dublin,Male,White,2019-06-28,66.0,3.3,3.0,10.0,0,,,0,60m+,88000,52800.0,1.88,0,2019.0
+EMP01508,Customer Success,Analyst,London,Male,White,2023-05-01,20.0,3.5,4.2,7.0,1,Better opportunity,2024-02-01,0,13-24m,38000,22800.0,1.08,0,2023.0
+EMP01727,Technology,Manager,Dublin,Male,Black / African / Caribbean,2022-11-30,25.0,3.4,5.0,4.0,0,,,0,25-36m,68000,40800.0,0.64,0,2022.0
+EMP01394,Customer Success,Analyst,London,Male,Mixed / Multiple ethnic groups,2024-08-01,5.0,2.1,2.1,7.0,1,Compensation,2024-11-16,0,0-6m,38000,22800.0,2.9,1,2024.0
+EMP01383,Finance,Manager,Lagos,Male,White,2022-02-28,34.0,4.3,4.7,7.0,0,,,0,25-36m,68000,40800.0,0.46,0,2022.0
+EMP01222,Operations,Senior Analyst,Amsterdam,Male,White,2022-05-31,31.0,2.7,2.9,9.0,0,,,0,25-36m,52000,31200.0,2.18,1,2022.0
+EMP01976,Sales & Commercial,Senior Manager,Dublin,Male,Not disclosed,2020-04-28,56.0,3.3,3.2,7.0,0,,,0,37-60m,88000,52800.0,1.76,0,2020.0
+EMP01678,Sales & Commercial,Senior Analyst,London,Male,Black / African / Caribbean,2022-03-31,33.0,3.4,2.5,1.0,1,Career growth,2024-07-11,0,25-36m,52000,31200.0,2.14,1,2022.0
+EMP01904,Operations,Manager,London,Male,White,2021-05-30,43.0,2.7,3.6,12.0,0,,,0,37-60m,68000,40800.0,1.76,0,2021.0
+EMP01329,Operations,Senior Manager,London,Female,White,2020-10-28,50.0,4.6,3.3,15.0,0,,,0,37-60m,88000,52800.0,1.18,0,2020.0
+EMP01013,Customer Success,Analyst,Manchester,Male,White,2022-08-30,28.0,3.4,1.7,5.0,1,Better opportunity,2022-11-23,0,25-36m,38000,22800.0,2.62,1,2022.0
+EMP01889,Technology,Senior Manager,Amsterdam,Female,White,2020-10-28,50.0,5.0,3.1,16.0,1,Career growth,2022-02-07,0,37-60m,88000,52800.0,1.14,0,2020.0
+EMP01084,Technology,Analyst,London,Male,White,2024-04-01,9.0,2.5,5.0,5.0,0,,,0,7-12m,38000,22800.0,1.0,0,2024.0
+EMP01207,Technology,Senior Manager,London,Male,Asian / Asian British,2019-09-28,63.0,3.6,3.7,6.0,0,,,0,60m+,88000,52800.0,1.34,0,2019.0
+EMP01104,Operations,Senior Analyst,Lagos,Female,White,2023-03-01,22.0,3.3,2.9,9.0,1,Better opportunity,2023-08-03,0,13-24m,52000,31200.0,1.94,0,2023.0
+EMP01310,Sales & Commercial,Manager,London,Male,Other / prefer not to say,2023-06-01,19.0,2.8,5.0,7.0,0,,,0,13-24m,68000,40800.0,0.88,0,2023.0
+EMP01755,Technology,Director,London,Female,Asian / Asian British,2018-11-27,73.0,3.3,3.6,17.0,0,,,0,60m+,118000,70800.0,1.52,0,2018.0
+EMP02078,Finance,Senior Analyst,Manchester,Non-binary / prefer not to say,Black / African / Caribbean,2023-06-01,19.0,4.3,4.5,11.0,0,,,0,13-24m,52000,31200.0,0.58,0,2023.0
+EMP01181,Sales & Commercial,Analyst,London,Male,Other / prefer not to say,2023-05-01,20.0,3.4,3.1,5.0,1,Better opportunity,2024-04-09,0,13-24m,38000,22800.0,1.78,0,2023.0
+EMP01857,Technology,Senior Analyst,Dublin,Female,Black / African / Caribbean,2022-03-31,33.0,2.5,3.5,11.0,0,,,0,25-36m,52000,31200.0,1.9,0,2022.0
+EMP02146,People & Culture,Manager,London,Male,White,2021-09-29,39.0,4.9,4.6,13.0,0,,,0,37-60m,68000,40800.0,0.28,0,2021.0
+EMP01498,Technology,Analyst,London,Male,Black / African / Caribbean,2023-04-01,21.0,2.8,2.3,11.0,0,,,0,13-24m,38000,22800.0,2.5,1,2023.0
+EMP01317,Operations,Manager,Manchester,Female,White,2021-01-28,47.0,2.3,3.5,14.0,0,,,0,37-60m,68000,40800.0,1.98,0,2021.0
+EMP01142,Sales & Commercial,Senior Analyst,Dublin,Female,White,2022-12-30,24.0,3.6,5.0,5.0,0,,,0,13-24m,52000,31200.0,0.56,0,2022.0
+EMP01973,Customer Success,Analyst,London,Male,White,2024-05-01,8.0,3.25,2.9,7.0,0,,,0,7-12m,38000,22800.0,1.96,0,2024.0
+EMP01328,Finance,Senior Analyst,London,Female,White,2023-08-01,17.0,3.1,2.1,12.0,0,,,0,13-24m,52000,31200.0,2.5,1,2023.0
+EMP01661,Sales & Commercial,Manager,London,Male,Asian / Asian British,2021-11-29,37.0,4.5,3.2,10.0,0,,,0,37-60m,68000,40800.0,1.28,0,2021.0
+EMP01347,Finance,Senior Manager,Manchester,Female,Black / African / Caribbean,2020-03-29,57.0,2.8,2.2,10.0,0,,,0,37-60m,88000,52800.0,2.56,1,2020.0
+EMP01211,Operations,Analyst,Amsterdam,Female,White,2023-12-31,12.0,3.1,2.5,3.0,0,,,0,7-12m,38000,22800.0,2.26,1,2023.0
+EMP01568,Operations,Senior Analyst,Manchester,Male,White,2022-12-30,24.0,3.0,2.1,3.0,0,,,0,13-24m,52000,31200.0,2.54,1,2022.0
+EMP01143,Operations,Senior Manager,Amsterdam,Female,Asian / Asian British,2021-01-28,47.0,4.8,5.0,11.0,0,,,0,37-60m,88000,52800.0,0.08,0,2021.0
+EMP01515,Technology,Analyst,London,Female,White,2024-07-01,6.0,2.6,4.2,7.5,0,,,0,0-6m,38000,22800.0,1.44,0,2024.0
+EMP01363,Operations,Manager,Manchester,Male,White,2022-02-28,34.0,2.7,2.4,7.0,1,Better opportunity,2024-09-20,0,25-36m,68000,40800.0,2.48,1,2022.0
+EMP01005,Technology,Senior Analyst,Dublin,Male,Asian / Asian British,2023-10-31,14.0,4.2,3.8,9.0,0,,,0,13-24m,52000,31200.0,1.04,0,2023.0
+EMP01045,Sales & Commercial,Manager,London,Female,White,2022-01-29,35.0,4.7,3.9,3.0,0,,,0,25-36m,68000,40800.0,0.78,0,2022.0
+EMP01282,Sales & Commercial,Analyst,Amsterdam,Female,White,2024-04-01,9.0,2.2,3.3,12.0,0,,,0,7-12m,38000,22800.0,2.14,1,2024.0
+EMP01203,Technology,Analyst,Dublin,Female,Asian / Asian British,2024-06-01,7.0,2.5,4.3,16.0,0,,,0,7-12m,38000,22800.0,1.42,0,2024.0
+EMP02107,Sales & Commercial,Analyst,Lagos,Female,White,2024-12-01,1.0,1.5,3.6,5.0,1,Redundancy,2025-01-31,0,0-6m,38000,22800.0,2.24,1,2024.0
+EMP01359,Legal & Compliance,Senior Manager,Dublin,Male,White,2022-01-29,35.0,3.4,2.6,15.0,0,,,0,25-36m,88000,52800.0,2.08,1,2022.0
+EMP01564,Technology,Senior Analyst,Lagos,Male,Black / African / Caribbean,2023-05-01,20.0,3.6,3.2,9.0,0,,,0,13-24m,52000,31200.0,1.64,0,2023.0
+EMP01770,Customer Success,Analyst,London,Male,Other / prefer not to say,2023-08-01,17.0,3.0,2.3,6.0,0,,,0,13-24m,38000,22800.0,2.42,1,2023.0
+EMP01372,Technology,Analyst,London,Female,White,2023-12-31,12.0,3.9,3.3,7.0,1,Compensation,2024-09-10,0,7-12m,38000,22800.0,1.46,0,2023.0
+EMP02005,Customer Success,Manager,Dublin,Female,White,2021-07-30,41.0,4.5,3.3,9.0,0,,,0,37-60m,68000,40800.0,1.22,0,2021.0
+EMP02066,Customer Success,Manager,Dublin,Female,White,2022-03-31,33.0,3.1,2.8,1.0,1,Better opportunity,2024-06-15,0,25-36m,68000,40800.0,2.08,1,2022.0
+EMP01989,Sales & Commercial,Manager,London,Female,Other / prefer not to say,2022-05-31,31.0,3.7,3.7,9.0,0,,,0,25-36m,68000,40800.0,1.3,0,2022.0
+EMP01238,Technology,Manager,Dublin,Male,Other / prefer not to say,2020-10-28,50.0,3.8,4.5,1.0,0,,,0,37-60m,68000,40800.0,0.78,0,2020.0
+EMP02168,Operations,Senior Analyst,Dublin,Male,Not disclosed,2022-04-30,32.0,2.3,4.2,11.0,0,,,0,25-36m,52000,31200.0,1.56,0,2022.0
+EMP01684,Finance,Manager,Manchester,Male,Black / African / Caribbean,2021-06-29,42.0,3.5,3.5,2.0,0,,,0,37-60m,68000,40800.0,1.5,0,2021.0
+EMP01274,Legal & Compliance,Senior Analyst,London,Not disclosed,White,2024-04-01,9.0,4.4,2.7,13.0,0,,,0,7-12m,52000,31200.0,1.62,0,2024.0
+EMP02010,Operations,Senior Manager,London,Male,White,2021-04-29,44.0,4.3,3.5,0.0,1,Work-life balance,2024-03-19,0,37-60m,88000,52800.0,1.18,0,2021.0
+EMP01633,Operations,Manager,Dublin,Male,Black / African / Caribbean,2022-02-28,34.0,3.5,3.9,7.0,0,,,0,25-36m,68000,40800.0,1.26,0,2022.0
+EMP01195,Sales & Commercial,Senior Analyst,London,Male,White,2023-08-01,17.0,4.1,2.1,8.0,0,,,0,13-24m,52000,31200.0,2.1,1,2023.0
+EMP01514,People & Culture,Senior Analyst,Lagos,Male,Other / prefer not to say,2023-04-01,21.0,2.7,5.0,5.0,0,,,0,13-24m,52000,31200.0,0.92,0,2023.0
+EMP01615,People & Culture,Analyst,Manchester,Female,White,2024-04-01,9.0,2.0,2.1,7.0,1,Better opportunity,,1,7-12m,38000,22800.0,2.94,1,2024.0
+EMP01432,Customer Success,Senior Analyst,Dublin,Male,White,2023-03-01,22.0,3.8,3.4,9.0,0,,,0,13-24m,52000,31200.0,1.44,0,2023.0
+EMP01675,Operations,Manager,Manchester,Female,White,2023-05-01,20.0,2.9,5.0,0.0,0,,,0,13-24m,68000,40800.0,0.84,0,2023.0
+EMP01765,Technology,Senior Analyst,London,Not disclosed,Mixed / Multiple ethnic groups,2023-05-01,20.0,4.0,2.6,8.0,0,,,0,13-24m,52000,31200.0,1.84,0,2023.0
+EMP01210,Technology,Senior Manager,London,Male,White,2020-09-28,51.0,3.6,5.0,11.0,0,,,0,37-60m,88000,52800.0,0.56,0,2020.0
+EMP01163,Finance,Manager,London,Female,White,2022-11-30,25.0,3.6,5.0,4.0,0,,,0,25-36m,68000,40800.0,0.56,0,2022.0
+EMP01636,Operations,Manager,London,Male,Asian / Asian British,2022-04-30,32.0,3.4,2.3,14.0,0,,,0,25-36m,68000,40800.0,2.26,1,2022.0
+EMP01986,Operations,Director,Amsterdam,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2019-03-29,69.0,5.0,2.7,0.0,0,,,0,60m+,118000,70800.0,1.38,0,2019.0
+EMP01853,Technology,Analyst,Manchester,Female,Not disclosed,2023-01-30,23.0,3.6,3.8,9.0,0,,,0,13-24m,38000,22800.0,1.28,0,2023.0
+EMP01088,Finance,Senior Analyst,Amsterdam,Male,Black / African / Caribbean,2023-06-01,19.0,4.0,5.0,17.0,0,,,0,13-24m,52000,31200.0,0.4,0,2023.0
+EMP01346,Finance,Senior Analyst,Dublin,Male,Mixed / Multiple ethnic groups,2022-04-30,32.0,3.2,2.4,13.0,1,Career growth,2022-09-18,0,25-36m,52000,31200.0,2.28,1,2022.0
+EMP01960,Customer Success,Manager,Dublin,Non-binary / prefer not to say,White,2023-07-01,18.0,5.0,3.2,6.0,0,,,0,13-24m,68000,40800.0,1.08,0,2023.0
+EMP01718,Marketing,Manager,London,Male,Asian / Asian British,2023-04-01,21.0,3.6,2.6,4.0,1,Career growth,2024-09-21,0,13-24m,68000,40800.0,2.0,0,2023.0
+EMP01191,Technology,Analyst,Amsterdam,Male,Other / prefer not to say,2023-08-01,17.0,2.6,2.0,10.0,0,,,0,13-24m,38000,22800.0,2.76,1,2023.0
+EMP01753,Finance,Manager,Dublin,Male,Other / prefer not to say,2023-12-31,12.0,3.5,3.8,5.0,0,,,0,7-12m,68000,40800.0,1.32,0,2023.0
+EMP01179,Legal & Compliance,Senior Analyst,London,Female,White,2023-08-31,16.0,3.2,2.7,12.0,1,Compensation,2024-04-21,0,13-24m,52000,31200.0,2.1,1,2023.0
+EMP01769,Sales & Commercial,Senior Analyst,Dublin,Male,Asian / Asian British,2022-07-31,29.0,4.1,3.3,15.0,1,Relocation,2023-01-24,0,25-36m,52000,31200.0,1.38,0,2022.0
+EMP01557,Technology,Director,Dublin,Female,White,2019-07-29,65.0,4.0,5.0,5.0,0,,,0,60m+,118000,70800.0,0.4,0,2019.0
+EMP02056,Sales & Commercial,Senior Analyst,London,Male,Asian / Asian British,2021-07-30,41.0,4.8,3.6,5.0,0,,,0,37-60m,52000,31200.0,0.92,0,2021.0
+EMP01393,Sales & Commercial,Analyst,Manchester,Female,Not disclosed,2023-07-01,18.0,3.4,2.2,9.0,0,,,0,13-24m,38000,22800.0,2.32,1,2023.0
+EMP02175,Finance,Manager,Amsterdam,Male,White,2022-02-28,34.0,3.4,3.0,7.0,0,,,0,25-36m,68000,40800.0,1.84,0,2022.0
+EMP01823,Sales & Commercial,Director,London,Female,Asian / Asian British,2019-01-27,71.0,2.3,4.0,16.0,0,,,0,60m+,118000,70800.0,1.68,0,2019.0
+EMP01745,Sales & Commercial,Manager,London,Female,Black / African / Caribbean,2022-02-28,34.0,3.5,2.7,9.0,1,Better opportunity,2024-05-06,0,25-36m,68000,40800.0,1.98,0,2022.0
+EMP01838,Sales & Commercial,Analyst,Lagos,Female,Asian / Asian British,2024-10-31,2.0,2.7,3.5,2.0,0,,,0,0-6m,38000,22800.0,1.82,0,2024.0
+EMP02165,Technology,Senior Analyst,Manchester,Female,White,2024-07-01,6.0,5.0,3.6,8.0,0,,,0,0-6m,52000,31200.0,0.84,0,2024.0
+EMP02067,Sales & Commercial,Manager,Manchester,Male,Asian / Asian British,2021-07-30,41.0,3.5,3.0,4.0,1,Compensation,2022-11-13,0,37-60m,68000,40800.0,1.8,0,2021.0
+EMP01512,Operations,Analyst,London,Female,Black / African / Caribbean,2023-07-01,18.0,3.7,4.0,11.0,0,,,0,13-24m,38000,22800.0,1.12,0,2023.0
+EMP01914,Operations,Senior Manager,London,Female,Other / prefer not to say,2021-12-29,36.0,3.9,4.7,6.0,0,,,0,25-36m,88000,52800.0,0.62,0,2021.0
+EMP01440,Technology,Senior Manager,London,Not disclosed,White,2021-07-30,41.0,3.5,5.0,12.0,0,,,0,37-60m,88000,52800.0,0.6,0,2021.0
+EMP01729,Technology,Manager,Lagos,Male,White,2022-01-29,35.0,4.1,4.0,5.0,1,Compensation,2023-10-17,0,25-36m,68000,40800.0,0.96,0,2022.0
+EMP01472,Marketing,Senior Manager,Lagos,Female,White,2019-11-28,61.0,4.0,5.0,8.0,0,,,0,60m+,88000,52800.0,0.4,0,2019.0
+EMP01399,Customer Success,Analyst,Lagos,Female,White,2023-08-31,16.0,4.0,3.3,6.0,0,,,0,13-24m,38000,22800.0,1.42,0,2023.0
+EMP02006,Finance,Senior Manager,Amsterdam,Female,White,2019-04-28,68.0,3.3,3.0,5.0,1,Career growth,2019-12-19,0,60m+,88000,52800.0,1.88,0,2019.0
+EMP01036,Customer Success,Senior Analyst,London,Female,White,2023-06-01,19.0,4.2,3.0,4.0,0,,,0,13-24m,52000,31200.0,1.52,0,2023.0
+EMP01206,Technology,Senior Analyst,Manchester,Non-binary / prefer not to say,White,2022-02-28,34.0,2.9,4.5,7.0,0,,,0,25-36m,52000,31200.0,1.14,0,2022.0
+EMP01609,Operations,Analyst,Dublin,Male,White,2024-12-01,1.0,3.3,4.2,3.0,0,,,0,0-6m,38000,22800.0,1.16,0,2024.0
+EMP02054,Customer Success,Senior Manager,London,Female,Asian / Asian British,2020-01-28,59.0,3.2,2.9,10.0,0,,,0,37-60m,88000,52800.0,1.98,0,2020.0
+EMP01828,Sales & Commercial,Director,London,Male,White,2018-05-28,79.0,3.8,1.2,9.0,1,Better opportunity,2021-07-09,0,60m+,118000,70800.0,2.76,1,2018.0
+EMP01044,Legal & Compliance,Senior Manager,Amsterdam,Male,White,2019-11-28,61.0,3.2,4.3,3.0,0,,,0,60m+,88000,52800.0,1.14,0,2019.0
+EMP01262,Marketing,Manager,Amsterdam,Female,Mixed / Multiple ethnic groups,2021-07-30,41.0,4.2,3.8,0.0,0,,,0,37-60m,68000,40800.0,1.04,0,2021.0
+EMP02011,Sales & Commercial,Manager,London,Male,White,2021-12-29,36.0,4.4,2.5,18.0,0,,,0,25-36m,68000,40800.0,1.74,0,2021.0
+EMP01430,Technology,Senior Analyst,London,Male,Black / African / Caribbean,2024-12-01,1.0,4.1,3.7,11.0,0,,,0,0-6m,52000,31200.0,1.14,0,2024.0
+EMP01229,People & Culture,Manager,Manchester,Female,Black / African / Caribbean,2022-04-30,32.0,3.6,3.3499999999999996,8.0,0,,,0,25-36m,68000,40800.0,1.55,0,2022.0
+EMP01725,Operations,Manager,Dublin,Female,White,2022-07-31,29.0,2.6,4.8,6.0,0,,,0,25-36m,68000,40800.0,1.08,0,2022.0
+EMP01006,Technology,Manager,Manchester,Male,White,2021-12-29,36.0,2.4,2.4,1.0,1,Management,2023-12-13,0,25-36m,68000,40800.0,2.6,1,2021.0
+EMP02190,Customer Success,Manager,London,Male,Not disclosed,2021-11-29,37.0,2.9,2.9,11.0,0,,,0,37-60m,68000,40800.0,2.1,1,2021.0
+EMP01811,Marketing,Analyst,London,Male,White,2022-12-30,24.0,2.0,2.9,8.0,1,Better opportunity,2024-05-18,0,13-24m,38000,22800.0,2.46,1,2022.0
+EMP02128,Operations,Analyst,Dublin,Female,Black / African / Caribbean,2024-08-01,5.0,3.6,4.2,8.0,0,,,0,0-6m,38000,22800.0,1.04,0,2024.0
+EMP01586,Sales & Commercial,Senior Manager,Lagos,Female,White,2020-09-28,51.0,3.7,4.7,9.0,0,,,0,37-60m,88000,52800.0,0.7,0,2020.0
+EMP01728,Customer Success,Senior Analyst,London,Non-binary / prefer not to say,White,2023-06-01,19.0,3.5,3.7,8.0,0,,,0,13-24m,52000,31200.0,1.38,0,2023.0
+EMP01319,Technology,Analyst,Amsterdam,Female,Asian / Asian British,2023-06-01,19.0,2.7,3.2,10.0,0,,,0,13-24m,38000,22800.0,2.0,0,2023.0
+EMP01630,Sales & Commercial,Analyst,Manchester,Male,Black / African / Caribbean,2023-12-01,13.0,4.0,1.7,2.0,0,,,0,13-24m,38000,22800.0,2.38,1,2023.0
+EMP02121,People & Culture,Senior Manager,London,Male,Not disclosed,2019-12-28,60.0,4.3,3.2,4.0,0,,,0,37-60m,88000,52800.0,1.36,0,2019.0
+EMP01035,Marketing,Manager,Lagos,Male,White,2022-12-30,24.0,3.4,3.7,8.0,0,,,0,13-24m,68000,40800.0,1.42,0,2022.0
+EMP01313,Technology,Director,London,Male,Black / African / Caribbean,2018-04-27,80.0,3.3,3.4,2.0,0,,,0,60m+,118000,70800.0,1.64,0,2018.0
+EMP01171,Finance,Director,London,Female,White,2019-11-28,61.0,2.9,5.0,12.0,0,,,0,60m+,118000,70800.0,0.84,0,2019.0
+EMP01076,Customer Success,Analyst,Amsterdam,Male,Black / African / Caribbean,2023-07-01,18.0,2.0,4.4,0.0,1,Better opportunity,2024-06-27,0,13-24m,38000,22800.0,1.56,0,2023.0
+EMP01174,Sales & Commercial,Senior Analyst,Manchester,Female,Black / African / Caribbean,2022-05-31,31.0,4.0,2.2,1.0,1,Compensation,2023-10-05,0,25-36m,52000,31200.0,2.08,1,2022.0
+EMP01095,Customer Success,Senior Manager,Manchester,Male,Not disclosed,2020-06-28,54.0,4.4,3.5,11.0,0,,,0,37-60m,88000,52800.0,1.14,0,2020.0
+EMP01052,Customer Success,Senior Analyst,Lagos,Male,White,2023-12-31,12.0,3.6,2.4,13.0,0,,,0,7-12m,52000,31200.0,2.12,1,2023.0
+EMP01552,People & Culture,Analyst,Dublin,Male,Other / prefer not to say,2023-08-01,17.0,2.9,3.7,9.0,0,,,0,13-24m,38000,22800.0,1.62,0,2023.0
+EMP01789,Operations,Senior Analyst,Amsterdam,Male,Mixed / Multiple ethnic groups,2023-10-31,14.0,3.7,2.3,2.0,1,Management,,1,13-24m,52000,31200.0,2.14,1,2023.0
+EMP02086,Operations,Analyst,Manchester,Male,White,2023-12-01,13.0,2.5,2.5,9.0,0,,,0,13-24m,38000,22800.0,2.5,1,2023.0
+EMP01420,Customer Success,Manager,London,Male,White,2022-09-30,27.0,2.8,3.3,7.0,0,,,0,25-36m,68000,40800.0,1.9,0,2022.0
+EMP01748,Operations,Analyst,Dublin,Female,White,2023-03-01,22.0,2.7,3.4,10.0,0,,,0,13-24m,38000,22800.0,1.88,0,2023.0
+EMP01221,Finance,Senior Analyst,Dublin,Male,Black / African / Caribbean,2022-07-31,29.0,2.8,3.1,7.0,1,Management,2023-01-06,0,25-36m,52000,31200.0,2.02,1,2022.0
+EMP01509,Legal & Compliance,Manager,London,Female,Not disclosed,2022-02-28,34.0,2.2,2.5,14.0,1,Compensation,2024-11-19,0,25-36m,68000,40800.0,2.62,1,2022.0
+EMP01711,Customer Success,Senior Analyst,Manchester,Male,White,2023-12-01,13.0,2.7,3.5,10.0,1,Work-life balance,2024-08-14,0,13-24m,52000,31200.0,1.82,0,2023.0
+EMP01931,Technology,Analyst,Manchester,Male,Asian / Asian British,2023-12-31,12.0,4.5,4.0,1.0,0,,,0,7-12m,38000,22800.0,0.8,0,2023.0
+EMP01608,Sales & Commercial,Analyst,London,Female,White,2023-06-01,19.0,2.4,2.1,6.0,1,Compensation,2024-08-16,0,13-24m,38000,22800.0,2.78,1,2023.0
+EMP01388,Technology,Senior Analyst,London,Male,White,2022-06-30,30.0,3.2,3.5,11.0,0,,,0,25-36m,52000,31200.0,1.62,0,2022.0
+EMP01094,Operations,Manager,London,Male,White,2021-10-29,38.0,3.6,2.6,8.0,0,,,0,37-60m,68000,40800.0,2.0,0,2021.0
+EMP01752,Legal & Compliance,Analyst,London,Female,White,2023-12-31,12.0,3.1,3.5,12.0,0,,,0,7-12m,38000,22800.0,1.66,0,2023.0
+EMP01887,Finance,Analyst,London,Male,White,2023-10-01,15.0,3.1,3.5,14.0,0,,,0,13-24m,38000,22800.0,1.66,0,2023.0
+EMP01652,Operations,Senior Manager,Manchester,Male,White,2019-02-26,70.0,2.5,2.0,9.0,0,,,0,60m+,88000,52800.0,2.8,1,2019.0
+EMP01149,Technology,Director,London,Not disclosed,Asian / Asian British,2018-03-28,81.0,4.8,4.2,4.0,0,,,0,60m+,118000,70800.0,0.56,0,2018.0
+EMP01754,Sales & Commercial,Manager,London,Non-binary / prefer not to say,Not disclosed,2021-05-30,43.0,3.6,3.6,4.0,0,,,0,37-60m,68000,40800.0,1.4,0,2021.0
+EMP01483,Operations,Manager,London,Female,White,2021-09-29,39.0,3.8,4.1,16.0,1,Compensation,2023-03-12,0,37-60m,68000,40800.0,1.02,0,2021.0
+EMP01403,Operations,Analyst,Lagos,Female,Black / African / Caribbean,2024-12-01,1.0,3.4,3.5,4.0,0,,,0,0-6m,38000,22800.0,1.54,0,2024.0
+EMP01250,People & Culture,Manager,Manchester,Male,White,2021-04-29,44.0,3.3,2.9,4.0,0,,,0,37-60m,68000,40800.0,1.94,0,2021.0
+EMP01341,Operations,Manager,London,Female,White,2021-06-29,42.0,3.4,2.6,11.0,0,,,0,37-60m,68000,40800.0,2.08,1,2021.0
+EMP01927,Sales & Commercial,Manager,Amsterdam,Female,White,2020-11-28,49.0,3.1,3.2,9.0,0,,,0,37-60m,68000,40800.0,1.84,0,2020.0
+EMP01201,Finance,Analyst,Manchester,Male,White,2022-09-30,27.0,4.4,1.1,5.0,0,,,0,25-36m,38000,22800.0,2.58,1,2022.0
+EMP01861,Customer Success,Analyst,London,Male,White,2024-08-31,4.0,3.7,3.8,10.0,1,Relocation,2024-12-24,0,0-6m,38000,22800.0,1.24,0,2024.0
+EMP01092,Customer Success,Analyst,London,Female,White,2024-01-31,11.0,2.9,3.3,1.0,0,,,0,7-12m,38000,22800.0,1.86,0,2024.0
+EMP01733,Finance,Senior Analyst,Lagos,Male,Black / African / Caribbean,2024-10-31,2.0,2.8,2.3,11.0,0,,,0,0-6m,52000,31200.0,2.5,1,2024.0
+EMP01541,Marketing,Senior Manager,London,Not disclosed,Asian / Asian British,2021-06-29,42.0,3.7,3.7,8.0,0,,,0,37-60m,88000,52800.0,1.3,0,2021.0
+EMP01692,Operations,Senior Analyst,Lagos,Male,Asian / Asian British,2023-04-01,21.0,3.3,4.8,6.0,0,,,0,13-24m,52000,31200.0,0.8,0,2023.0
+EMP01585,Finance,Manager,Manchester,Male,Black / African / Caribbean,2023-05-01,20.0,4.7,5.0,1.0,0,,,0,13-24m,68000,40800.0,0.12,0,2023.0
+EMP01443,Sales & Commercial,Senior Analyst,Amsterdam,Male,White,2022-09-30,27.0,3.2,2.1,7.0,1,Better opportunity,2024-12-14,0,25-36m,52000,31200.0,2.46,1,2022.0
+EMP01610,Finance,Analyst,London,Male,White,2023-08-31,16.0,1.2,2.0,1.0,0,,,0,13-24m,38000,22800.0,3.32,1,2023.0
+EMP01281,People & Culture,Senior Manager,London,Female,White,2020-06-28,54.0,3.4,4.7,4.0,0,,,0,37-60m,88000,52800.0,0.82,0,2020.0
+EMP01411,Sales & Commercial,Senior Manager,London,Male,Other / prefer not to say,2019-08-28,64.0,3.5,3.4,0.0,1,Better opportunity,2021-04-25,0,60m+,88000,52800.0,1.56,0,2019.0
+EMP01918,Legal & Compliance,Manager,London,Female,White,2021-03-30,45.0,2.8,3.7,6.0,0,,,0,37-60m,68000,40800.0,1.66,0,2021.0
+EMP02048,Technology,Senior Manager,Dublin,Male,Asian / Asian British,2019-12-28,60.0,2.2,3.2,15.0,0,,,0,37-60m,88000,52800.0,2.2,1,2019.0
+EMP01569,Legal & Compliance,Senior Analyst,Lagos,Male,Asian / Asian British,2023-06-01,19.0,4.2,2.8,11.0,0,,,0,13-24m,52000,31200.0,1.64,0,2023.0
+EMP01951,Finance,Senior Analyst,London,Female,White,2024-01-31,11.0,2.8,2.7,3.0,0,,,0,7-12m,52000,31200.0,2.26,1,2024.0
+EMP01695,Technology,Senior Analyst,London,Male,White,2022-05-31,31.0,3.6,3.0,8.0,0,,,0,25-36m,52000,31200.0,1.76,0,2022.0
+EMP02169,Technology,Senior Analyst,Dublin,Female,Not disclosed,2023-04-01,21.0,3.1,3.4,8.0,0,,,0,13-24m,52000,31200.0,1.72,0,2023.0
+EMP01688,Sales & Commercial,Analyst,London,Female,Black / African / Caribbean,2024-12-01,1.0,2.9,2.5,4.0,1,Better opportunity,2025-01-30,0,0-6m,38000,22800.0,2.34,1,2024.0
+EMP01336,Technology,Analyst,Dublin,Female,Not disclosed,2022-08-30,28.0,3.8,4.9,14.0,0,,,0,25-36m,38000,22800.0,0.54,0,2022.0
+EMP01643,Technology,Senior Analyst,London,Female,White,2022-10-30,26.0,3.4,3.9,9.0,0,,,0,25-36m,52000,31200.0,1.3,0,2022.0
+EMP01315,Customer Success,Analyst,London,Non-binary / prefer not to say,White,2024-12-01,1.0,3.5,2.6,7.0,0,,,0,0-6m,38000,22800.0,2.04,1,2024.0
+EMP01783,Sales & Commercial,Senior Analyst,London,Female,Asian / Asian British,2022-03-31,33.0,1.9,3.4,10.0,1,Better opportunity,2023-02-27,0,25-36m,52000,31200.0,2.2,1,2022.0
+EMP01911,Operations,Analyst,Dublin,Male,White,2024-12-01,1.0,4.4,2.6,1.0,1,Work-life balance,2025-01-30,0,0-6m,38000,22800.0,1.68,0,2024.0
+EMP02166,Customer Success,Analyst,Dublin,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2023-03-01,22.0,3.1,4.8,15.0,0,,,0,13-24m,38000,22800.0,0.88,0,2023.0
+EMP02163,Sales & Commercial,Analyst,London,Female,White,2023-08-31,16.0,3.6,3.3,0.0,0,,,0,13-24m,38000,22800.0,1.58,0,2023.0
+EMP01507,Legal & Compliance,Manager,Lagos,Non-binary / prefer not to say,White,2021-11-29,37.0,3.9,4.2,8.0,0,,,0,37-60m,68000,40800.0,0.92,0,2021.0
+EMP01134,Sales & Commercial,Director,London,Female,White,2020-05-29,55.0,3.5,4.1,6.0,0,,,0,37-60m,118000,70800.0,1.14,0,2020.0
+EMP01093,Customer Success,Senior Analyst,Dublin,Female,Not disclosed,2023-04-01,21.0,3.1,4.1,12.0,0,,,0,13-24m,52000,31200.0,1.3,0,2023.0
+EMP01835,Operations,Manager,London,Male,White,2021-02-27,46.0,3.4,4.6,0.0,0,,,0,37-60m,68000,40800.0,0.88,0,2021.0
+EMP01593,Technology,Senior Analyst,Manchester,Female,Asian / Asian British,2023-01-30,23.0,4.1,2.3,7.0,0,,,0,13-24m,52000,31200.0,1.98,0,2023.0
+EMP02051,People & Culture,Analyst,Manchester,Male,White,2023-08-31,16.0,2.9,3.5,9.0,0,,,0,13-24m,38000,22800.0,1.74,0,2023.0
+EMP01395,Sales & Commercial,Manager,London,Female,White,2022-03-31,33.0,3.1,4.6,11.0,0,,,0,25-36m,68000,40800.0,1.0,0,2022.0
+EMP02057,Customer Success,Senior Analyst,Manchester,Female,White,2024-08-31,4.0,3.3,3.6,13.0,1,Work-life balance,2024-12-17,0,0-6m,52000,31200.0,1.52,0,2024.0
+EMP02157,Technology,Senior Manager,London,Male,White,2022-05-31,31.0,3.6,3.5,0.0,0,,,0,25-36m,88000,52800.0,1.46,0,2022.0
+EMP01576,Legal & Compliance,Senior Analyst,London,Non-binary / prefer not to say,Asian / Asian British,2023-12-01,13.0,3.6,4.2,9.0,0,,,0,13-24m,52000,31200.0,1.04,0,2023.0
+EMP01574,Finance,Director,Dublin,Female,Asian / Asian British,2018-02-25,82.0,3.5,3.3,7.0,0,,,0,60m+,118000,70800.0,1.62,0,2018.0
+EMP01279,Customer Success,Manager,London,Female,White,2020-09-28,51.0,4.2,3.9,6.0,0,,,0,37-60m,68000,40800.0,0.98,0,2020.0
+EMP01736,People & Culture,Senior Manager,Manchester,Male,White,2020-04-28,56.0,3.4,3.7,0.0,0,,,0,37-60m,88000,52800.0,1.42,0,2020.0
+EMP01280,Customer Success,Senior Analyst,Manchester,Male,White,2022-07-31,29.0,3.4,4.2,6.0,0,,,0,25-36m,52000,31200.0,1.12,0,2022.0
+EMP01640,Sales & Commercial,Analyst,Manchester,Male,Asian / Asian British,2024-12-01,1.0,2.2,2.7,7.0,0,,,0,0-6m,38000,22800.0,2.5,1,2024.0
+EMP01338,Customer Success,Manager,Manchester,Male,White,2021-10-29,38.0,3.25,1.1,9.0,1,Better opportunity,2023-08-12,0,37-60m,68000,40800.0,3.04,1,2021.0
+EMP01228,Sales & Commercial,Director,Dublin,Female,White,2018-07-28,77.0,2.6,5.0,7.0,0,,,0,60m+,118000,70800.0,0.96,0,2018.0
+EMP01699,Technology,Senior Analyst,London,Male,White,2023-10-01,15.0,2.2,3.9,7.5,0,,,0,13-24m,52000,31200.0,1.78,0,2023.0
+EMP01009,Finance,Analyst,Lagos,Female,White,2023-08-01,17.0,2.2,1.9,0.0,0,,,0,13-24m,38000,22800.0,2.98,1,2023.0
+EMP01086,Sales & Commercial,Senior Analyst,Lagos,Female,Mixed / Multiple ethnic groups,2023-12-01,13.0,3.4,3.1,7.0,0,,,0,13-24m,52000,31200.0,1.78,0,2023.0
+EMP02058,Operations,Senior Analyst,Dublin,Female,White,2023-03-01,22.0,3.3,3.7,7.0,0,,,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP01905,Operations,Manager,London,Female,Mixed / Multiple ethnic groups,2020-04-28,56.0,4.1,3.5,8.0,0,,,0,37-60m,68000,40800.0,1.26,0,2020.0
+EMP01069,Technology,Manager,Manchester,Male,Black / African / Caribbean,2021-07-30,41.0,2.7,4.3,17.0,0,,,0,37-60m,68000,40800.0,1.34,0,2021.0
+EMP02179,Customer Success,Senior Analyst,Dublin,Male,White,2022-09-30,27.0,2.6,3.1,3.0,1,Compensation,2022-12-06,0,25-36m,52000,31200.0,2.1,1,2022.0
+EMP01097,Operations,Analyst,Manchester,Non-binary / prefer not to say,White,2023-04-01,21.0,1.7,3.9,2.0,0,,,0,13-24m,38000,22800.0,1.98,0,2023.0
+EMP01342,Operations,Analyst,London,Female,White,2024-12-01,1.0,2.3,3.9,0.0,0,,,0,0-6m,38000,22800.0,1.74,0,2024.0
+EMP01122,People & Culture,Analyst,London,Female,Asian / Asian British,2023-12-01,13.0,3.7,2.2,0.0,0,,,0,13-24m,38000,22800.0,2.2,1,2023.0
+EMP01157,Finance,Senior Manager,Manchester,Male,White,2020-04-28,56.0,3.8,3.3,10.0,0,,,0,37-60m,88000,52800.0,1.5,0,2020.0
+EMP02135,Finance,Analyst,London,Male,White,2024-08-01,5.0,2.8,4.3,8.0,0,,,0,0-6m,38000,22800.0,1.3,0,2024.0
+EMP01947,Technology,Senior Analyst,London,Male,Black / African / Caribbean,2022-11-30,25.0,3.1,3.1,5.0,0,,,0,25-36m,52000,31200.0,1.9,0,2022.0
+EMP01994,Operations,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2024-04-01,9.0,2.4,2.3,1.0,0,,,0,7-12m,52000,31200.0,2.66,1,2024.0
+EMP01634,Operations,Manager,London,Female,White,2023-04-01,21.0,4.0,2.8,14.0,0,,,0,13-24m,68000,40800.0,1.72,0,2023.0
+EMP01471,Technology,Senior Analyst,Amsterdam,Male,Not disclosed,2023-01-30,23.0,3.0,1.9,9.0,0,,,0,13-24m,52000,31200.0,2.66,1,2023.0
+EMP01558,Technology,Senior Analyst,Amsterdam,Female,Other / prefer not to say,2022-05-31,31.0,4.2,2.1,6.0,0,,,0,25-36m,52000,31200.0,2.06,1,2022.0
+EMP01724,Customer Success,Senior Analyst,Manchester,Female,White,2022-01-29,35.0,4.6,3.3,4.0,0,,,0,25-36m,52000,31200.0,1.18,0,2022.0
+EMP01294,Sales & Commercial,Analyst,Manchester,Male,White,2024-12-01,1.0,2.9,3.3,7.0,1,Compensation,,1,0-6m,38000,22800.0,1.86,0,2024.0
+EMP01773,Technology,Analyst,London,Male,Asian / Asian British,2024-06-01,7.0,2.9,3.7,7.0,0,,,0,7-12m,38000,22800.0,1.62,0,2024.0
+EMP01415,Finance,Senior Analyst,Manchester,Female,Not disclosed,2023-05-01,20.0,3.0,3.7,6.0,0,,,0,13-24m,52000,31200.0,1.58,0,2023.0
+EMP02055,Marketing,Senior Manager,Lagos,Male,White,2020-08-28,52.0,2.6,3.5,14.0,0,,,0,37-60m,88000,52800.0,1.86,0,2020.0
+EMP02153,Finance,Manager,Manchester,Female,Asian / Asian British,2023-04-01,21.0,3.3,3.4,14.0,0,,,0,13-24m,68000,40800.0,1.64,0,2023.0
+EMP01165,Technology,Manager,London,Female,White,2023-06-01,19.0,2.7,2.6,6.0,0,,,0,13-24m,68000,40800.0,2.36,1,2023.0
+EMP01121,Customer Success,Analyst,Dublin,Male,Other / prefer not to say,2023-08-01,17.0,2.8,1.7,12.0,1,Work-life balance,2024-09-30,0,13-24m,38000,22800.0,2.86,1,2023.0
+EMP01906,People & Culture,Senior Analyst,London,Male,White,2024-01-31,11.0,2.1,4.6,5.0,0,,,0,7-12m,52000,31200.0,1.4,0,2024.0
+EMP01697,Sales & Commercial,Manager,Lagos,Male,White,2022-08-30,28.0,3.1,3.1,0.0,1,Work-life balance,2023-04-10,0,25-36m,68000,40800.0,1.9,0,2022.0
+EMP01283,Sales & Commercial,Senior Analyst,London,Non-binary / prefer not to say,Asian / Asian British,2023-03-01,22.0,2.7,4.0,4.0,1,Compensation,2023-07-19,0,13-24m,52000,31200.0,1.52,0,2023.0
+EMP01365,Legal & Compliance,Senior Manager,London,Male,White,2019-10-28,62.0,2.9,3.1,10.0,0,,,0,60m+,88000,52800.0,1.98,0,2019.0
+EMP01747,Sales & Commercial,Senior Analyst,Amsterdam,Female,White,2023-08-01,17.0,2.8,3.2,10.0,0,,,0,13-24m,52000,31200.0,1.96,0,2023.0
+EMP01311,Operations,Senior Manager,Dublin,Male,Other / prefer not to say,2020-08-28,52.0,4.5,4.1,12.0,0,,,0,37-60m,88000,52800.0,0.74,0,2020.0
+EMP01511,Finance,Analyst,London,Female,Not disclosed,2023-06-01,19.0,2.1,3.2,7.0,1,Better opportunity,2024-11-24,0,13-24m,38000,22800.0,2.24,1,2023.0
+EMP01180,Technology,Manager,Manchester,Female,White,2020-11-28,49.0,2.6,2.2,20.0,0,,,0,37-60m,68000,40800.0,2.64,1,2020.0
+EMP01912,Sales & Commercial,Analyst,Dublin,Male,Other / prefer not to say,2022-11-30,25.0,2.5,3.4,2.0,0,,,0,25-36m,38000,22800.0,1.96,0,2022.0
+EMP01810,Technology,Senior Analyst,Manchester,Female,White,2021-10-29,38.0,3.0,4.3,7.0,0,,,0,37-60m,52000,31200.0,1.22,0,2021.0
+EMP01821,Customer Success,Director,Manchester,Male,Not disclosed,2019-02-26,70.0,3.5,4.6,4.0,0,,,0,60m+,118000,70800.0,0.84,0,2019.0
+EMP01070,Marketing,Analyst,Manchester,Male,Asian / Asian British,2024-01-31,11.0,2.7,2.5,4.0,1,Career growth,,1,7-12m,38000,22800.0,2.42,1,2024.0
+EMP01784,Sales & Commercial,Senior Analyst,London,Female,Black / African / Caribbean,2024-07-01,6.0,3.6,3.5,11.0,0,,,0,0-6m,52000,31200.0,1.46,0,2024.0
+EMP01524,People & Culture,Analyst,London,Female,Other / prefer not to say,2024-12-01,1.0,2.4,2.5,11.0,0,,,0,0-6m,38000,22800.0,2.54,1,2024.0
+EMP02149,People & Culture,Manager,London,Male,Black / African / Caribbean,2024-01-31,11.0,3.7,3.0,10.0,0,,,0,7-12m,68000,40800.0,1.72,0,2024.0
+EMP02004,Customer Success,Analyst,London,Male,Asian / Asian British,2024-04-01,9.0,3.4,3.3,13.0,0,,,0,7-12m,38000,22800.0,1.66,0,2024.0
+EMP01805,Operations,Analyst,Dublin,Non-binary / prefer not to say,White,2024-12-01,1.0,3.7,2.1,11.0,0,,,0,0-6m,38000,22800.0,2.26,1,2024.0
+EMP01816,Operations,Senior Analyst,London,Female,Asian / Asian British,2022-10-30,26.0,3.7,4.6,1.0,0,,,0,25-36m,52000,31200.0,0.76,0,2022.0
+EMP01124,Technology,Analyst,London,Male,Mixed / Multiple ethnic groups,2022-01-29,35.0,4.2,3.9,2.0,0,,,0,25-36m,38000,22800.0,0.98,0,2022.0
+EMP01864,Operations,Senior Analyst,London,Male,White,2024-08-31,4.0,4.3,5.0,11.0,0,,,0,0-6m,52000,31200.0,0.28,0,2024.0
+EMP01059,Technology,Analyst,Manchester,Female,Mixed / Multiple ethnic groups,2024-04-01,9.0,3.5,3.0,8.0,0,,,0,7-12m,38000,22800.0,1.8,0,2024.0
+EMP02138,Operations,Senior Analyst,London,Male,White,2023-07-01,18.0,1.8,3.1,0.0,0,,,0,13-24m,52000,31200.0,2.42,1,2023.0
+EMP01364,Operations,Analyst,London,Female,White,2024-05-01,8.0,3.6,3.5,15.0,0,,,0,7-12m,38000,22800.0,1.46,0,2024.0
+EMP01266,Customer Success,Analyst,London,Male,White,2021-05-30,43.0,2.8,1.0,6.0,0,,,0,37-60m,38000,22800.0,3.28,1,2021.0
+EMP01834,Technology,Director,London,Female,White,2018-06-27,78.0,4.0,5.0,12.0,0,,,0,60m+,118000,70800.0,0.4,0,2018.0
+EMP02073,Technology,Senior Analyst,Manchester,Female,Not disclosed,2022-03-31,33.0,3.8,3.8,16.0,1,Career growth,2024-05-29,0,25-36m,52000,31200.0,1.2,0,2022.0
+EMP01249,Marketing,Director,London,Female,White,2019-12-28,60.0,4.4,3.6,6.0,0,,,0,37-60m,118000,70800.0,1.08,0,2019.0
+EMP01381,Technology,Analyst,London,Female,White,2024-01-31,11.0,2.2,3.0,9.0,0,,,0,7-12m,38000,22800.0,2.32,1,2024.0
+EMP01605,Technology,Senior Analyst,Manchester,Male,White,2023-08-31,16.0,2.6,4.2,4.0,0,,,0,13-24m,52000,31200.0,1.44,0,2023.0
+EMP01999,Marketing,Senior Analyst,London,Male,Other / prefer not to say,2023-05-01,20.0,2.8,3.6,9.0,0,,,0,13-24m,52000,31200.0,1.72,0,2023.0
+EMP02069,Sales & Commercial,Analyst,Amsterdam,Female,Asian / Asian British,2023-10-31,14.0,3.6,3.4,12.0,0,,,0,13-24m,38000,22800.0,1.52,0,2023.0
+EMP01551,Operations,Senior Analyst,Amsterdam,Male,Asian / Asian British,2022-04-30,32.0,2.7,2.7,8.0,0,,,0,25-36m,52000,31200.0,2.3,1,2022.0
+EMP01252,Sales & Commercial,Manager,London,Male,Asian / Asian British,2022-02-28,34.0,4.9,2.5,8.0,1,Better opportunity,2024-08-02,0,25-36m,68000,40800.0,1.54,0,2022.0
+EMP01948,Legal & Compliance,Senior Analyst,London,Female,Other / prefer not to say,2023-08-01,17.0,2.2,1.7,10.0,0,,,0,13-24m,52000,31200.0,3.1,1,2023.0
+EMP02130,Sales & Commercial,Analyst,London,Male,Not disclosed,2022-12-30,24.0,3.5,4.0,10.0,0,,,0,13-24m,38000,22800.0,1.2,0,2022.0
+EMP01213,Finance,Analyst,London,Male,Not disclosed,2022-07-31,29.0,3.5,3.45,8.0,0,,,0,25-36m,38000,22800.0,1.53,0,2022.0
+EMP01441,Technology,Senior Analyst,London,Female,Other / prefer not to say,2023-08-01,17.0,4.1,3.9,11.0,0,,,0,13-24m,52000,31200.0,1.02,0,2023.0
+EMP02047,Sales & Commercial,Analyst,Amsterdam,Female,White,2023-12-31,12.0,4.2,2.7,3.0,1,Redundancy,2024-12-01,0,7-12m,38000,22800.0,1.7,0,2023.0
+EMP01565,Sales & Commercial,Analyst,Amsterdam,Female,White,2023-12-31,12.0,3.8,3.9,16.0,1,Better opportunity,,1,7-12m,38000,22800.0,1.14,0,2023.0
+EMP01331,Sales & Commercial,Senior Analyst,Dublin,Female,White,2023-07-01,18.0,3.2,3.6,9.0,0,,,0,13-24m,52000,31200.0,1.56,0,2023.0
+EMP01433,Finance,Manager,London,Male,Black / African / Caribbean,2021-05-30,43.0,4.5,4.4,3.0,0,,,0,37-60m,68000,40800.0,0.56,0,2021.0
+EMP01277,Customer Success,Senior Manager,London,Male,Black / African / Caribbean,2021-02-27,46.0,3.6,3.5,3.0,1,Compensation,2023-06-12,0,37-60m,88000,52800.0,1.46,0,2021.0
+EMP02089,Marketing,Senior Analyst,London,Female,Asian / Asian British,2023-03-01,22.0,4.7,3.2,6.0,0,,,0,13-24m,52000,31200.0,1.2,0,2023.0
+EMP02081,Customer Success,Analyst,London,Male,White,2023-10-31,14.0,3.7,3.3,11.0,0,,,0,13-24m,38000,22800.0,1.54,0,2023.0
+EMP01974,Technology,Senior Manager,Dublin,Female,Black / African / Caribbean,2022-03-31,33.0,3.8,4.0,1.0,0,,,0,25-36m,88000,52800.0,1.08,0,2022.0
+EMP02013,Legal & Compliance,Analyst,London,Female,Asian / Asian British,2024-12-01,1.0,1.8,4.2,7.0,1,Career growth,2025-01-30,0,0-6m,38000,22800.0,1.76,0,2024.0
+EMP01902,Technology,Senior Analyst,Lagos,Female,White,2022-12-30,24.0,3.4,5.0,3.0,0,,,0,13-24m,52000,31200.0,0.64,0,2022.0
+EMP01449,Sales & Commercial,Manager,Manchester,Female,White,2021-10-29,38.0,4.9,4.6,6.0,0,,,0,37-60m,68000,40800.0,0.28,0,2021.0
+EMP01386,Customer Success,Analyst,London,Female,Other / prefer not to say,2024-07-01,6.0,2.7,2.6,3.0,1,Better opportunity,2024-11-19,0,0-6m,38000,22800.0,2.36,1,2024.0
+EMP02028,People & Culture,Manager,Manchester,Female,White,2021-04-29,44.0,3.6,3.3,0.0,0,,,0,37-60m,68000,40800.0,1.58,0,2021.0
+EMP01525,Customer Success,Manager,London,Female,White,2022-05-31,31.0,2.7,2.5,12.0,0,,,0,25-36m,68000,40800.0,2.42,1,2022.0
+EMP01304,Finance,Senior Analyst,London,Male,Not disclosed,2021-03-30,45.0,4.0,3.5,2.0,0,,,0,37-60m,52000,31200.0,1.3,0,2021.0
+EMP01488,Sales & Commercial,Senior Analyst,London,Female,White,2024-03-01,10.0,3.1,3.0,5.0,1,Better opportunity,,1,7-12m,52000,31200.0,1.96,0,2024.0
+EMP02050,Technology,Analyst,London,Male,White,2024-08-01,5.0,4.0,4.0,12.0,0,,,0,0-6m,38000,22800.0,1.0,0,2024.0
+EMP02139,Operations,Analyst,Dublin,Male,White,2024-08-01,5.0,3.9,3.1,13.0,0,,,0,0-6m,38000,22800.0,1.58,0,2024.0
+EMP01941,Sales & Commercial,Senior Manager,Amsterdam,Male,Mixed / Multiple ethnic groups,2021-01-28,47.0,2.7,2.3,6.0,1,Better opportunity,2021-05-07,0,37-60m,88000,52800.0,2.54,1,2021.0
+EMP01068,Customer Success,Senior Analyst,London,Male,White,2022-07-31,29.0,2.5,3.2,0.0,1,Work-life balance,2024-08-21,0,25-36m,52000,31200.0,2.08,1,2022.0
+EMP01020,Sales & Commercial,Analyst,London,Male,Not disclosed,2024-04-01,9.0,3.1,4.0,1.0,0,,,0,7-12m,38000,22800.0,1.36,0,2024.0
+EMP01878,Finance,Senior Analyst,Manchester,Male,White,2023-03-01,22.0,2.4,4.6,15.0,0,,,0,13-24m,52000,31200.0,1.28,0,2023.0
+EMP01325,Marketing,Senior Analyst,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2022-07-31,29.0,4.3,3.55,18.0,0,,,0,25-36m,52000,31200.0,1.15,0,2022.0
+EMP01261,Finance,Senior Analyst,Manchester,Female,Mixed / Multiple ethnic groups,2023-05-01,20.0,3.4,4.3,13.0,0,,,0,13-24m,52000,31200.0,1.06,0,2023.0
+EMP01131,Operations,Senior Analyst,Dublin,Male,White,2023-10-01,15.0,3.4,3.9,1.0,0,,,0,13-24m,52000,31200.0,1.3,0,2023.0
+EMP01410,Technology,Senior Analyst,Dublin,Male,White,2022-09-30,27.0,3.2,2.6,5.0,1,Work-life balance,2024-10-15,0,25-36m,52000,31200.0,2.16,1,2022.0
+EMP01401,Technology,Analyst,Dublin,Female,Not disclosed,2023-10-01,15.0,2.8,4.0,9.0,0,,,0,13-24m,38000,22800.0,1.48,0,2023.0
+EMP01055,Operations,Manager,Manchester,Male,Black / African / Caribbean,2021-05-30,43.0,2.9,5.0,0.0,0,,,0,37-60m,68000,40800.0,0.84,0,2021.0
+EMP01964,Sales & Commercial,Senior Manager,London,Male,White,2020-01-28,59.0,3.2,4.1,7.0,1,Better opportunity,2021-07-31,0,37-60m,88000,52800.0,1.26,0,2020.0
+EMP01932,Customer Success,Analyst,Dublin,Male,White,2024-12-01,1.0,3.3,5.0,2.0,0,,,0,0-6m,38000,22800.0,0.68,0,2024.0
+EMP02142,Sales & Commercial,Analyst,Amsterdam,Male,White,2024-10-31,2.0,3.9,3.4,4.0,0,,,0,0-6m,38000,22800.0,1.4,0,2024.0
+EMP01151,Legal & Compliance,Senior Manager,London,Female,White,2021-03-30,45.0,4.5,2.6,7.0,0,,,0,37-60m,88000,52800.0,1.64,0,2021.0
+EMP02018,Operations,Analyst,Dublin,Female,Black / African / Caribbean,2024-10-31,2.0,3.6,4.4,9.0,1,Work-life balance,2024-12-30,0,0-6m,38000,22800.0,0.92,0,2024.0
+EMP01673,Technology,Senior Analyst,London,Male,White,2023-12-01,13.0,3.3,3.7,1.0,1,Work-life balance,2024-10-08,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP02037,Sales & Commercial,Senior Manager,London,Male,Mixed / Multiple ethnic groups,2020-04-28,56.0,3.6,3.9,4.0,1,Compensation,2021-12-21,0,37-60m,88000,52800.0,1.22,0,2020.0
+EMP02027,People & Culture,Senior Analyst,Manchester,Male,Black / African / Caribbean,2023-08-31,16.0,5.0,2.4,7.0,0,,,0,13-24m,52000,31200.0,1.56,0,2023.0
+EMP01107,Operations,Manager,Amsterdam,Female,Other / prefer not to say,2020-11-28,49.0,4.1,4.3,13.0,0,,,0,37-60m,68000,40800.0,0.78,0,2020.0
+EMP01744,Operations,Manager,Manchester,Female,Asian / Asian British,2020-08-28,52.0,4.0,3.8,20.0,0,,,0,37-60m,68000,40800.0,1.12,0,2020.0
+EMP02126,Operations,Director,London,Male,Black / African / Caribbean,2019-06-28,66.0,3.7,3.6,6.0,1,Career growth,2021-01-15,0,60m+,118000,70800.0,1.36,0,2019.0
+EMP01444,Sales & Commercial,Manager,Lagos,Female,Not disclosed,2020-06-28,54.0,4.3,4.9,9.0,0,,,0,37-60m,68000,40800.0,0.34,0,2020.0
+EMP01750,Finance,Senior Analyst,Manchester,Female,White,2022-10-30,26.0,3.5,3.7,18.0,0,,,0,25-36m,52000,31200.0,1.38,0,2022.0
+EMP01756,Customer Success,Director,Manchester,Female,Black / African / Caribbean,2018-08-27,76.0,3.1,3.0,7.0,0,,,0,60m+,118000,70800.0,1.96,0,2018.0
+EMP01025,Operations,Senior Analyst,London,Male,White,2024-06-01,7.0,3.2,5.0,3.0,0,,,0,7-12m,52000,31200.0,0.72,0,2024.0
+EMP01812,Customer Success,Analyst,Dublin,Male,Black / African / Caribbean,2024-03-01,10.0,2.1,2.7,10.0,0,,,0,7-12m,38000,22800.0,2.54,1,2024.0
+EMP01662,Marketing,Manager,London,Female,White,2021-11-29,37.0,3.1,2.6,16.0,0,,,0,37-60m,68000,40800.0,2.2,1,2021.0
+EMP01839,Operations,Analyst,Manchester,Non-binary / prefer not to say,White,2024-01-31,11.0,3.1,3.2,8.0,0,,,0,7-12m,38000,22800.0,1.84,0,2024.0
+EMP01534,Operations,Senior Analyst,Manchester,Female,White,2023-12-01,13.0,3.9,2.2,6.0,0,,,0,13-24m,52000,31200.0,2.12,1,2023.0
+EMP02100,Sales & Commercial,Senior Analyst,Dublin,Non-binary / prefer not to say,White,2023-05-01,20.0,2.9,3.9,8.0,0,,,0,13-24m,52000,31200.0,1.5,0,2023.0
+EMP01083,Sales & Commercial,Senior Analyst,Lagos,Female,Asian / Asian British,2022-11-30,25.0,3.6,2.4,13.0,0,,,0,25-36m,52000,31200.0,2.12,1,2022.0
+EMP01256,Operations,Director,London,Male,Black / African / Caribbean,2018-12-27,72.0,4.5,4.8,5.0,0,,,0,60m+,118000,70800.0,0.32,0,2018.0
+EMP01935,Technology,Manager,Amsterdam,Female,Black / African / Caribbean,2021-06-29,42.0,3.3,3.6,7.5,0,,,0,37-60m,68000,40800.0,1.52,0,2021.0
+EMP01870,Legal & Compliance,Senior Analyst,Dublin,Female,Asian / Asian British,2023-05-01,20.0,2.7,3.2,13.0,0,,,0,13-24m,52000,31200.0,2.0,0,2023.0
+EMP02125,Finance,Senior Manager,London,Male,White,2022-05-31,31.0,3.4,4.5,8.0,0,,,0,25-36m,88000,52800.0,0.94,0,2022.0
+EMP01893,Customer Success,Analyst,London,Female,Not disclosed,2022-07-31,29.0,3.6,4.1,7.0,0,,,0,25-36m,38000,22800.0,1.1,0,2022.0
+EMP01874,Operations,Senior Manager,Manchester,Male,White,2020-04-28,56.0,3.5,3.3,6.0,0,,,0,37-60m,88000,52800.0,1.62,0,2020.0
+EMP01614,Technology,Analyst,London,Male,White,2022-08-30,28.0,2.8,4.0,1.0,0,,,0,25-36m,38000,22800.0,1.48,0,2022.0
+EMP01380,Sales & Commercial,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2021-01-28,47.0,4.1,4.3,6.0,0,,,0,37-60m,52000,31200.0,0.78,0,2021.0
+EMP01077,Customer Success,Analyst,London,Male,Not disclosed,2022-10-30,26.0,3.9,2.9,6.0,0,,,0,25-36m,38000,22800.0,1.7,0,2022.0
+EMP01389,Customer Success,Senior Analyst,Lagos,Male,Mixed / Multiple ethnic groups,2024-05-01,8.0,3.25,3.8,5.0,1,Work-life balance,2024-10-01,0,7-12m,52000,31200.0,1.42,0,2024.0
+EMP01937,Technology,Analyst,Amsterdam,Male,Black / African / Caribbean,2024-12-01,1.0,2.7,2.8,6.0,0,,,0,0-6m,38000,22800.0,2.24,1,2024.0
+EMP01407,Sales & Commercial,Analyst,Dublin,Male,Asian / Asian British,2024-08-01,5.0,3.2,3.6,3.0,0,,,0,0-6m,38000,22800.0,1.56,0,2024.0
+EMP01292,Technology,Senior Analyst,Manchester,Female,White,2024-07-01,6.0,4.6,2.2,0.0,0,,,0,0-6m,52000,31200.0,1.84,0,2024.0
+EMP01795,Technology,Manager,London,Non-binary / prefer not to say,White,2021-01-28,47.0,2.9,4.1,12.0,0,,,0,37-60m,68000,40800.0,1.38,0,2021.0
+EMP01716,Legal & Compliance,Manager,Amsterdam,Male,Asian / Asian British,2020-07-29,53.0,2.8,3.9,5.0,1,Compensation,2024-01-30,0,37-60m,68000,40800.0,1.54,0,2020.0
+EMP01111,Sales & Commercial,Analyst,London,Male,Mixed / Multiple ethnic groups,2023-07-01,18.0,4.6,3.5,12.0,1,Work-life balance,2024-05-14,0,13-24m,38000,22800.0,1.06,0,2023.0
+EMP01625,Finance,Manager,London,Female,White,2023-06-01,19.0,3.4,2.9,9.0,0,,,0,13-24m,68000,40800.0,1.9,0,2023.0
+EMP02074,Technology,Manager,Dublin,Male,Asian / Asian British,2021-11-29,37.0,4.0,3.2,4.0,1,Career growth,2023-10-28,0,37-60m,68000,40800.0,1.48,0,2021.0
+EMP01247,Operations,Manager,Lagos,Non-binary / prefer not to say,White,2021-09-29,39.0,4.6,3.5,13.0,1,Redundancy,,1,37-60m,68000,40800.0,1.06,0,2021.0
+EMP01146,Technology,Senior Analyst,Manchester,Male,Other / prefer not to say,,,2.7,2.6,13.0,0,,,0,nan,52000,31200.0,2.36,1,
+EMP02133,Technology,Manager,London,Female,White,2022-06-30,30.0,3.7,3.8,7.0,0,,,0,25-36m,68000,40800.0,1.24,0,2022.0
+EMP01129,Technology,Manager,London,Male,Asian / Asian British,2022-05-31,31.0,3.5,3.5,4.0,0,,,0,25-36m,68000,40800.0,1.5,0,2022.0
+EMP02116,Operations,Analyst,Lagos,Male,White,2024-10-31,2.0,3.0,3.2,5.0,0,,,0,0-6m,38000,22800.0,1.88,0,2024.0
+EMP01623,Sales & Commercial,Manager,Dublin,Female,Other / prefer not to say,2022-06-30,30.0,3.3,2.9,11.0,0,,,0,25-36m,68000,40800.0,1.94,0,2022.0
+EMP02198,Marketing,Analyst,Manchester,Female,Asian / Asian British,2023-08-31,16.0,4.0,2.3,1.0,0,,,0,13-24m,38000,22800.0,2.02,1,2023.0
+EMP01461,Technology,Manager,Amsterdam,Male,White,2021-07-30,41.0,2.4,1.2,7.0,1,Better opportunity,2024-11-11,0,37-60m,68000,40800.0,3.32,1,2021.0
+EMP01487,Technology,Senior Manager,Manchester,Male,Other / prefer not to say,2020-12-28,48.0,3.9,2.0,6.0,0,,,0,37-60m,88000,52800.0,2.24,1,2020.0
+EMP02155,Finance,Manager,London,Female,White,2022-08-30,28.0,3.6,2.2,3.0,0,,,0,25-36m,68000,40800.0,2.24,1,2022.0
+EMP01091,Technology,Senior Analyst,London,Female,White,2023-12-01,13.0,5.0,2.2,6.0,0,,,0,13-24m,52000,31200.0,1.68,0,2023.0
+EMP01493,Sales & Commercial,Senior Analyst,Dublin,Male,White,2020-09-28,51.0,2.9,5.0,2.0,0,,,0,37-60m,52000,31200.0,0.84,0,2020.0
+EMP01057,Technology,Analyst,London,Male,White,2024-12-01,1.0,3.4,2.5,1.0,0,,,0,0-6m,38000,22800.0,2.14,1,2024.0
+EMP01405,Sales & Commercial,Analyst,Manchester,Male,Other / prefer not to say,2023-08-31,16.0,3.6,4.5,13.0,0,,,0,13-24m,38000,22800.0,0.86,0,2023.0
+EMP01600,Technology,Analyst,Amsterdam,Female,Asian / Asian British,2024-04-01,9.0,3.4,3.9,11.0,1,Career growth,2024-08-06,0,7-12m,38000,22800.0,1.3,0,2024.0
+EMP01098,Operations,Analyst,Amsterdam,Female,White,2024-12-01,1.0,2.7,2.4,3.0,0,,,0,0-6m,38000,22800.0,2.48,1,2024.0
+EMP01827,Sales & Commercial,Manager,London,Male,White,2022-01-29,35.0,4.9,3.4,4.0,1,Management,2022-04-02,0,25-36m,68000,40800.0,1.0,0,2022.0
+EMP01480,Operations,Manager,London,Male,White,2022-11-30,25.0,3.4,4.3,2.0,0,,,0,25-36m,68000,40800.0,1.06,0,2022.0
+EMP01324,Sales & Commercial,Analyst,Manchester,Male,White,2024-12-01,1.0,1.6,3.1,17.0,1,Better opportunity,2025-01-30,0,0-6m,38000,22800.0,2.5,1,2024.0
+EMP01099,Technology,Manager,Lagos,Female,White,2021-04-29,44.0,2.4,3.9,0.0,0,,,0,37-60m,68000,40800.0,1.7,0,2021.0
+EMP01425,Technology,Analyst,London,Female,White,2023-12-01,13.0,4.6,2.7,10.0,1,Compensation,2024-12-06,0,13-24m,38000,22800.0,1.54,0,2023.0
+EMP01297,Customer Success,Manager,Dublin,Male,Not disclosed,2020-12-28,48.0,4.1,3.8,2.0,0,,,0,37-60m,68000,40800.0,1.08,0,2020.0
+EMP01738,Customer Success,Senior Manager,Dublin,Female,Not disclosed,2020-05-29,55.0,4.1,3.6,7.0,0,,,0,37-60m,88000,52800.0,1.2,0,2020.0
+EMP02147,Customer Success,Manager,London,Male,White,2022-09-30,27.0,3.9,3.2,11.0,1,Compensation,2024-07-23,0,25-36m,68000,40800.0,1.52,0,2022.0
+EMP01903,Technology,Analyst,Manchester,Male,White,2024-08-31,4.0,3.4,3.6,11.0,0,,,0,0-6m,38000,22800.0,1.48,0,2024.0
+EMP01602,Sales & Commercial,Manager,Dublin,Male,Other / prefer not to say,2021-01-28,47.0,4.4,3.9,20.0,0,,,0,37-60m,68000,40800.0,0.9,0,2021.0
+EMP02000,Operations,Senior Analyst,Manchester,Male,White,2023-03-01,22.0,3.9,2.6,0.0,0,,,0,13-24m,52000,31200.0,1.88,0,2023.0
+EMP01396,Legal & Compliance,Senior Analyst,Manchester,Male,Asian / Asian British,2023-04-01,21.0,3.7,4.6,12.0,0,,,0,13-24m,52000,31200.0,0.76,0,2023.0
+EMP01427,Operations,Analyst,Dublin,Male,Black / African / Caribbean,2024-03-01,10.0,1.7,1.0,9.0,0,,,0,7-12m,38000,22800.0,3.72,1,2024.0
+EMP02101,Technology,Senior Manager,London,Male,Black / African / Caribbean,2021-06-29,42.0,4.0,4.0,7.5,0,,,0,37-60m,88000,52800.0,1.0,0,2021.0
+EMP02039,Technology,Analyst,Lagos,Female,Black / African / Caribbean,2022-06-30,30.0,2.4,3.9,6.0,0,,,0,25-36m,38000,22800.0,1.7,0,2022.0
+EMP01253,People & Culture,Senior Manager,London,Female,White,2020-01-28,59.0,3.6,4.9,11.0,0,,,0,37-60m,88000,52800.0,0.62,0,2020.0
+EMP01239,Finance,Analyst,Lagos,Female,Black / African / Caribbean,2022-09-30,27.0,2.5,4.4,10.0,0,,,0,25-36m,38000,22800.0,1.36,0,2022.0
+EMP01845,Technology,Senior Manager,Dublin,Male,Black / African / Caribbean,2021-01-28,47.0,4.2,2.8,1.0,0,,,0,37-60m,88000,52800.0,1.64,0,2021.0
+EMP01846,Operations,Manager,London,Non-binary / prefer not to say,White,2021-11-29,37.0,3.7,3.3,6.0,1,Work-life balance,2023-01-28,0,37-60m,68000,40800.0,1.54,0,2021.0
+EMP01555,People & Culture,Director,Lagos,Male,White,2020-01-28,59.0,3.5,3.7,5.0,0,,,0,37-60m,118000,70800.0,1.38,0,2020.0
+EMP01546,Sales & Commercial,Senior Analyst,London,Female,White,2024-04-01,9.0,2.7,4.0,6.0,1,Compensation,2024-11-11,0,7-12m,52000,31200.0,1.52,0,2024.0
+EMP01251,Sales & Commercial,Senior Analyst,London,Male,White,2022-12-30,24.0,2.1,3.3,14.0,0,,,0,13-24m,52000,31200.0,2.18,1,2022.0
+EMP01740,Sales & Commercial,Analyst,London,Male,White,2023-10-01,15.0,2.6,5.0,4.0,0,,,0,13-24m,38000,22800.0,0.96,0,2023.0
+EMP01965,Sales & Commercial,Senior Analyst,Lagos,Not disclosed,Mixed / Multiple ethnic groups,2023-07-01,18.0,2.8,2.8,10.0,0,,,0,13-24m,52000,31200.0,2.2,1,2023.0
+EMP01199,People & Culture,Manager,London,Male,Asian / Asian British,2021-02-27,46.0,3.7,3.0,13.0,0,,,0,37-60m,68000,40800.0,1.72,0,2021.0
+EMP01898,People & Culture,Manager,London,Male,White,2021-09-29,39.0,3.2,3.4,8.0,1,Management,2022-10-24,0,37-60m,68000,40800.0,1.68,0,2021.0
+EMP02070,Sales & Commercial,Senior Analyst,London,Female,Black / African / Caribbean,2023-06-01,19.0,2.1,3.3,16.0,0,,,0,13-24m,52000,31200.0,2.18,1,2023.0
+EMP01990,Customer Success,Manager,Dublin,Female,White,2020-07-29,53.0,3.1,2.7,2.0,0,,,0,37-60m,68000,40800.0,2.14,1,2020.0
+EMP02041,Operations,Manager,London,Non-binary / prefer not to say,White,2021-06-29,42.0,4.8,2.9,12.0,0,,,0,37-60m,68000,40800.0,1.34,0,2021.0
+EMP01244,Sales & Commercial,Senior Analyst,Manchester,Male,Black / African / Caribbean,2024-05-01,8.0,3.1,3.3,9.0,0,,,0,7-12m,52000,31200.0,1.78,0,2024.0
+EMP01067,Technology,Senior Analyst,London,Female,Not disclosed,2024-12-01,1.0,3.6,3.1,12.0,0,,,0,0-6m,52000,31200.0,1.7,0,2024.0
+EMP02167,Customer Success,Analyst,Manchester,Female,Mixed / Multiple ethnic groups,,,2.5,3.3,15.0,0,,,0,nan,38000,22800.0,2.02,1,
+EMP01934,Operations,Senior Analyst,London,Male,White,2024-06-01,7.0,4.0,3.1,12.0,0,,,0,7-12m,52000,31200.0,1.54,0,2024.0
+EMP01360,Operations,Senior Manager,London,Male,White,2021-02-27,46.0,4.6,4.7,8.0,0,,,0,37-60m,88000,52800.0,0.34,0,2021.0
+EMP01096,Operations,Analyst,Manchester,Male,White,2023-06-01,19.0,2.0,4.1,6.0,0,,,0,13-24m,38000,22800.0,1.74,0,2023.0
+EMP02189,Sales & Commercial,Manager,London,Female,Black / African / Caribbean,2020-12-28,48.0,3.2,4.7,7.0,0,,,0,37-60m,68000,40800.0,0.9,0,2020.0
+EMP01522,Sales & Commercial,Analyst,Dublin,Female,White,2024-12-01,1.0,2.7,2.7,12.0,1,Better opportunity,2025-01-31,0,0-6m,38000,22800.0,2.3,1,2024.0
+EMP01975,Technology,Analyst,Amsterdam,Female,White,2023-04-01,21.0,2.3,3.7,10.0,0,,,0,13-24m,38000,22800.0,1.86,0,2023.0
+EMP01666,Technology,Director,London,Male,White,2018-05-28,79.0,3.3,2.9,13.0,1,Compensation,2024-04-13,0,60m+,118000,70800.0,1.94,0,2018.0
+EMP01362,Finance,Analyst,London,Male,White,2022-07-31,29.0,3.4,2.3,1.0,0,,,0,25-36m,38000,22800.0,2.26,1,2022.0
+EMP01485,Operations,Analyst,London,Male,White,2023-10-31,14.0,2.2,3.5,9.0,0,,,0,13-24m,38000,22800.0,2.02,1,2023.0
+EMP01312,Technology,Manager,Manchester,Male,Asian / Asian British,2022-09-30,27.0,4.2,3.4,5.0,0,,,0,25-36m,68000,40800.0,1.28,0,2022.0
+EMP01843,Technology,Senior Analyst,Manchester,Male,White,2023-12-31,12.0,2.5,4.7,6.0,0,,,0,7-12m,52000,31200.0,1.18,0,2023.0
+EMP01414,Operations,Senior Analyst,London,Male,Asian / Asian British,2023-01-30,23.0,3.4,4.2,10.0,0,,,0,13-24m,52000,31200.0,1.12,0,2023.0
+EMP01032,Technology,Analyst,Amsterdam,Male,Asian / Asian British,2023-10-01,15.0,2.1,1.6,7.5,1,Compensation,2024-03-23,0,13-24m,38000,22800.0,3.2,1,2023.0
+EMP01766,Operations,Manager,Manchester,Female,White,2022-07-31,29.0,4.3,4.2,0.0,0,,,0,25-36m,68000,40800.0,0.76,0,2022.0
+EMP01459,Technology,Senior Analyst,London,Female,White,2023-10-01,15.0,1.9,2.6,18.0,1,Compensation,2024-06-11,0,13-24m,52000,31200.0,2.68,1,2023.0
+EMP01340,Technology,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2023-06-01,19.0,3.8,3.2,5.0,0,,,0,13-24m,52000,31200.0,1.56,0,2023.0
+EMP01287,Operations,Senior Analyst,London,Female,Asian / Asian British,2023-01-30,23.0,3.1,3.7,7.0,0,,,0,13-24m,52000,31200.0,1.54,0,2023.0
+EMP01950,Operations,Senior Manager,London,Female,Black / African / Caribbean,2020-10-28,50.0,3.6,3.7,6.0,0,,,0,37-60m,88000,52800.0,1.34,0,2020.0
+EMP01140,Marketing,Analyst,Dublin,Female,Asian / Asian British,2022-11-30,25.0,2.0,4.9,7.0,0,,,0,25-36m,38000,22800.0,1.26,0,2022.0
+EMP01849,Operations,Senior Analyst,Amsterdam,Male,Black / African / Caribbean,2021-07-30,41.0,4.1,2.7,0.0,0,,,0,37-60m,52000,31200.0,1.74,0,2021.0
+EMP02026,Operations,Senior Analyst,Manchester,Female,White,2023-07-01,18.0,4.6,3.4,8.0,0,,,0,13-24m,52000,31200.0,1.12,0,2023.0
+EMP01901,Technology,Senior Manager,London,Female,White,2020-05-29,55.0,2.8,3.4,6.0,0,,,0,37-60m,88000,52800.0,1.84,0,2020.0
+EMP01732,Customer Success,Senior Analyst,Amsterdam,Male,White,2023-10-31,14.0,1.4,3.3,6.0,0,,,0,13-24m,52000,31200.0,2.46,1,2023.0
+EMP01265,People & Culture,Director,Manchester,Male,Asian / Asian British,2018-05-28,79.0,2.7,3.6,0.0,0,,,0,60m+,118000,70800.0,1.76,0,2018.0
+EMP01275,Operations,Senior Analyst,Amsterdam,Male,Other / prefer not to say,2022-04-30,32.0,3.0,3.5,10.0,0,,,0,25-36m,52000,31200.0,1.7,0,2022.0
+EMP02095,Sales & Commercial,Analyst,Dublin,Male,White,2024-03-01,10.0,3.3,4.1,4.0,0,,,0,7-12m,38000,22800.0,1.22,0,2024.0
+EMP01445,Customer Success,Analyst,Manchester,Male,Black / African / Caribbean,2024-12-01,1.0,3.4,2.1,12.0,0,,,0,0-6m,38000,22800.0,2.38,1,2024.0
+EMP01040,Operations,Analyst,London,Male,White,2024-10-31,2.0,3.1,2.6,4.0,0,,,0,0-6m,38000,22800.0,2.2,1,2024.0
+EMP01022,Technology,Analyst,London,Male,White,2024-06-01,7.0,3.7,2.5,16.0,1,Compensation,2024-10-09,0,7-12m,38000,22800.0,2.02,1,2024.0
+EMP01706,Marketing,Analyst,London,Male,White,2023-01-30,23.0,2.2,3.5,5.0,1,Career growth,2024-11-30,0,13-24m,38000,22800.0,2.02,1,2023.0
+EMP01518,Customer Success,Manager,Amsterdam,Male,Other / prefer not to say,2021-08-29,40.0,3.7,4.8,10.0,0,,,0,37-60m,68000,40800.0,0.64,0,2021.0
+EMP01355,Technology,Analyst,Amsterdam,Male,Black / African / Caribbean,2024-01-31,11.0,2.4,3.1,9.0,0,,,0,7-12m,38000,22800.0,2.18,1,2024.0
+EMP01298,Technology,Senior Analyst,London,Female,White,2023-03-01,22.0,2.9,3.2,7.5,0,,,0,13-24m,52000,31200.0,1.92,0,2023.0
+EMP02077,Sales & Commercial,Manager,Lagos,Male,Asian / Asian British,2019-09-28,63.0,3.4,3.6,11.0,0,,,0,60m+,68000,40800.0,1.48,0,2019.0
+EMP01840,Finance,Analyst,Manchester,Male,Not disclosed,2024-07-01,6.0,3.1,4.4,10.0,0,,,0,0-6m,38000,22800.0,1.12,0,2024.0
+EMP01925,Operations,Director,Dublin,Female,White,2018-02-25,82.0,3.8,4.3,2.0,0,,,0,60m+,118000,70800.0,0.9,0,2018.0
+EMP01123,Sales & Commercial,Senior Manager,London,Female,Black / African / Caribbean,2019-07-29,65.0,3.8,3.6,10.0,0,,,0,60m+,88000,52800.0,1.32,0,2019.0
+EMP02092,Finance,Analyst,Manchester,Not disclosed,Black / African / Caribbean,2023-01-30,23.0,3.1,3.4,12.0,1,Career growth,2024-04-16,0,13-24m,38000,22800.0,1.72,0,2023.0
+EMP01418,Sales & Commercial,Manager,London,Female,Asian / Asian British,2021-09-29,39.0,3.0,3.7,7.0,0,,,0,37-60m,68000,40800.0,1.58,0,2021.0
+EMP01967,Customer Success,Manager,London,Male,White,2022-02-28,34.0,3.5,3.3,10.0,0,,,0,25-36m,68000,40800.0,1.62,0,2022.0
+EMP01158,Customer Success,Senior Analyst,London,Male,Black / African / Caribbean,2022-08-30,28.0,3.3,1.8,9.0,0,,,0,25-36m,52000,31200.0,2.6,1,2022.0
+EMP02064,Operations,Senior Analyst,Manchester,Female,White,2023-05-01,20.0,3.1,2.6,9.0,0,,,0,13-24m,52000,31200.0,2.2,1,2023.0
+EMP01190,Sales & Commercial,Senior Analyst,Dublin,Non-binary / prefer not to say,Asian / Asian British,2022-11-30,25.0,3.4,3.4,16.0,1,Better opportunity,2023-07-07,0,25-36m,52000,31200.0,1.6,0,2022.0
+EMP01590,Technology,Senior Analyst,Amsterdam,Female,Asian / Asian British,2024-03-01,10.0,3.2,2.8,7.0,0,,,0,7-12m,52000,31200.0,2.04,1,2024.0
+EMP01761,Technology,Analyst,London,Male,White,2024-05-01,8.0,2.9,3.6,14.0,0,,,0,7-12m,38000,22800.0,1.68,0,2024.0
+EMP02063,Customer Success,Senior Manager,Manchester,Male,White,2020-09-28,51.0,3.2,3.8,0.0,0,,,0,37-60m,88000,52800.0,1.44,0,2020.0
+EMP01243,Legal & Compliance,Manager,Dublin,Male,White,2023-04-01,21.0,3.7,3.5,6.0,0,,,0,13-24m,68000,40800.0,1.42,0,2023.0
+EMP01885,Customer Success,Senior Analyst,Manchester,Male,White,2023-05-01,20.0,1.9,2.4,8.0,1,Better opportunity,2024-11-30,0,13-24m,52000,31200.0,2.8,1,2023.0
+EMP01621,Technology,Analyst,London,Male,White,2023-12-01,13.0,3.4,4.5,4.0,0,,,0,13-24m,38000,22800.0,0.94,0,2023.0
+EMP01651,Technology,Analyst,London,Male,White,2024-10-31,2.0,2.9,2.9,1.0,0,,,0,0-6m,38000,22800.0,2.1,1,2024.0
+EMP01504,Customer Success,Senior Analyst,London,Male,Mixed / Multiple ethnic groups,2021-06-29,42.0,3.1,4.0,1.0,0,,,0,37-60m,52000,31200.0,1.36,0,2021.0
+EMP01923,People & Culture,Director,Dublin,Female,Asian / Asian British,2019-09-28,63.0,3.7,4.7,7.0,0,,,0,60m+,118000,70800.0,0.7,0,2019.0
+EMP01160,Customer Success,Manager,Manchester,Female,Asian / Asian British,2023-01-30,23.0,3.6,2.8,2.0,0,,,0,13-24m,68000,40800.0,1.88,0,2023.0
+EMP01883,Technology,Senior Analyst,Amsterdam,Female,Mixed / Multiple ethnic groups,2023-08-31,16.0,2.3,2.8,4.0,0,,,0,13-24m,52000,31200.0,2.4,1,2023.0
+EMP01538,Sales & Commercial,Analyst,Manchester,Male,White,2023-06-01,19.0,2.6,3.5,2.0,0,,,0,13-24m,38000,22800.0,1.86,0,2023.0
+EMP01241,Legal & Compliance,Director,London,Female,Asian / Asian British,2019-11-28,61.0,3.4,4.7,6.0,0,,,0,60m+,118000,70800.0,0.82,0,2019.0
+EMP01014,Technology,Manager,London,Female,White,2022-03-31,33.0,4.1,1.6,7.5,0,,,0,25-36m,68000,40800.0,2.4,1,2022.0
+EMP01476,Marketing,Senior Analyst,Manchester,Female,White,2023-08-31,16.0,3.5,1.7,9.0,0,,,0,13-24m,52000,31200.0,2.58,1,2023.0
+EMP02159,People & Culture,Senior Analyst,London,Male,Asian / Asian British,2023-06-01,19.0,3.0,3.8,3.0,0,,,0,13-24m,52000,31200.0,1.52,0,2023.0
+EMP01929,Finance,Senior Manager,London,Female,White,2020-07-29,53.0,3.0,3.1,4.0,0,,,0,37-60m,88000,52800.0,1.94,0,2020.0
+EMP01796,People & Culture,Manager,Manchester,Female,White,2021-12-29,36.0,3.3,3.3499999999999996,8.0,0,,,0,25-36m,68000,40800.0,1.67,0,2021.0
+EMP01356,Finance,Analyst,London,Female,White,2023-08-01,17.0,3.6,4.7,7.0,0,,,0,13-24m,38000,22800.0,0.74,0,2023.0
+EMP02059,Operations,Senior Analyst,Dublin,Male,White,2024-08-01,5.0,3.7,3.0,1.0,0,,,0,0-6m,52000,31200.0,1.72,0,2024.0
+EMP01335,Technology,Senior Analyst,Lagos,Male,Other / prefer not to say,2023-03-01,22.0,3.4,4.5,18.0,0,,,0,13-24m,52000,31200.0,0.94,0,2023.0
+EMP01689,Customer Success,Manager,Manchester,Male,Black / African / Caribbean,2021-12-29,36.0,3.25,3.3,0.0,0,,,0,25-36m,68000,40800.0,1.72,0,2021.0
+EMP01185,Sales & Commercial,Manager,Manchester,Not disclosed,White,2021-02-27,46.0,4.1,2.4,0.0,0,,,0,37-60m,68000,40800.0,1.92,0,2021.0
+EMP01824,Sales & Commercial,Analyst,London,Female,Asian / Asian British,2024-12-01,1.0,1.4,3.2,2.0,0,,,0,0-6m,38000,22800.0,2.52,1,2024.0
+EMP02143,Finance,Analyst,London,Male,Not disclosed,2022-12-30,24.0,3.4,2.4,9.0,0,,,0,13-24m,38000,22800.0,2.2,1,2022.0
+EMP02002,Operations,Analyst,London,Female,White,2024-03-01,10.0,3.1,2.0,17.0,0,,,0,7-12m,38000,22800.0,2.56,1,2024.0
+EMP01188,Operations,Analyst,Dublin,Male,Not disclosed,2022-12-30,24.0,2.9,4.6,7.0,0,,,0,13-24m,38000,22800.0,1.08,0,2022.0
+EMP01942,Operations,Senior Analyst,Manchester,Female,White,2020-10-28,50.0,3.0,4.3,8.0,0,,,0,37-60m,52000,31200.0,1.22,0,2020.0
+EMP01285,Operations,Senior Analyst,London,Female,White,2024-12-01,1.0,3.3,2.9,11.0,0,,,0,0-6m,52000,31200.0,1.94,0,2024.0
+EMP01900,Technology,Senior Analyst,Amsterdam,Male,White,2022-06-30,30.0,2.8,2.1,10.0,0,,,0,25-36m,52000,31200.0,2.62,1,2022.0
+EMP01166,Customer Success,Analyst,London,Male,Not disclosed,2024-12-01,1.0,3.2,2.4,12.0,1,Compensation,2025-01-30,0,0-6m,38000,22800.0,2.28,1,2024.0
+EMP01348,Technology,Senior Analyst,London,Female,Not disclosed,2021-12-29,36.0,3.3,4.3,6.0,0,,,0,25-36m,52000,31200.0,1.1,0,2021.0
+EMP01299,Finance,Senior Analyst,Dublin,Female,White,2024-04-01,9.0,3.5,4.0,15.0,0,,,0,7-12m,52000,31200.0,1.2,0,2024.0
+EMP01536,Legal & Compliance,Senior Manager,London,Male,Other / prefer not to say,2020-12-28,48.0,3.3,3.8,5.0,0,,,0,37-60m,88000,52800.0,1.4,0,2020.0
+EMP01230,Finance,Senior Manager,London,Male,White,2021-05-30,43.0,4.2,5.0,9.0,0,,,0,37-60m,88000,52800.0,0.32,0,2021.0
+EMP01042,Operations,Manager,Manchester,Female,Other / prefer not to say,2021-12-29,36.0,2.0,3.6,0.0,0,,,0,25-36m,68000,40800.0,2.04,1,2021.0
+EMP01869,People & Culture,Analyst,Manchester,Non-binary / prefer not to say,White,2024-03-01,10.0,2.4,4.0,8.0,0,,,0,7-12m,38000,22800.0,1.64,0,2024.0
+EMP01749,Legal & Compliance,Senior Analyst,Dublin,Female,White,2021-07-30,41.0,3.1,3.3,4.0,0,,,0,37-60m,52000,31200.0,1.78,0,2021.0
+EMP02177,Customer Success,Senior Analyst,London,Male,White,2021-10-29,38.0,3.25,3.2,14.0,0,,,0,37-60m,52000,31200.0,1.78,0,2021.0
+EMP01447,Marketing,Analyst,Dublin,Male,Asian / Asian British,2024-03-01,10.0,3.7,3.3,15.0,1,Relocation,2024-07-01,0,7-12m,38000,22800.0,1.54,0,2024.0
+EMP01350,Finance,Manager,Manchester,Male,White,2021-11-29,37.0,3.6,3.2,8.0,0,,,0,37-60m,68000,40800.0,1.64,0,2021.0
+EMP01046,Finance,Manager,London,Male,White,2020-12-28,48.0,3.9,3.8,14.0,0,,,0,37-60m,68000,40800.0,1.16,0,2020.0
+EMP02182,Sales & Commercial,Senior Manager,Amsterdam,Male,Not disclosed,2020-02-27,58.0,2.9,3.9,6.0,0,,,0,37-60m,88000,52800.0,1.5,0,2020.0
+EMP02060,Finance,Senior Analyst,Manchester,Female,Black / African / Caribbean,2024-12-01,1.0,4.0,4.4,0.0,0,,,0,0-6m,52000,31200.0,0.76,0,2024.0
+EMP01109,Sales & Commercial,Senior Analyst,Amsterdam,Male,Asian / Asian British,2023-12-01,13.0,4.0,2.6,4.0,1,Compensation,2024-05-28,0,13-24m,52000,31200.0,1.84,0,2023.0
+EMP01030,Technology,Senior Analyst,Amsterdam,Female,White,2022-08-30,28.0,4.8,3.8,0.0,0,,,0,25-36m,52000,31200.0,0.8,0,2022.0
+EMP01182,Technology,Senior Analyst,Amsterdam,Male,White,2023-01-30,23.0,2.7,4.1,10.0,0,,,0,13-24m,52000,31200.0,1.46,0,2023.0
+EMP01622,Technology,Analyst,London,Female,White,2023-01-30,23.0,2.6,3.5,12.0,0,,,0,13-24m,38000,22800.0,1.86,0,2023.0
+EMP01635,Technology,Senior Manager,London,Male,Black / African / Caribbean,2019-05-29,67.0,4.6,3.4,6.0,0,,,0,60m+,88000,52800.0,1.12,0,2019.0
+EMP01105,Legal & Compliance,Manager,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2022-05-31,31.0,4.1,2.6,9.0,0,,,0,25-36m,68000,40800.0,1.8,0,2022.0
+EMP01061,Sales & Commercial,Analyst,Lagos,Female,Black / African / Caribbean,2024-03-01,10.0,2.4,4.1,7.0,0,,,0,7-12m,38000,22800.0,1.58,0,2024.0
+EMP01659,Finance,Senior Manager,London,Male,Not disclosed,2021-01-28,47.0,3.4,2.2,1.0,0,,,0,37-60m,88000,52800.0,2.32,1,2021.0
+EMP02108,Customer Success,Manager,Manchester,Male,Asian / Asian British,2022-06-30,30.0,3.0,2.6,15.0,0,,,0,25-36m,68000,40800.0,2.24,1,2022.0
+EMP01491,Operations,Analyst,London,Female,White,2024-04-01,9.0,4.0,4.0,0.0,1,Work-life balance,2024-12-23,0,7-12m,38000,22800.0,1.0,0,2024.0
+EMP01316,Finance,Analyst,London,Male,Black / African / Caribbean,2024-01-31,11.0,3.5,3.5,0.0,0,,,0,7-12m,38000,22800.0,1.5,0,2024.0
+EMP01382,Finance,Senior Analyst,Amsterdam,Female,Asian / Asian British,2024-06-01,7.0,3.7,2.4,0.0,0,,,0,7-12m,52000,31200.0,2.08,1,2024.0
+EMP01423,Technology,Senior Analyst,Manchester,Female,White,2023-12-01,13.0,1.8,3.4,9.0,0,,,0,13-24m,52000,31200.0,2.24,1,2023.0
+EMP02186,Legal & Compliance,Manager,London,Male,White,2023-08-01,17.0,3.2,5.0,12.0,0,,,0,13-24m,68000,40800.0,0.72,0,2023.0
+EMP01446,Legal & Compliance,Manager,London,Male,Black / African / Caribbean,2023-08-01,17.0,3.5,2.1,8.0,0,,,0,13-24m,68000,40800.0,2.34,1,2023.0
+EMP01664,Sales & Commercial,Senior Analyst,Manchester,Male,White,2022-06-30,30.0,4.2,4.3,11.0,0,,,0,25-36m,52000,31200.0,0.74,0,2022.0
+EMP02025,Legal & Compliance,Analyst,Amsterdam,Non-binary / prefer not to say,White,2023-08-01,17.0,3.2,2.4,2.0,0,,,0,13-24m,38000,22800.0,2.28,1,2023.0
+EMP01627,Operations,Analyst,Lagos,Male,Other / prefer not to say,2024-12-01,1.0,3.6,3.1,7.0,1,Better opportunity,2025-01-31,0,0-6m,38000,22800.0,1.7,0,2024.0
+EMP02113,Sales & Commercial,Senior Analyst,Lagos,Male,Black / African / Caribbean,2022-07-31,29.0,3.9,4.0,5.0,0,,,0,25-36m,52000,31200.0,1.04,0,2022.0
+EMP02102,Marketing,Senior Analyst,Amsterdam,Male,White,2022-06-30,30.0,2.6,3.8,11.0,0,,,0,25-36m,52000,31200.0,1.68,0,2022.0
+EMP01269,Sales & Commercial,Senior Manager,Dublin,Female,Mixed / Multiple ethnic groups,2020-11-28,49.0,3.2,3.3,7.0,0,,,0,37-60m,88000,52800.0,1.74,0,2020.0
+EMP01930,Sales & Commercial,Senior Analyst,Dublin,Male,Mixed / Multiple ethnic groups,2023-12-31,12.0,4.6,2.6,7.0,0,,,0,7-12m,52000,31200.0,1.6,0,2023.0
+EMP02148,Finance,Senior Analyst,Manchester,Male,White,2022-11-30,25.0,3.2,4.3,8.0,0,,,0,25-36m,52000,31200.0,1.14,0,2022.0
+EMP02120,Technology,Senior Analyst,London,Female,Black / African / Caribbean,2023-08-01,17.0,3.6,3.0,10.0,0,,,0,13-24m,52000,31200.0,1.76,0,2023.0
+EMP01012,Marketing,Senior Analyst,London,Male,Asian / Asian British,2022-10-30,26.0,2.2,2.5,4.0,1,Work-life balance,2023-04-22,0,25-36m,52000,31200.0,2.62,1,2022.0
+EMP01115,Finance,Senior Analyst,Manchester,Non-binary / prefer not to say,White,2024-12-01,1.0,3.3,1.7,6.0,1,Redundancy,2025-01-30,0,0-6m,52000,31200.0,2.66,1,2024.0
+EMP01844,Marketing,Analyst,Dublin,Male,White,2024-12-01,1.0,3.7,3.1,6.0,0,,,0,0-6m,38000,22800.0,1.66,0,2024.0
+EMP01353,Finance,Senior Manager,London,Non-binary / prefer not to say,Mixed / Multiple ethnic groups,2019-09-28,63.0,3.2,2.6,7.0,0,,,0,60m+,88000,52800.0,2.16,1,2019.0
+EMP01774,Sales & Commercial,Senior Analyst,London,Male,Black / African / Caribbean,2022-06-30,30.0,2.5,4.5,13.0,0,,,0,25-36m,52000,31200.0,1.3,0,2022.0
+EMP01691,Sales & Commercial,Analyst,Manchester,Female,White,2023-04-01,21.0,3.4,3.9,17.0,0,,,0,13-24m,38000,22800.0,1.3,0,2023.0
+EMP01791,Technology,Manager,London,Male,White,2021-05-30,43.0,3.7,2.2,5.0,0,,,0,37-60m,68000,40800.0,2.2,1,2021.0
+EMP01532,Marketing,Manager,Dublin,Male,White,2021-08-29,40.0,3.9,3.6,14.0,0,,,0,37-60m,68000,40800.0,1.28,0,2021.0
+EMP01868,Technology,Analyst,Manchester,Male,Asian / Asian British,2023-08-31,16.0,4.0,4.0,9.0,0,,,0,13-24m,38000,22800.0,1.0,0,2023.0
+EMP01170,Operations,Analyst,Lagos,Male,White,2024-12-01,1.0,3.3,4.5,4.0,0,,,0,0-6m,38000,22800.0,0.98,0,2024.0
+EMP01240,Technology,Manager,Dublin,Not disclosed,Mixed / Multiple ethnic groups,2022-01-29,35.0,3.6,3.0,10.0,0,,,0,25-36m,68000,40800.0,1.76,0,2022.0
+EMP02185,Technology,Senior Analyst,London,Male,White,2022-07-31,29.0,4.5,2.0,11.0,0,,,0,25-36m,52000,31200.0,2.0,0,2022.0
+EMP01074,Customer Success,Analyst,Dublin,Male,White,2024-12-01,1.0,3.7,3.6,1.0,0,,,0,0-6m,38000,22800.0,1.36,0,2024.0
+EMP02087,Finance,Director,London,Male,White,2020-01-28,59.0,4.6,1.9,0.0,0,,,0,37-60m,118000,70800.0,2.02,1,2020.0
+EMP01762,Sales & Commercial,Senior Analyst,London,Female,Other / prefer not to say,2021-06-29,42.0,3.6,2.9,22.0,0,,,0,37-60m,52000,31200.0,1.82,0,2021.0
+EMP01741,Operations,Analyst,London,Male,White,2024-05-01,8.0,3.4,2.8,11.0,0,,,0,7-12m,38000,22800.0,1.96,0,2024.0
+EMP01751,Technology,Analyst,Manchester,Female,White,2023-12-31,12.0,3.6,3.2,6.0,0,,,0,7-12m,38000,22800.0,1.64,0,2023.0
+EMP01742,Sales & Commercial,Senior Analyst,Lagos,Male,Black / African / Caribbean,2023-08-31,16.0,3.4,3.7,12.0,1,Better opportunity,2024-10-12,0,13-24m,52000,31200.0,1.42,0,2023.0
+EMP01831,Sales & Commercial,Analyst,Manchester,Female,Asian / Asian British,2024-08-01,5.0,3.3,4.1,9.0,0,,,0,0-6m,38000,22800.0,1.22,0,2024.0
+EMP01048,Operations,Analyst,London,Male,White,2024-12-01,1.0,3.4,3.3,3.0,0,,,0,0-6m,38000,22800.0,1.66,0,2024.0
+EMP01763,Sales & Commercial,Senior Manager,London,Female,White,2020-02-27,58.0,4.0,4.8,3.0,0,,,0,37-60m,88000,52800.0,0.52,0,2020.0
+EMP01592,Finance,Manager,Amsterdam,Female,White,2021-10-29,38.0,4.1,3.7,7.0,0,,,0,37-60m,68000,40800.0,1.14,0,2021.0
+EMP01808,Legal & Compliance,Manager,Dublin,Male,Mixed / Multiple ethnic groups,2021-03-30,45.0,2.8,2.3,10.0,1,Better opportunity,2022-01-12,0,37-60m,68000,40800.0,2.5,1,2021.0
+EMP02084,People & Culture,Analyst,Lagos,Male,Other / prefer not to say,2023-07-01,18.0,3.4,1.8,10.0,0,,,0,13-24m,38000,22800.0,2.56,1,2023.0
+EMP01506,Technology,Analyst,London,Female,White,2022-12-30,24.0,2.9,2.3,12.0,0,,,0,13-24m,38000,22800.0,2.46,1,2022.0
+EMP02045,People & Culture,Senior Manager,Lagos,Female,Mixed / Multiple ethnic groups,2020-02-27,58.0,3.8,2.8,9.0,0,,,0,37-60m,88000,52800.0,1.8,0,2020.0
+EMP01653,Operations,Senior Manager,London,Male,White,2019-10-28,62.0,4.7,3.0,4.0,0,,,0,60m+,88000,52800.0,1.32,0,2019.0
+EMP01193,Legal & Compliance,Analyst,Manchester,Female,White,2023-08-31,16.0,4.2,4.0,8.0,0,,,0,13-24m,38000,22800.0,0.92,0,2023.0
+EMP01245,Technology,Senior Manager,London,Male,Black / African / Caribbean,2019-05-29,67.0,3.5,2.8,12.0,0,,,0,60m+,88000,52800.0,1.92,0,2019.0
+EMP01060,Sales & Commercial,Manager,London,Female,Mixed / Multiple ethnic groups,2022-04-30,32.0,3.7,4.3,19.0,0,,,0,25-36m,68000,40800.0,0.94,0,2022.0
+EMP01177,Finance,Senior Analyst,Lagos,Female,White,2022-12-30,24.0,3.7,4.2,11.0,0,,,0,13-24m,52000,31200.0,1.0,0,2022.0
+EMP01450,Technology,Manager,London,Male,White,2022-05-31,31.0,2.5,2.1,3.0,0,,,0,25-36m,68000,40800.0,2.74,1,2022.0
+EMP01056,Legal & Compliance,Senior Analyst,London,Male,White,2023-10-01,15.0,3.3,4.0,8.0,0,,,0,13-24m,52000,31200.0,1.28,0,2023.0
+EMP01920,Technology,Senior Manager,Dublin,Male,White,2020-06-28,54.0,3.1,3.5,6.0,0,,,0,37-60m,88000,52800.0,1.66,0,2020.0
+EMP02093,Finance,Analyst,Amsterdam,Male,White,2024-07-01,6.0,3.9,4.9,2.0,0,,,0,0-6m,38000,22800.0,0.5,0,2024.0
+EMP02193,Sales & Commercial,Senior Analyst,Manchester,Male,White,2024-08-31,4.0,4.2,2.1,2.0,0,,,0,0-6m,52000,31200.0,2.06,1,2024.0
+EMP01642,Sales & Commercial,Senior Analyst,Lagos,Male,White,2023-04-01,21.0,3.0,4.2,4.0,0,,,0,13-24m,52000,31200.0,1.28,0,2023.0
